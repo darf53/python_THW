@@ -1,8 +1,17 @@
 import sys
 import urllib2
+import sre
 
-filename = "url.txt"
+urls = open("url.txt")
 
-urls = open(filename)
+for url in urls.readlines():
 
-print urls.read()
+  print url
+  website = urllib2.urlopen(url)
+  website_html = website.read()
+  cars = open("car.txt")
+
+  for car in cars.readlines():
+    
+    matches = sre.findall('<a href.*alfa.*</a>', website_html)
+    print matches
