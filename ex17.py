@@ -1,25 +1,39 @@
 from sys import argv
-from os.path import exists
 
-script, from_file, to_file = argv
+script, filename = argv
 
-print "Copying from %s to %s" % (from_file, to_file)
+print "We're going to erase %r." % filename
 
-# we could do these two on one line too, How?
-in_file = open(from_file)
-indata = in_file.read()
+print "If you don't want that, hit CTRL-C(^C)."
 
-print "The input file is %d bytes long" % len(indata)
+print "If you do want to erase the file, hit RETURN."
 
-print "Does the output file exist? %r" % exists(to_file)
-print "Ready, hit RETURN to continue, CTRL-C to abort."
-raw_input()
+raw_input("?")
 
-out_file = open(to_file, 'w')
-out_file.write(indata)
+print "Opening the file..."
+target = open(filename,'r+')
 
-print "Alright, all done."
+print "Current content of the file:"
+print target.read()
 
-out_file.close()
-in_file.close()
+print "Truncating the file, Goodbye...!"
+target.truncate()
+
+print "Now I'm going to ask you for three lines."
+
+line1 = raw_input("Line 1: ")
+line2 = raw_input("Line 2: ")
+line3 = raw_input("Line 3: ")
+
+print "I'm going to write these to the file."
+
+target.write(line1)
+target.write("\n")
+target.write(line2)
+target.write("\n")
+target.write(line3)
+target.write("\n")
+
+print "And finally, we close it."
+target.close()
 
