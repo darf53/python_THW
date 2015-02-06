@@ -39,6 +39,7 @@ def temp(type):
 #print "do you wnat to read temp in F or C? Please typ c or f"
 #type = raw_input(">")
 #print temp(type)
+print temp("c")
 #while True:
 #  print(read_temp())	
 #  time.sleep(1)
