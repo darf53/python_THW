@@ -1,0 +1,3562 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <title>Tweedehands Auto - Occasion | 2dehands.be</title>
+<meta name="description" content="Op zoek naar een tweedehands auto? Naast BMW, Mercedes, Volvo, Audi, Opel en Ford kunt u hier occasies van alle merken kopen en verkopen. Of u nu op zoek bent naar een exclusieve oldtimer, een splinternieuwe auto of een occasie voor een goede prijs – u vindt het allemaal op 2dehands.be met meer dan 100.000 auto zoekertjes." />
+<meta name="robots" content="index, follow" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<link rel="canonical" href="http://www.2dehands.be/autos/?show_markt_uitvoer=1" />
+<link rel="alternate" lang="fr" href="http://www.2ememain.be/autos/?auto_bj__tot=1980&amp;show_markt_uitvoer=1" />
+<link rel="shortcut icon" href="http://img.2dehands.be/favicon.ico" type="image/ico" />
+<link rel="help" href="/faq.html" />
+<link rel="disclaimer" href="/doc/disc.html" />
+<link rel="stylesheet" href="http://img.2dehands.be/css/2241/twh_nl_BE.min.css" type="text/css" />
+<link rel="stylesheet" href="http://img.2dehands.be/css/2241/print.min.css" media="print" type="text/css" />
+<link rel="publisher" href="https://plus.google.com/117078980584018968923" />
+<link rel="next" href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;offset=35" />
+<!--[if IE 7]>
+<link rel="stylesheet" href="http://img.2dehands.be/css/2241/ie7.min.css" type="text/css" />
+<style type="text/css">
+  div { zoom: 1; }
+</style>
+<![endif]-->
+
+<!--[if lte IE 8]>
+<style type="text/css">
+.browser-box-container{overflow:hidden;margin-bottom:20px;background-color:#0b689b;color:#ECECEC;padding:20px 10px}
+.left-box{float:left;width:62%}
+.right-box{float:right;width:35%;margin-top:5px}
+.internet-explorer,.firefox,.chrome,.safari{background:url("http://img.2dehands.be/static/newstyle/sprite_browsers.png") no-repeat;display:block;float:right;text-indent:-9999px;margin-left:15px}
+.internet-explorer{background-position:-281px 0;width:60px;height:59px}
+.firefox{background-position:-92px 2px;width:60px;height:60px}
+.chrome{background-position:0 0;width:60px;height:60px}
+.safari{background-position:-184px 0;width:60px;height:65px}
+.browser-box-title{font-size:1.3em;color:#FFF;padding-bottom:5px;font-weight:700}
+.browser-box-highlight{font-weight:700;color:#FFF}
+</style>
+<div class="browser-box-container">
+  <div class="left-box">
+    <div class="browser-box-title">Wist u dat u met een verouderde browser werkt?</div>
+    <span class="browser-box-text">Om 2dehands.be - en de rest van Internet - op de best mogelijke manier te ervaren raden we u aan om over te stappen op een nieuwere versie.<br/>
+    <span class="browser-box-highlight">Overstappen is gratis.</span> Als u deze boodschap op uw werk ziet, neem dan contact op met uw helpdesk.</span>
+  </div>
+  <div class="right-box">
+    <a href="    http://windows.microsoft.com/nl-be/internet-explorer/download-ie    " class="internet-explorer">Internet Explorer</a>
+    <a class="safari" href="http://www.apple.com/safari/download/">Safari</a>
+    <a class="firefox" href="http://www.mozilla-europe.org/nl">Firefox</a>
+    <a class="chrome" href="http://www.google.com/chrome">Chrome</a>
+  </div>
+</div><![endif]-->
+
+<script type="text/javascript" src="http://img.2dehands.be/css/2241/head-nl_BE.min.js"></script>
+  <script type="text/javascript">
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+<script id="googletag-defineslot">
+googletag.cmd.push(function() {
+    googletag.defineSlot( "/219305991/2dehands_be/auto", [ [728, 90] ], "div-gpt-leaderboard-5044499935497093" )
+      .addService( googletag.pubads() );
+
+      googletag.pubads().setTargeting( "caryear", "01" );
+  googletag.pubads().setTargeting( "page", "lrp" );
+  googletag.pubads().enableAsyncRendering();
+  googletag.pubads().collapseEmptyDivs();
+  googletag.enableServices();
+});
+</script>
+
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3780282-1']);
+  _gaq.push(['_trackPageview']);
+</script>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-42915643-1', '2dehands.be');
+
+var clickSource = document.referrer;
+if (clickSource === "") {
+    clickSource = '(direct)';
+}
+var domain = '2dehands.be'.replace('.','[.]');
+var regex_str = '^(https?://)?([^/]+[.])?' + domain + '(/|$)';
+var internalClick = new RegExp(regex_str,'i').test(clickSource);
+if(!internalClick){
+    ga('set', {
+           'dimension50': '' + clickSource,
+           'metric1': 1
+       });
+};
+
+// Insert any other custom dimensions here
+
+ga('send', 'pageview');
+</script>
+
+</head>
+
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  
+
+  <div id="header">
+    
+<div class="comp-header">
+    <div id="top">
+      <div id="logo">
+        <a href="/">
+          <img class="logo" src="http://img.2dehands.be/logo_2014_wk_nl_BE.png" alt="Het grootste aanbod koopjes vindt u op 2dehands.be. De gratis zoekertjes site voor tweedehands en nieuwe artikelen." title="2dehands.be" width="261" height="55" />
+        </a>
+      </div>
+      <div id="payoff">
+        <div id="header-facebook-like">
+          <iframe
+            src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2F2dehands&amp;send=false&amp;layout=box_count&amp;width=89&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=65"
+            scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:89px; height: 65px;" allowTransparency="true"></iframe>
+        </div>
+      </div>
+
+
+      <div id="navigation">
+
+        <div id="nav-top">
+          <span class="nav-top-block">
+            <span class="no-wrap"><span id="fb-button-container">
+  <span id="fb_login">
+  </span>
+</span>
+<script type="text/javascript">
+var fb_header_item = '<fb:login-button v="2" size="small" data-width="200" data-height="18" data-max-rows="1" onlogin="fb_onlogin();" scope="email,publish_stream">Inloggen</fb:login-button>';
+document.getElementById('fb_login').innerHTML = fb_header_item;
+</script>
+<span id="login">
+    <a id="login_link" href="/beheer/">Inloggen</a>
+</span>
+<span>
+    <a id="register_link" href="/registreer/">Registreren</a>
+</span>
+            <span><a href="/faq.html">Help</a></span>
+            <span><a href="/doc/tips.html">Veilig handelen</a></span>
+            </span>
+          </span>
+          <span class="nav-top-block">
+            <span class="no-wrap">
+              
+              <span><a href="http://blog.2dehands.be">Nieuws</a></span>
+              
+
+              <span ><a href="/doc/reactie.html">Contact</a></span>
+              
+              <span class="last"><a id="language-switch-link" href="http://www.2ememain.be/autos/?auto_bj__tot=1980&amp;show_markt_uitvoer=1" onClick="_gaq.push(['_trackEvent', 'Links', 'Switch taal', 'Header']);" rel="alternate" lang="fr">FR</a></span>
+              
+            </span>
+          </span>
+        </div>
+
+        <div id="nav-buttons">
+          <div id="blue-button" class="button">
+            <div class="LT"></div>
+            <div class="RT"></div>
+            <a id="persoonlijke-pagina-tab-link" class="rounded-top personal-page" href="/beheer/">Persoonlijke pagina</a>
+          </div>
+          <div id="yellow-button" class="button">
+            <div class="LT"></div>
+            <div class="RT"></div>
+            <a class="rounded-top place-ad"
+               id="plaats-tab"
+               href="/plaats"
+               onClick="_gaq.push(['_trackEvent', 'Knoppen', 'Plaats advertentie', 'Header']);" >Plaats gratis zoekertje</a>
+          </div>
+        </div> <!-- END #nav-buttons -->
+      </div> <!-- END #navigation -->
+    </div> <!-- END #top -->
+</div>
+    <div class="comp-search">
+
+  <div id="search-bar">
+    <!-- corners -->
+    <div class="LT"></div>
+    <div class="RT"></div>
+    <div class="RB"></div>
+    <div class="LB"></div>
+    <!-- end corners -->
+    <form action="/markt/" method="get" id="zoekbalk" name="zoekbalk" onsubmit="TWH.SearchBar.disableIrrelevantFormFields(this);">
+      <div class="search-column" id="search-bar-keywords">
+        <label for="trefwoord">Uw zoekopdracht:</label>
+        <input id="trefwoord" type="text" tabindex="1" name="qq" onchange="TWH.SearchBar.changeFormAction();"  />
+      </div> <!-- END #search-bar-keywords -->
+
+      <div class="search-column" id="search-bar-categories">
+        <label for="afdeling">Selecteer afdeling:</label>
+        <select name="afd" id="afdeling" tabindex="2" onchange="TWH.SearchBar.changeFormAction();">
+          <option value="">Alle afdelingen</option>
+                <option value="antiek-art">Antiek &amp; Art</option>
+                <option value="audio-video-tv">Audio, Video &amp; TV</option>
+                <option value="autos" selected>Auto's</option>
+                <option value="auto-onderdelen-accessoires">Auto-onderdelen</option>
+                <option value="beauty-gezondheid">Beauty &amp; Gezondheid</option>
+                <option value="bedrijfswagens">Bedrijfswagens</option>
+                <option value="bijoux-horloges">Bijoux &amp; Horloges</option>
+                <option value="boeken-strips">Boeken &amp; Strips</option>
+                <option value="boten">Boten</option>
+                <option value="bouw">Bouw</option>
+                <option value="brommers-scooters">Brommers &amp; Scooters</option>
+                <option value="business-industrie">Business &amp; Industrie</option>
+                <option value="caravans-kamperen">Caravans &amp; Kamperen</option>
+                <option value="cd-vinyl">CD &amp; Vinyl</option>
+                <option value="computer-game-consoles">Computer &amp; Game Consoles</option>
+                <option value="dieren-toebehoren">Dieren &amp; Toebehoren</option>
+                <option value="dvd-video">DVD &amp; Video</option>
+                <option value="elektronische-apparatuur">Elektronische apparatuur</option>
+                <option value="fietsen">Fietsen</option>
+                <option value="foto-camera">Foto &amp; Camera</option>
+                <option value="hobby">Hobby</option>
+                <option value="huis-meubelen">Huis &amp; Meubelen</option>
+                <option value="immo">Immo</option>
+                <option value="jobs-diensten">Jobs &amp; Diensten</option>
+                <option value="keuken">Keuken</option>
+                <option value="kinderen-babys">Kinderen &amp; Baby's</option>
+                <option value="kleding-accessoires">Kleding &amp; Accessoires</option>
+                <option value="landbouw-tuinbouw">Landbouw &amp; Tuinbouw</option>
+                <option value="motoren">Motoren</option>
+                <option value="muziek">Muziek</option>
+                <option value="overig">Overig</option>
+                <option value="paardensport">Paardensport</option>
+                <option value="revalidatie-zorg">Revalidatie &amp; Zorg</option>
+                <option value="speelgoed-spelletjes">Speelgoed &amp; Spelletjes</option>
+                <option value="sport-fitness">Sport &amp; Fitness</option>
+                <option value="studeren">Studeren</option>
+                <option value="telecommunicatie">Telecommunicatie</option>
+                <option value="tuin">Tuin</option>
+                <option value="vakantie-toerisme">Vakantie &amp; Toerisme</option>
+                <option value="verzamelen">Verzamelen</option>
+                <option value="zendamateur">Zendamateur</option>        </select>
+      </div> <!-- END #search-bar-categories -->
+
+      <div class="search-column" id="search-bar-postalcodes">
+        <label for="header-pc_id">Postcode:</label>
+        <input class="ac_input" id="header-pcpl" name="pcpl" tabindex="3" type="text" autocomplete="off" />
+        <input id="header-pc_id" name="pc_id" type="hidden" />
+      </div> <!-- END #search-bar-postalcodes -->
+
+      <div class="search-column" id="search-bar-distances">
+        <label for="header-afstand">Selecteer afstand:</label>
+        <select id="header-afstand" name="distance" data-no-global-enable="true" tabindex="4">
+          <option  value="-">Alle afstanden</option>
+          
+          <option  value="0">+ 0 km</option>
+          
+          <option  value="1000">+ 1 km</option>
+          
+          <option  value="5000">+ 5 km</option>
+          
+          <option  value="10000">+ 10 km</option>
+          
+          <option  value="20000">+ 20 km</option>
+          
+          <option  value="30000">+ 30 km</option>
+          
+          <option  value="40000">+ 40 km</option>
+          
+          <option  value="50000">+ 50 km</option>
+          
+          <option  value="75000">+ 75 km</option>
+          
+          <option  value="100000">+ 100 km</option>
+          
+        </select>
+      </div> <!-- END #search-bar-distances -->
+
+      <div id="search-bar-submit">
+        <input id="zoek" type="submit" value="Zoek" tabindex="5" />
+      </div> <!-- END #search-bar-submit -->
+      <a id="search-extended" href="/zoeken">Uitgebreid zoeken</a>
+
+      
+        <div id="search-bar-alt-lang">
+          <label><input id="header_language_preference_checkbox" type="checkbox" name="locale" value="all"  />Zoek ook in Franstalige zoekertjes</label>
+          <script type="text/javascript">
+            (function($) {
+              $(document).ready(function() {
+                $('#header_language_preference_checkbox').change(function() {
+                  var all_or_delete = $(this).prop('checked') ? 'all' : null;
+                  $('#zoek').twhSearchPreferenceOnClick('languages', all_or_delete);
+                });
+              });
+            })(jQuery);
+          </script>
+        </div>
+      
+
+    </form>
+  </div>
+  <!-- END #search-bar -->
+
+
+  <script language="Javascript" type="text/javascript">
+    (function() {
+      var isSafari = ($.browser.webkit && !(/chrome/.test(navigator.userAgent.toLowerCase()))),
+        options = {
+        };
+
+      // The onready event is not fired on Safari if the page is retrieved from cache after the back
+      // button was pressed. The pageshow event does work.
+      if (isSafari) {
+        $(window).on('pageshow', function(event) {
+          TWH.SearchBar.initialize(options);
+        });
+      }
+      else {
+        $(document).ready(function() {
+          TWH.SearchBar.initialize(options);
+        });
+      }
+    })();
+  </script>
+</div>
+    <div class="comp-breadcrumb">
+  <div id="breadcrumbs" class="locator">
+    <span itemscope itemprop="breadcrumb" itemtype="http://data-vocabulary.org/Breadcrumb">
+      <a href="/" itemprop="url"><span itemprop="title">Home</span></a> &gt;
+      <span class="location">Auto's</span>
+    </span>
+    &nbsp;<a href="http://www.2dehands.be/autos/rss.xml?auto_bj__tot=1980&amp;locale=all&amp;p=be"><img src="http://img.2dehands.be/rss.png"
+             alt="Deze zoekopdracht in uw RSS Reader"
+             title="Deze zoekopdracht in uw RSS Reader"
+             border="0" class="rssimage" />
+    </a>
+  </div>
+</div>  </div>
+  
+
+  
+  <div id="body_left">
+    <div class="comp-afdelingen-menu">
+  <div class="c">
+    <div class="blockh">
+      <div class="corner_right"></div>
+      <div class="corner_left"></div>
+      <h2>Afdelingen</h2>
+    </div>
+  </div>
+  <div class="body">
+    <div id="afdelingcontainer">
+      <ul id="afdelingmenu">
+        <li><a href="/antiek-art/"><span class="title">Antiek &amp; Art</span></a></li>
+        <li><a href="/audio-video-tv/"><span class="title">Audio, Video &amp; TV</span></a></li>
+        <li><a href="/autos/" id="current"><span class="title">Auto's</span></a></li>
+        <li><a href="/auto-onderdelen-accessoires/"><span class="title">Auto-onderdelen</span></a></li>
+        <li><a href="/beauty-gezondheid/"><span class="title">Beauty &amp; Gezondheid</span></a></li>
+        <li><a href="/bedrijfswagens/"><span class="title">Bedrijfswagens</span></a></li>
+        <li><a href="/bijoux-horloges/"><span class="title">Bijoux &amp; Horloges</span></a></li>
+        <li><a href="/boeken-strips/"><span class="title">Boeken &amp; Strips</span></a></li>
+        <li><a href="/boten/"><span class="title">Boten</span></a></li>
+        <li><a href="/bouw/"><span class="title">Bouw</span></a></li>
+        <li><a href="/brommers-scooters/"><span class="title">Brommers &amp; Scooters</span></a></li>
+        <li><a href="/business-industrie/"><span class="title">Business &amp; Industrie</span></a></li>
+        <li><a href="/caravans-kamperen/"><span class="title">Caravans &amp; Kamperen</span></a></li>
+        <li><a href="/cd-vinyl/"><span class="title">CD &amp; Vinyl</span></a></li>
+        <li><a href="/computer-game-consoles/"><span class="title">Computer &amp; Game Consoles</span></a></li>
+        <li><a href="/dieren-toebehoren/"><span class="title">Dieren &amp; Toebehoren</span></a></li>
+        <li><a href="/dvd-video/"><span class="title">DVD &amp; Video</span></a></li>
+        <li><a href="/elektronische-apparatuur/"><span class="title">Elektronische apparatuur</span></a></li>
+        <li><a href="/fietsen/"><span class="title">Fietsen</span></a></li>
+        <li><a href="/foto-camera/"><span class="title">Foto &amp; Camera</span></a></li>
+        <li><a href="/hobby/"><span class="title">Hobby</span></a></li>
+        <li><a href="/huis-meubelen/"><span class="title">Huis &amp; Meubelen</span></a></li>
+        <li><a href="/immo/"><span class="title">Immo</span></a></li>
+        <li><a href="/jobs-diensten/"><span class="title">Jobs &amp; Diensten</span></a></li>
+        <li><a href="/keuken/"><span class="title">Keuken</span></a></li>
+        <li><a href="/kinderen-babys/"><span class="title">Kinderen &amp; Baby's</span></a></li>
+        <li><a href="/kleding-accessoires/"><span class="title">Kleding &amp; Accessoires</span></a></li>
+        <li><a href="/landbouw-tuinbouw/"><span class="title">Landbouw &amp; Tuinbouw</span></a></li>
+        <li><a href="/motoren/"><span class="title">Motoren</span></a></li>
+        <li><a href="/muziek/"><span class="title">Muziek</span></a></li>
+        <li><a href="/overig/"><span class="title">Overig</span></a></li>
+        <li><a href="/paardensport/"><span class="title">Paardensport</span></a></li>
+        <li><a href="/revalidatie-zorg/"><span class="title">Revalidatie &amp; Zorg</span></a></li>
+        <li><a href="/speelgoed-spelletjes/"><span class="title">Speelgoed &amp; Spelletjes</span></a></li>
+        <li><a href="/sport-fitness/"><span class="title">Sport &amp; Fitness</span></a></li>
+        <li><a href="/studeren/"><span class="title">Studeren</span></a></li>
+        <li><a href="/telecommunicatie/"><span class="title">Telecommunicatie</span></a></li>
+        <li><a href="/tuin/"><span class="title">Tuin</span></a></li>
+        <li><a href="/vakantie-toerisme/"><span class="title">Vakantie &amp; Toerisme</span></a></li>
+        <li><a href="/verzamelen/"><span class="title">Verzamelen</span></a></li>
+        <li><a href="/zendamateur/"><span class="title">Zendamateur</span></a></li>      </ul>
+    </div>
+  </div>
+</div>
+    <div class="comp-statistics">
+  <div class="c">
+    <div class="blockh">
+      <div class="corner_right"></div>
+      <div class="corner_left"></div>
+      <h2>Statistieken</h2>
+    </div>
+    <div class="body">
+      <div class="ie6_table_container">
+        <table class="small">
+          <tbody>
+            <tr>
+              <td>Bezoekers per dag:</td>
+              <td align="right">720.000</td>
+            </tr>
+            <tr>
+              <td>Bezoekers nu online:</td>
+              <td align="right">16.638</td>
+            </tr>
+            <tr>
+              <td>Zoekertjes:</td>
+              <td align="right">4.050.327</td>
+            </tr>
+            <tr>
+              <td>Winkels:</td>
+              <td align="right">12.284</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+      </div>
+  <div id="body_right">
+    
+<div class="comp-zir">
+  <div class="c zir">
+      <div class="blockh">
+          <div class="corner_right"></div>
+          <div class="corner_left"></div>
+          <h2>Verfijn resultaat</h2>
+      </div>
+      <div class="body">
+<div>
+
+
+
+<a href="http://www.2dehands.be/login.html?doel=http%3A%2F%2Fwww.2dehands.be%2Fautos%3Fshow_markt_uitvoer%3D1%26auto_bj__tot%3D1980%26locale%3Dall%26plaatsdatum__x%3D30" class="rounded_corners rb_blue saved-search-link" onclick="_gaq.push(['_trackEvent', 'Knoppen', 'Bewaar zoekopdracht', 'Start']);" id="saved-search-link-zir"><div
+  class="corner_left rb_blue_left"><div
+  class="corner_right rb_blue_right"><div
+  class="button-content"><div class="button-inner-content">Bewaar zoekopdracht</div></div></div></div></a>
+
+</div>
+
+
+      <div id="zir_total_count" class="vz_item">
+          <span class="zir_count">
+              <span>3.261</span>
+          </span>
+          Totaal zoekertjes:
+      </div>
+          <div id="zir_item_prijsoptie" class="vz_item">
+              <div class="vz_g_titel">Prijs:</div>
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>4</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;prijsoptie=gratis"
+     class="zir_count_link"
+  >Gratis</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>53</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;prijsoptie=ruilen"
+     class="zir_count_link"
+  >Ruilen</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>716</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;prijsoptie=teab"
+     class="zir_count_link"
+  >Prijs o.t.k.</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>105</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;prijsoptie=nvt"
+     class="zir_count_link"
+  >N.v.t.</a>
+</div>
+
+              
+
+
+<br/>
+<div id="prijs_slider_amount">Prijs: &euro;0 - &euro;10.000.000</div>
+<div id="prijs_slider"></div>
+<div id="pob_container">
+  
+  <div id="prijsoptie_blue_grey" class="rounded_corners rb_blue prijsoptie_inactive">
+    <div class="corner_left">
+      <div class="corner_right">
+        <div class="button-content"><a id="prijsoptie_button" href="">Toon mijn 3.261 resultaten</a></div>
+      </div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">
+  $(document).ready(function() {
+    TWH.ZIRPriceSlider.initialize({
+      fullQueryString : 'show_markt_uitvoer=1\x26auto_bj__tot=1980\x26locale=all\x26plaatsdatum__x=30',
+      keywords        : '',
+      afdeling        : 'autos',
+      rubriek         : '',
+      categorie       : '',
+      prijsmin        : 0,
+      prijsmax        : 10000000
+    });
+  });
+</script>
+
+          </div>
+          <div id="zir_item_locale" class="vz_item">
+              <div class="vz_g_titel">Taal:</div>
+<div class="zir_keuze" id="zir_item_language_select_all">
+  <span class="zir_keuze_verwijder">
+    <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30"
+       name="zir_del_locale" class="store_search_preference_on_click" data-preference-name="languages" data-preference-value=""
+    ><img src="http://img.2dehands.be/static/newstyle/zir_close_icon.png" border="0" alt="wijzig" /></a>
+  </span>Beide talen
+</div>
+
+<div style="margin: 0;" id="zir_item_language_unselect_nl">
+  <span class="zir_count">
+    <span>2.022</span>
+  </span>
+  <a href="?show_markt_uitvoer=1&amp;auto_bj__tot=1980&amp;locale=nl&amp;plaatsdatum__x=30"
+     class="zir_count_link store_search_preference_on_click" data-preference-name="languages" data-preference-value="nl"
+  >Nederlands</a>
+</div>
+
+<div style="margin: 0;" id="zir_item_language_unselect_fr">
+  <span class="zir_count">
+    <span>1.740</span>
+  </span>
+  <a href="?show_markt_uitvoer=1&amp;auto_bj__tot=1980&amp;locale=fr&amp;plaatsdatum__x=30"
+     class="zir_count_link store_search_preference_on_click" data-preference-name="languages" data-preference-value="fr"
+  >Frans</a>
+</div>
+
+          </div>
+          <div id="zir_item_p_land" class="vz_item">
+              <div class="vz_g_titel">Land:</div>
+<div class="zir_keuze" id="zir_item_country_select_not_all">
+  <span class="zir_keuze_verwijder">
+    <a href="?p=all&amp;show_markt_uitvoer=1&amp;auto_bj__tot=1980&amp;locale=all&amp;plaatsdatum__x=30"
+       name="zir_del_p" class="store_search_preference_on_click" data-preference-name="countries" data-preference-value="all"
+    ><img src="http://img.2dehands.be/static/newstyle/zir_close_icon.png" border="0" alt="wijzig" /></a>
+  </span>België
+</div>
+
+<div style="margin: 0;" id="zir_item_country_unselect_nl">
+  <a href="?p=be%2Cnl&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link store_search_preference_on_click" data-preference-name="countries" data-preference-value="be,nl"
+  >Nederland</a>
+</div>
+
+<div style="margin: 0;" id="zir_item_country_unselect_fr">
+  <a href="?p=be%2Cfr&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link store_search_preference_on_click" data-preference-name="countries" data-preference-value="be,fr"
+  >Frankrijk</a>
+</div>
+
+          </div>
+          <div id="zir_item_p_provincie" class="vz_item">
+              <div class="vz_g_titel">Provincie:</div>
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>712</span>
+  </span>
+  <a href="?p=be-17&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Antwerpen</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>93</span>
+  </span>
+  <a href="?p=be-24&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Brussel (Gewest)</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>518</span>
+  </span>
+  <a href="?p=be-22&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Henegouwen</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>330</span>
+  </span>
+  <a href="?p=be-16&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Limburg</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>371</span>
+  </span>
+  <a href="?p=be-20&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Luik</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>100</span>
+  </span>
+  <a href="?p=be-23&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Luxemburg</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>141</span>
+  </span>
+  <a href="?p=be-21&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Namen</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>363</span>
+  </span>
+  <a href="?p=be-14&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Oost-Vlaanderen</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>228</span>
+  </span>
+  <a href="?p=be-15&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Vlaams-Brabant</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>106</span>
+  </span>
+  <a href="?p=be-19&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Waals-Brabant</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>299</span>
+  </span>
+  <a href="?p=be-18&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >West-Vlaanderen</a>
+</div>
+
+          </div>
+          <div id="zir_item_conditie" class="vz_item">
+              <div class="vz_g_titel">Conditie:</div>
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>3.159</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;conditie=gebruikt&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Gebruikt</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>102</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;conditie=nieuw&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Nieuw</a>
+</div>
+
+          </div>
+          <div id="zir_item_allow_bieden" class="vz_item">
+              <div class="vz_g_titel">Bieden:</div>
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>2.343</span>
+  </span>
+  <a href="?allow_bieden=1&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Ja</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>918</span>
+  </span>
+  <a href="?allow_bieden=0&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Nee</a>
+</div>
+
+          </div>
+          <div id="zir_item_auto_carrosserie" class="vz_item">
+              <div class="vz_g_titel">Carrosserie:</div>
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>873</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;auto_carrosserie=sedan"
+     class="zir_count_link"
+  >Berline 2/4-deurs</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>134</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;auto_carrosserie=hatchback"
+     class="zir_count_link"
+  >Berline 3/5-deurs</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>49</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;auto_carrosserie=stationwagon"
+     class="zir_count_link"
+  >Break</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>755</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;auto_carrosserie=cabriolet"
+     class="zir_count_link"
+  >Cabriolet</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>847</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;auto_carrosserie=coupe"
+     class="zir_count_link"
+  >Coupé</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>3</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;auto_carrosserie=mpv"
+     class="zir_count_link"
+  >Monovolume</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>483</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;auto_carrosserie=overig"
+     class="zir_count_link"
+  >Overig</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>2</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;auto_carrosserie=schade"
+     class="zir_count_link"
+  >Schade auto</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>115</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;auto_carrosserie=suv"
+     class="zir_count_link"
+  >SUV of Terreinwagen</a>
+</div>
+
+          </div>
+          <div id="zir_item_auto_km" class="vz_item">
+              <div class="vz_g_titel">Kilometerstand:</div>
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>302</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;auto_km=tot-20-000&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >tot 20.000</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>101</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;auto_km=20-000-30-000&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >20.000 - 30.000</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>115</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;auto_km=30-000-40-000&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >30.000 - 40.000</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>134</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;auto_km=40-000-50-000&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >40.000 - 50.000</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>144</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;auto_km=50-000-60-000&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >50.000 - 60.000</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>142</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;auto_km=60-000-70-000&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >60.000 - 70.000</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>178</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;auto_km=70-000-80-000&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >70.000 - 80.000</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>139</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;auto_km=80-000-90-000&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >80.000 - 90.000</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>169</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;auto_km=90-000-100-000&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >90.000 - 100.000</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>142</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;auto_km=100-000-120-000&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >100.000 - 120.000</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>67</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;auto_km=120-000-140-000&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >120.000 - 140.000</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>63</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;auto_km=140-000-160-000&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >140.000 - 160.000</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>43</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;auto_km=160-000-180-000&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >160.000 - 180.000</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>29</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;auto_km=180-000-200-000&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >180.000 - 200.000</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>29</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;auto_km=200-000-250-000&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >200.000 - 250.000</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>14</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;auto_km=250-000-300-000&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >250.000 - 300.000</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>30</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;auto_km=300-000-en-meer&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >300.000 en meer</a>
+</div>
+
+          </div>
+          <div id="zir_item_auto_brandstof" class="vz_item">
+              <div class="vz_g_titel">Brandstof:</div>
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>2.310</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;auto_brandstof=benzine&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Benzine</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>105</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;auto_brandstof=diesel&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Diesel</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>1</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;auto_brandstof=hybride&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Hybride</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>56</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;auto_brandstof=lpg&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >LPG</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>8</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;auto_brandstof=lpg-g3&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >LPG G3</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>31</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;auto_brandstof=super&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Super</a>
+</div>
+
+          </div>
+          <div id="zir_item_auto_bj" class="vz_item">
+              <div class="vz_g_titel">Bouwjaar:</div>
+<div class="zir_keuze">
+  <span class="zir_keuze_verwijder">
+    <a href="?show_markt_uitvoer=1&amp;locale=all&amp;plaatsdatum__x=30"
+       name="zir_del_auto_bj"
+    ><img src="http://img.2dehands.be/static/newstyle/zir_close_icon.png" border="0" alt="wijzig" /></a>
+  </span>Tot 1981
+</div>
+
+          </div>
+          <div id="zir_item_auto_kleur" class="vz_item">
+              <div class="vz_g_titel">Kleur:</div>
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>115</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;auto_kleur=beige"
+     class="zir_count_link"
+  >beige</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>386</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;auto_kleur=blauw"
+     class="zir_count_link"
+  >blauw</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>11</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;auto_kleur=brons"
+     class="zir_count_link"
+  >brons</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>81</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;auto_kleur=bruin"
+     class="zir_count_link"
+  >bruin</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>120</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;auto_kleur=geel"
+     class="zir_count_link"
+  >geel</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>38</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;auto_kleur=goud"
+     class="zir_count_link"
+  >goud</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>148</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;auto_kleur=grijs"
+     class="zir_count_link"
+  >grijs</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>272</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;auto_kleur=groen"
+     class="zir_count_link"
+  >groen</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>51</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;auto_kleur=oranje"
+     class="zir_count_link"
+  >oranje</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>16</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;auto_kleur=paars"
+     class="zir_count_link"
+  >paars</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>6</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;auto_kleur=platina"
+     class="zir_count_link"
+  >platina</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>415</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;auto_kleur=rood"
+     class="zir_count_link"
+  >rood</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>327</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;auto_kleur=wit"
+     class="zir_count_link"
+  >wit</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>70</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;auto_kleur=zilver"
+     class="zir_count_link"
+  >zilver</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>221</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;auto_kleur=zwart"
+     class="zir_count_link"
+  >zwart</a>
+</div>
+
+          </div>
+          <div id="zir_item_auto_deurs" class="vz_item">
+              <div class="vz_g_titel">Aantal deuren:</div>
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>1.214</span>
+  </span>
+  <a href="?auto_deurs=2-deurs&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >2-deurs</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>237</span>
+  </span>
+  <a href="?auto_deurs=3-deurs&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >3-deurs</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>388</span>
+  </span>
+  <a href="?auto_deurs=4-deurs&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >4-deurs</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>134</span>
+  </span>
+  <a href="?auto_deurs=5-deurs&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >5-deurs</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>9</span>
+  </span>
+  <a href="?auto_deurs=6-deurs&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >6-deurs</a>
+</div>
+
+          </div>
+          <div id="zir_item_auto_opties" class="vz_item">
+              <div class="vz_g_titel">Opties:</div>
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>35</span>
+  </span>
+  <a href="?auto_opties=abs&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >ABS</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>9</span>
+  </span>
+  <a href="?auto_opties=airbag-dubbel&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Airbag dubbel</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>5</span>
+  </span>
+  <a href="?auto_opties=airbag-enkel&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Airbag enkel</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>131</span>
+  </span>
+  <a href="?auto_opties=airco&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Airco</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>42</span>
+  </span>
+  <a href="?auto_opties=alarm&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Alarm</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>349</span>
+  </span>
+  <a href="?auto_opties=automaat&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Automatische transmissie</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>13</span>
+  </span>
+  <a href="?auto_opties=boordcomputer&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Boordcomputer</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>113</span>
+  </span>
+  <a href="?auto_opties=centr-vergrendeling&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Centr.vergrendeling</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>81</span>
+  </span>
+  <a href="?auto_opties=cruise-control&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Cruise control</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>53</span>
+  </span>
+  <a href="?auto_opties=elektr-buitenspiegels&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Elektr. buitenspiegels</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>90</span>
+  </span>
+  <a href="?auto_opties=elektr-ramen-v-a&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Elektr. ramen v + a</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>114</span>
+  </span>
+  <a href="?auto_opties=elektr-ramen-voor&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Elektr.ramen voor</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>142</span>
+  </span>
+  <a href="?auto_opties=getint-glas&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Getint glas</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>428</span>
+  </span>
+  <a href="?auto_opties=lederen-bekleding&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Lederen bekleding</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>333</span>
+  </span>
+  <a href="?auto_opties=lichtmetalen-velgen&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Lichtmetalen velgen</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>269</span>
+  </span>
+  <a href="?auto_opties=metallic-lak&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Metallic lak</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>6</span>
+  </span>
+  <a href="?auto_opties=navigatiesysteem&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Navigatiesysteem</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>233</span>
+  </span>
+  <a href="?auto_opties=open-dak&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Open dak</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>5</span>
+  </span>
+  <a href="?auto_opties=parkeersensor&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Parkeersensor</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>245</span>
+  </span>
+  <a href="?auto_opties=radio-cd&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Radio &amp; CD</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>54</span>
+  </span>
+  <a href="?auto_opties=startonderbreker&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Startonderbreker</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>311</span>
+  </span>
+  <a href="?auto_opties=stuurbekrachtiging&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Stuurbekrachtiging</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>89</span>
+  </span>
+  <a href="?auto_opties=trekhaak&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all"
+     class="zir_count_link"
+  >Trekhaak</a>
+</div>
+
+          </div>
+          <div id="zir_item_bulk_user" class="vz_item">
+              <div class="vz_g_titel">Veelplaatser:</div>
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>128</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;bulk_user=1"
+     class="zir_count_link"
+  >Ja</a>
+</div>
+
+<div style="margin: 0;">
+  <span class="zir_count">
+    <span>3.133</span>
+  </span>
+  <a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;bulk_user=0"
+     class="zir_count_link"
+  >Nee</a>
+</div>
+
+          </div>
+      </div>
+  </div>
+
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('.store_search_preference_on_click').twhSearchPreferenceOnClick();
+    });
+  </script>
+</div>
+
+</div>
+
+<div id="main_block_margin_right">
+
+    
+
+
+
+<div style="width: 100%;">
+  <form action="/beheer" method="post" id="adv_lijst" name="adv_lijst">
+  
+    <table class="markt" id="lijstuitvoer">
+      
+        
+<tbody id="top-zoekertjes">
+  
+    
+  
+<tr class="dark">
+ <td colspan="5"><strong>Topzoekertjes
+ </strong> | <a href="/doc/top.html">Ook hier staan met uw zoekertje?</a></td>
+</tr>
+<tr id="top-adv-result-192591245" twh-adv-id="192591245" class="dark">
+  
+  
+    <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/volkswagen/cc/vw-cox-cabrio-1303-192591245.html"><img style="margin-top:0px;" width="133" height="100"
+           src="http://img.2dehands.be/f/listthumb/192591245.jpg" alt="VW Cox cabrio 1303" title="VW Cox cabrio 1303" class="listimg" /></a>
+  </div>
+</td>
+
+  
+  
+    <td class="spec">
+  <span>€&nbsp;12.500,00</span>
+  
+</td>
+
+  
+  
+    <td id="adv-result-title_description-192591245">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/volkswagen/cc/vw-cox-cabrio-1303-192591245.html" class="adv-title" title="VW Cox de septembre 1975, entièrement révisée, et dans un état impeccable, véhicule roulant, nouvelle capote, nouveaux pneus, intérieur cuir, version élargie, ETAT CONCOURS !!">
+    <strong>VW Cox cabrio 1303</strong></a>
+    <div class="teaser">
+      VW Cox de septembre 1975, entièrement révisée, et dans un état impeccable, véhicule roulant, nouvelle capote, nouveaux pneus, intérieur cuir, version élargie, ETAT CONCOURS !!
+    </div>
+  </div>
+</td>
+
+  
+  
+    <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Manage Faytlez-Manage
+  </div>
+</td>
+
+  
+  
+    <td class="spec">
+  vandaag<br />
+  
+</td>
+
+  
+</tr>
+<tr id="top-adv-result-196183240" twh-adv-id="196183240" class="light">
+  
+  
+    <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/volkswagen/kever/magnifique-coccinelle-1974-196183240.html"><img style="margin-top:0px;" width="133" height="100"
+           src="http://img.2dehands.be/f/listthumb/196183240.jpg" alt="Magnifique coccinelle de 1974" title="Magnifique coccinelle de 1974" class="listimg" /></a>
+  </div>
+</td>
+
+  
+  
+    <td class="spec">
+  <span>€&nbsp;9.500,00</span>
+  
+</td>
+
+  
+  
+    <td id="adv-result-title_description-196183240">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/volkswagen/kever/magnifique-coccinelle-1974-196183240.html" class="adv-title" title="A vendre magnifique coccinelle de 1974. Completement restaurée en 2012. Remise à neuf. Moteur 1600cc. 2 carburateurs WEBER. Tourne comme une horloge. Etat impeccable autant à l'intérieur qu'à l'extérieur. A voir absolument. Prix à discuter. 0474/323917">
+    <strong>Magnifique coccinelle de 1974</strong></a>
+    <div class="teaser">
+      A vendre magnifique coccinelle de 1974. Completement restaurée en 2012. Remise à neuf. Moteur 1600cc. 2 carburateurs WEBER. Tourne comme une horloge. Etat impeccable autant à l'intérieur qu'à l'extérieur. A voir absolument. Prix à discuter. 0474/323917
+    </div>
+  </div>
+</td>
+
+  
+  
+    <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Erezée Soy
+  </div>
+</td>
+
+  
+  
+    <td class="spec">
+  vandaag<br />
+  
+</td>
+
+  
+</tr>
+<tr id="top-adv-result-193552777" twh-adv-id="193552777" class="dark">
+  
+  
+    <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/ford/mustang/ford-mustang-65-6cil-aut-193552777.html"><img style="margin-top:0px;" width="133" height="100"
+           src="http://img.2dehands.be/f/listthumb/193552777.jpg" alt="Ford mustang 65 6cil aut. OLDTIMER" title="Ford mustang 65 6cil aut. OLDTIMER" class="listimg" /></a>
+  </div>
+</td>
+
+  
+  
+    <td class="spec">
+  <span>€&nbsp;16.500,00</span>
+  
+</td>
+
+  
+  
+    <td id="adv-result-title_description-193552777">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/ford/mustang/ford-mustang-65-6cil-aut-193552777.html" class="adv-title" title="zeer mooie oldtimer ford mustang, vroegere restauratie Dit betreft de zuinige 3liter 6 cil motor automaat. Geen snelheidsmonster maar een aangename cruiser zie de video via de link hieronder te klikken of deze onderstaande youtube- link te plakken in uw browser http://youtu.be/shPGyJ_q-Yc Deze wagen bevindt zich in Oostduinkerke en kan gekeurd worden voor verkoop. Indien SERIEUS geinteresseerd bel tussen 9 en 21h op 0474567176 Deze auto staat steeds in onze verwarmde garage en wordt regelmatig bij droog...">
+    <strong>Ford mustang 65 6cil aut. OLDTIMER</strong></a>
+    <div class="teaser">
+      zeer mooie oldtimer ford mustang, vroegere restauratie Dit betreft de zuinige 3liter 6 cil motor automaat. Geen sne­lhe­ids­mon­ste­r maar een aangename cruiser zie de video via de link hieronder te klikken of deze onderstaande youtube- link te plakken in uw browser htt­p:/­/yo­utu­.be­/sh­PGy­J_q­-Yc Deze wagen bevindt zich in Oostduinkerke en kan gekeurd worden voor verkoop. Indien SERIEUS geinteresseerd bel tussen 9 en 21h op 0474567176 Deze auto staat steeds in onze verwarmde garage en wordt regelmatig bij droog...
+    </div>
+  </div>
+</td>
+
+  
+  
+    <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Koksijde Oostduinkerke
+  </div>
+</td>
+
+  
+  
+    <td class="spec">
+  vandaag<br />
+  
+</td>
+
+  
+</tr>
+<tr class="separator">
+  <td colspan="5"><hr /></td>
+</tr>
+</tbody>
+
+
+      
+      <tbody id="zoekertjes-found">
+      <tr id="adv-result-196323795" twh-adv-id="196323795" class="dark">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/volkswagen/overige-modellen/buggy-vw-apal-long-196323795.html"><img style="margin-top:0px;" width="133" height="100"
+           src="http://img.2dehands.be/f/listthumb/196323795.jpg" alt="buggy vw  apal long" title="buggy vw  apal long" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>Prijs o.t.k.</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196323795">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/volkswagen/overige-modellen/buggy-vw-apal-long-196323795.html" class="adv-title" title="bjr.vend buggy apal long.en cours de restauration.a finir les 2 ailes et capot.+remontage.chassis remis a neuf.+/- 3500.eur.de pièces neuve.buggy complet bache sieges baquet harnais moteur 1300.ou 1600.suivant le prix ..papiers et plaquettes apal..prix +/-6500.eur.a voir et a discuter uniquement devant le buggy.!!je vend mes vehicules cause sante!!pas de mail pas de sms.0479722616.019328616.cox kever buggy">
+    <strong>Buggy vw apal long</strong></a>
+    <div class="teaser">
+      bjr.vend buggy apal long.en cours de restauration.a finir les 2 ailes et cap­ot.­+re­mon­tag­e.c­has­sis remis a neuf.+/- 3500.eur.de pièces neuve.buggy complet bache sieges baquet harnais moteur 1300.ou 1600.suivant le prix ..papiers et plaquettes apal..prix +/-6500.eur.a voir et a discuter uniquement devant le buggy.!!je vend mes vehicules cause sante!!pas de mail pas de sms­.04­797­226­16.­019­328­616­.co­x kever buggy
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Waremme
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  vandaag<br />
+  10:33
+</td>
+
+          
+        </tr><tr id="adv-result-196323372" twh-adv-id="196323372" class="light">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/volkswagen/overige-modellen/buggy-vw-vanclee-196323372.html"><img style="margin-top:0px;" width="133" height="100"
+           src="http://img.2dehands.be/f/listthumb/196323372.jpg" alt="buggy vw .vanclee" title="buggy vw .vanclee" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>Prijs o.t.k.</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196323372">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/volkswagen/overige-modellen/buggy-vw-vanclee-196323372.html" class="adv-title" title="bjr.vend buggy vw .vanclee..tres bon etat.mais a remonter train avant et reservoir cause changement de ce dernier.prix 9500.eur.a discuter.en fonction du remontage.bon prix si emporter sans a.s. et sans remontage..pas de mail pas de sms.!!je vend mes vehicules cause sante.!!a voir et faire offre devant le vehicule..voir mes autres annonces merci 0479722616.ou 019328616.merci.cox kever oldtimer buggy">
+    <strong>Buggy vw .vanclee</strong></a>
+    <div class="teaser">
+      bjr.vend buggy vw .vanclee..tres bon etat.mais a remonter train avant et reservoir cause changement de ce dernier.prix 9500.eur.a discuter.en fonction du remontage.bon prix si emporter sans a.s. et sans remontage..pas de mail pas de sms.!!je vend mes vehicules cause sante.!!a voir et faire offre devant le vehicule..voir mes autres annonces merci 0479722616.ou 019­328­616­.me­rci­.co­x kever oldtimer buggy
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Waremme
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  vandaag<br />
+  10:29
+</td>
+
+          
+        </tr><tr id="adv-result-196322131" twh-adv-id="196322131" class="dark">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/fiat/500/fiat-500-a-restaurer-voiture-196322131.html"><img style="margin-top:0px;" width="133" height="100"
+           src="http://img.2dehands.be/f/listthumb/196322131.jpg" alt="fiat 500 a restaurer voiture roulante" title="fiat 500 a restaurer voiture roulante" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>€&nbsp;2.200,00</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196322131">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/fiat/500/fiat-500-a-restaurer-voiture-196322131.html" class="adv-title" title="Marque : FIAT 500 A RESTAURER VOITURE ROULANTE Prix : 2.200€ Structure : 2 PORTES Année : 03/1971 Kilométrage : 25.000 KM Carburant : ESSENCE Cylindrée : 500 CC Transmission : MANUELLE Couleur extérieure : BLEU Equipement du véhicule : Voiture à restaurer Voiture roulante Pour tous renseignements : 0495/48.23.46 S.V.P. PAS DE SMS">
+    <strong>Fiat 500 a restaurer voiture roulante</strong></a>
+    <div class="teaser">
+      Marque : FIAT 500 A RESTAURER VOITURE ROULANTE Prix : 2.200€ Structure : 2 PORTES Année : 03/1971 Kilométrage : 25.000 KM Carburant : ESSENCE Cylindrée : 500 CC Transmission : MANUELLE Couleur extérieure : BLEU Equipement du véhicule : Voiture à restaurer Voiture roulante Pour tous renseignements : 0495/48.23.46 S.V.P. PAS DE SMS
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Charleroi Gosselies
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  vandaag<br />
+  10:21
+</td>
+
+          
+        </tr><tr id="adv-result-196319667" twh-adv-id="196319667" class="light">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/volkswagen/kever/a-vendre-vw-cox-1979-196319667.html"><img style="margin-top:0px;" width="133" height="100"
+           src="http://img.2dehands.be/f/listthumb/196319667.jpg" alt="a vendre vw cox de 1979 1200cc" title="a vendre vw cox de 1979 1200cc" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>€&nbsp;1.500,00</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196319667">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/volkswagen/kever/a-vendre-vw-cox-1979-196319667.html" class="adv-title" title="VW cox moteur 1200cc 47000km a restaure papier belge la voiture est complète le moteur tourne . il y a du travaille de carrosserie mais rien de grave les frein son a revoir et un bonne entretien.les pneus son en bonne état. le dernier contrôle technique est de 1992 sans remarque. elle n'as plus rouler depuis 1992 donc prévoir plateaux pour le transport, bonne base de restauration.">
+    <strong>A vendre vw cox de 1979 1200cc</strong></a>
+    <div class="teaser">
+      VW cox moteur 1200cc 47000km a restaure papier belge la voiture est complète le moteur tourne . il y a du travaille de carrosserie mais rien de grave les frein son a revoir et un bonne entretien.les pneus son en bonne état. le dernier contrôle technique est de 1992 sans remarque. elle n'as plus rouler depuis 1992 donc prévoir plateaux pour le transport, bonne base de restauration.
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Libramont-Chevigny
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  vandaag<br />
+  10:02
+</td>
+
+          
+        </tr><tr id="adv-result-196318489" twh-adv-id="196318489" class="dark">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/mercedes-benz/200-serie/mercedes-200-type-bar-8-196318489.html"><img style="margin-top:12px;" width="133" height="75"
+           src="http://img.2dehands.be/f/listthumb/196318489.jpg" alt="Mercedes 200 (type Bar 8) originele staat" title="Mercedes 200 (type Bar 8) originele staat" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>€&nbsp;5.750,00</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196318489">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/mercedes-benz/200-serie/mercedes-200-type-bar-8-196318489.html" class="adv-title" title="Bouwjaar 04/1975 • 2de eigenaar, in bezit sinds 1989 • 166208km • Perfect onderhouden • Kleur Blauw • Altijd binnen gestaan • Elektrische antenne • Originele Radio • 2.0l benzine • Tot 5 maanden geleden regelmatig met gereden • Originele radio aanwezig • Start perfect, draait werkelijk als een klok • Alle documenten aanwezig • Staat momenteel ook droog gestald Het betreft hier om een zeer propere wagen, in originele staat. Niet gerestaureerd, en een zeer harde kas (heeft altijd binnen gestaan) De benzine...">
+    <strong>Mercedes 200 (type Bar 8) originele staat</strong></a>
+    <div class="teaser">
+      Bouwjaar 04/1975 • 2de eigenaar, in bezit sinds 1989 • 166208km • Perfect onderhouden • Kleur Blauw • Altijd binnen gestaan • Elektrische antenne • Originele Radio • 2.0l benzine • Tot 5 maanden geleden regelmatig met gereden • Originele radio aanwezig • Start perfect, draait werkelijk als een klok • Alle documenten aanwezig • Staat momenteel ook droog gestald Het betreft hier om een zeer propere wagen, in originele staat. Niet gerestaureerd, en een zeer harde kas (heeft altijd binnen gestaan) De benzine...
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Kapellen
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  vandaag<br />
+  09:53
+</td>
+
+          
+        </tr>
+            <tr id="tr_leaderboard">
+  <td colspan="5">
+    <div id="twh_leaderboard">
+      
+<div id="div-gpt-leaderboard-5044499935497093">
+  <script type="text/javascript">
+    if( 1
+        && ( $("#twh_leaderboard").width() < 728 ) ) {
+        $(document).ready( function () {
+          TWH.removeLeaderBoard();
+        } );
+    } else {
+      googletag.cmd.push(function() {
+         googletag.display("div-gpt-leaderboard-5044499935497093");
+      });
+    }
+  </script>
+</div>
+
+    </div>
+  </td>
+</tr>
+            
+          <tr id="adv-result-188554905" twh-adv-id="188554905" class="dark">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/pontiac/overige-modellen/pontiac-chieftain-1954-project-hotrod-188554905.html"><img style="margin-top:0px;" width="133" height="100"
+           src="http://img.2dehands.be/f/listthumb/188554905.jpg" alt="pontiac chieftain 1954, project, hotrod, ratrod" title="pontiac chieftain 1954, project, hotrod, ratrod" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>Prijs o.t.k.</span>
+  
+  <br/>Biedingen:&nbsp;3
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-188554905">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/pontiac/overige-modellen/pontiac-chieftain-1954-project-hotrod-188554905.html" class="adv-title" title="aangeboden een 54er pontiac chieftain leuke wagen om wat moois van te maken, alle lak is er af dus wat je ziet is wat je koopt interieur is er bij maar moet geheel opnieuw bekleed worden achterruit, achterbumper en sierstrippen zijn er los bij geen motor en bak, kan eventueel wel geregeld worden heeft lichte schade rechts voor, zie foto amerikaanse title met v8 vermelding leuk project om er n hotrod van te maken pontiac staat in beneden leeuwen, nederland">
+    <strong>Pontiac chieftain 1954, project, hotrod, ratrod</strong></a>
+    <div class="teaser">
+      aangeboden een 54er pontiac chieftain leuke wagen om wat moois van te maken, alle lak is er af dus wat je ziet is wat je koopt interieur is er bij maar moet geheel opnieuw bekleed worden achterruit, achterbumper en sierstrippen zijn er los bij geen motor en bak, kan eventueel wel geregeld worden heeft lichte schade rechts voor, zie foto amerikaanse title met v8 vermelding leuk project om er n hotrod van te maken pontiac staat in beneden leeuwen, nederland
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Antwerpen
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  vandaag<br />
+  09:47
+</td>
+
+          
+        </tr><tr id="adv-result-196317753" twh-adv-id="196317753" class="light">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <div class="listimg no-foto-available-container">
+      <img src="http://img.2dehands.be/no-foto-available.png" alt="geen foto" title="geen foto" />
+      <div class="no-foto-label">geen foto</div>
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>€&nbsp;500,00</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196317753">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/mercedes-benz/200-serie/280-sel-196317753.html" class="adv-title" title="Mercedes 280 sel kleur groen voor loop of sloop motor is goed. Staat al een aantal jaren stil. Nederlands kenteken mag weg goed voor opmaak of onderdelen. Alleen bellen : 04 72 66 75 03.">
+    <strong>280 sel</strong></a>
+    <div class="teaser">
+      Mercedes 280 sel kleur groen voor loop of sloop motor is goed. Staat al een aantal jaren stil. Nederlands kenteken mag weg goed voor opmaak of onderdelen. Alleen bellen : 04 72 66 75 03.
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Deinze Petegemaande-Leie
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  vandaag<br />
+  09:47
+</td>
+
+          
+        </tr><tr id="adv-result-196317740" twh-adv-id="196317740" class="dark">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/volkswagen/kever/1302-cabrio-project-196317740.html"><img style="margin-top:0px;" width="133" height="100"
+           src="http://img.2dehands.be/f/listthumb/196317740.jpg" alt="1302 cabrio project" title="1302 cabrio project" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>Prijs o.t.k.</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196317740">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/volkswagen/kever/1302-cabrio-project-196317740.html" class="adv-title" title="project vw kever 1302 cabriolet, veel werk aan, slechte kas en bodemplaten best vervangen. cabrio is compleet, rode enkel kas en chassis. 1200 motor die los is, staat al 15 jaar stil, kap is erbij, wel aan vervanging toe, ruiten zijn erbij, deuren in redelijk goede staat. interieur is compleet. Weg wegens tijdgebrek, cabrio belgische aanvraag tot inschrijven, staat wel al 15j op naam, kan aangepast worden, orginele duitse wagen, enkel belgisch 705 vignet bij">
+    <strong>1302 cabrio project</strong></a>
+    <div class="teaser">
+      project vw kever 1302 cabriolet, veel werk aan, slechte kas en bodemplaten best vervangen. cabrio is compleet, rode enkel kas en chassis. 1200 motor die los is, staat al 15 jaar stil, kap is erbij, wel aan vervanging toe, ruiten zijn erbij, deuren in redelijk goede staat. interieur is compleet. Weg wegens tijdgebrek, cabrio belgische aanvraag tot inschrijven, staat wel al 15j op naam, kan aangepast worden, orginele duitse wagen, enkel belgisch 705 vignet bij
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Wellen
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  vandaag<br />
+  09:47
+</td>
+
+          
+        </tr><tr id="adv-result-196317500" twh-adv-id="196317500" class="light">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/mg/overige-modellen/mg-b-mgb-cabriolet-1969-196317500.html"><img style="margin-top:0px;" width="133" height="100"
+           src="http://img.2dehands.be/f/listthumb/196317500.jpg" alt="MG B MGB Cabriolet 1969 Prime Rose Yellow" title="MG B MGB Cabriolet 1969 Prime Rose Yellow" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>€&nbsp;13.950,00</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196317500">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/mg/overige-modellen/mg-b-mgb-cabriolet-1969-196317500.html" class="adv-title" title="MG B MGB Cabriolet 1969 Prime Rose Yellow Hele mooie MGB in de originele MG kleur Prime rose Yellow. Auto verkeert in goede staat, rijdt uitstekend. Mooi chroom, mooi interieur. Wij hebben altijd meer dan 20 MGB’s in voorraad. Kijk voor meer dan 80 foto’s, video en beschikbaarheid op onze website www.erclassics.nl Altijd 250 oldtimers in onze showroom. Inkoop, inruil en bemiddeling mogelijk. Levering in Belgie met oldtimer inschrijving mogelijk. ERclassics, Kleiweg 1, 5145 NA WAALWIJK (nabij de Efteling)...">
+    <strong>MG B MGB Cabriolet 1969 Prime Rose Yellow</strong></a>
+    <div class="teaser">
+      MG B MGB Cabriolet 1969 Prime Rose Yellow Hele mooie MGB in de originele MG kleur Prime rose Yellow. Auto verkeert in goede staat, rijdt uitstekend. Mooi chroom, mooi interieur. Wij hebben altijd meer dan 20 MGB’s in voorraad. Kijk voor meer dan 80 foto’s, video en bes­chi­kba­arh­eid op onze website www­.er­cla­ssi­cs.­nl Altijd 250 oldtimers in onze showroom. Inkoop, inruil en bemiddeling mogelijk. Levering in Belgie met oldtimer inschrijving mogelijk. ERclassics, Kleiweg 1, 5145 NA WAALWIJK (nabij de Efteling)...
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Antwerpen
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  vandaag<br />
+  09:45
+</td>
+
+          
+        </tr><tr id="adv-result-196317343" twh-adv-id="196317343" class="dark">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/buick/special/buick-special-1956-322-nailhead-196317343.html"><img style="margin-top:0px;" width="133" height="100"
+           src="http://img.2dehands.be/f/listthumb/196317343.jpg" alt="Buick special 1956 met 322 nailhead 5.3L V8" title="Buick special 1956 met 322 nailhead 5.3L V8" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>€&nbsp;8.250,00</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196317343">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/buick/special/buick-special-1956-322-nailhead-196317343.html" class="adv-title" title="De oldtimer is in PERFECT rijdend staat, ik heb er zelf al half Belgie mee afgereden en loopt probleemloos 120km/u, mechanisch in top conditie maar de body vraagt aandacht of ideaal voor RAD look. Deze wagen is een leuk project voor wie tussendoor toch ook eens een ritje wil maken, je kan hem makkelijk stuk per stuk restaureren. Niks ontbreekt aan de wagen, alles zit erbij (behalve reservewiel). Achteraan Monroe schokdempers die in hardheid regelbaar zijn. De wagen is 100% origineel en in deze staat door...">
+    <strong>Buick special 1956 met 322 nailhead 5.3L V8</strong></a>
+    <div class="teaser">
+      De oldtimer is in PERFECT rijdend staat, ik heb er zelf al half Belgie mee afgereden en loopt probleemloos 120km/u, mechanisch in top conditie maar de body vraagt aandacht of ideaal voor RAD look. Deze wagen is een leuk project voor wie tussendoor toch ook eens een ritje wil maken, je kan hem makkelijk stuk per stuk restaureren. Niks ontbreekt aan de wagen, alles zit erbij (behalve reservewiel). Achteraan Monroe schokdempers die in hardheid regelbaar zijn. De wagen is 100% origineel en in deze staat door...
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Beernem
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  vandaag<br />
+  09:43
+</td>
+
+          
+        </tr><tr id="adv-result-196316470" twh-adv-id="196316470" class="light">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/mg/overige-modellen/mgb-cabriolet-british-racing-green-196316470.html"><img style="margin-top:0px;" width="133" height="100"
+           src="http://img.2dehands.be/f/listthumb/196316470.jpg" alt="MGB Cabriolet British Racing Green volledig gerestaureerd" title="MGB Cabriolet British Racing Green volledig gerestaureerd" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>€&nbsp;24.950,00</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196316470">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/mg/overige-modellen/mgb-cabriolet-british-racing-green-196316470.html" class="adv-title" title="MGB Cabriolet British Racing Green volledig gerestaureerd Volledig gerestaureeerde MGB Cabriolet in de kleur British Racing Green met beige lederen stoelen, houten stuurwiel, chromen spaakwielen, houtlook dashboard etc. Fantastisch mooie MGB in uitzonderlijke mooie staat. Kijk voor meer dan 80 foto’s, video en beschikbaarheid op onze website www.erclassics.nl Altijd 250 oldtimers in onze showroom. Inkoop, inruil en bemiddeling mogelijk. Levering in Belgie met oldtimer inschrijving mogelijk. ERclassics,...">
+    <strong>MGB Cabriolet British Racing Green volledig gerestaureerd</strong></a>
+    <div class="teaser">
+      MGB Cabriolet British Racing Green volledig gerestaureerd Volledig ger­est­aur­eee­rde MGB Cabriolet in de kleur British Racing Green met beige lederen stoelen, houten stuurwiel, chromen spaakwielen, houtlook dashboard etc. Fantastisch mooie MGB in uitzonderlijke mooie staat. Kijk voor meer dan 80 foto’s, video en bes­chi­kba­arh­eid op onze website www­.er­cla­ssi­cs.­nl Altijd 250 oldtimers in onze showroom. Inkoop, inruil en bemiddeling mogelijk. Levering in Belgie met oldtimer inschrijving mogelijk. ERclassics,...
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Antwerpen
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  vandaag<br />
+  09:36
+</td>
+
+          
+        </tr><tr id="adv-result-196316324" twh-adv-id="196316324" class="dark">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/chevrolet/corvette/chevrolet-corvette-c3-targa-1979-196316324.html"><img style="margin-top:0px;" width="133" height="100"
+           src="http://img.2dehands.be/f/listthumb/196316324.jpg" alt="Chevrolet Corvette C3 Targa 1979 in zeer goede staat" title="Chevrolet Corvette C3 Targa 1979 in zeer goede staat" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>€&nbsp;19.750,00</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196316324">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/chevrolet/corvette/chevrolet-corvette-c3-targa-1979-196316324.html" class="adv-title" title="Chevrolet Corvette C3 Targa 1979 in zeer goede staat Zeer mooie en in zeer goede staat onderhouden Chevrolet Corvette C3 Targa uit 1979. Triple black uitvoering met mooie chroomaccenten. Rijdt zeer goed, echt een plaatje om te zien. Originele V8, 5733 cc motor. Auto heeft Belgische inschrijving. Kijk voor meer dan 80 foto’s, video en beschikbaarheid op onze website www.erclassics.nl Altijd 250 oldtimers in onze showroom. Inkoop, inruil en bemiddeling mogelijk. Levering in Belgie met oldtimer inschrijving...">
+    <strong>Chevrolet Corvette C3 Targa 1979 in zeer goede staat</strong></a>
+    <div class="teaser">
+      Chevrolet Corvette C3 Targa 1979 in zeer goede staat Zeer mooie en in zeer goede staat onderhouden Chevrolet Corvette C3 Targa uit 1979. Triple black uitvoering met mooie chr­oom­acc­ent­en. Rijdt zeer goed, echt een plaatje om te zien. Originele V8, 5733 cc motor. Auto heeft Belgische inschrijving. Kijk voor meer dan 80 foto’s, video en bes­chi­kba­arh­eid op onze website www­.er­cla­ssi­cs.­nl Altijd 250 oldtimers in onze showroom. Inkoop, inruil en bemiddeling mogelijk. Levering in Belgie met oldtimer ins­chr­ijv­ing­...
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Antwerpen
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  vandaag<br />
+  09:35
+</td>
+
+          
+        </tr><tr id="adv-result-196313350" twh-adv-id="196313350" class="light">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/chevrolet/corvette/corvette-c3-stingray-t-roof-l82-196313350.html"><img style="margin-top:12px;" width="133" height="75"
+           src="http://img.2dehands.be/f/listthumb/196313350.jpg" alt="Corvette C3 stingray T-Roof L82" title="Corvette C3 stingray T-Roof L82" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>€&nbsp;10.500,00</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196313350">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/chevrolet/corvette/corvette-c3-stingray-t-roof-l82-196313350.html" class="adv-title" title="hierbij bied ik mijn corvette stingray c3 aan. Wagen was gekocht met de bedoeling verder op te maken en het uiteindelijke werk wat eraan is me wat tegenvalt (wou er graag deze zomer mee rijden maar met de tijd die ik heb krijg ik em niet tijdig af.) Beschikt ook over 'n gelijkvormigheidsattest dus kan ook (buiten oldtimer) als dagelijks vervoer ingeschreven worden. Is zeer netjes in de lak (rode) met hier en daar 'n klein gebruikersspoor. Interieur heeft wat opknapwerk nodig en mechanisch zou ie ook eens...">
+    <strong>Corvette C3 stingray T-Roof L82</strong></a>
+    <div class="teaser">
+      hierbij bied ik mijn corvette stingray c3 aan. Wagen was gekocht met de bedoeling verder op te maken en het uiteindelijke werk wat eraan is me wat tegenvalt (wou er graag deze zomer mee rijden maar met de tijd die ik heb krijg ik em niet tijdig af.) Beschikt ook over 'n gel­ijk­vor­mig­hei­dsa­tte­st dus kan ook (buiten oldtimer) als dagelijks vervoer ingeschreven worden. Is zeer netjes in de lak (rode) met hier en daar 'n klein geb­rui­ker­ssp­oor­. Interieur heeft wat opknapwerk nodig en mechanisch zou ie ook eens...
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Diepenbeek Genk
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  vandaag<br />
+  09:14
+</td>
+
+          
+        </tr><tr id="adv-result-196311243" twh-adv-id="196311243" class="dark">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/renault/overige-modellen/renault-16-pi%C3%A8ces-pour-196311243.html"><img style="margin-top:0px;" width="133" height="100"
+           src="http://img.2dehands.be/f/listthumb/196311243.jpg" alt="Renault 16 (pièces pour)" title="Renault 16 (pièces pour)" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>€&nbsp;1.000,00</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196311243">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/renault/overige-modellen/renault-16-pi%C3%A8ces-pour-196311243.html" class="adv-title" title="vertservice.net Prix TTC Vendu en l'état Pour pièces et/ou collectionneur Année: Mai '70 KM: 67.220 KM 1 Seul Propriétaire N'hésitez pas à nous contacter: 087/67.89.48 ou info@vertservice.net">
+    <strong>Renault 16 (pièces pour)</strong></a>
+    <div class="teaser">
+      ver­tse­rvi­ce.­net Prix TTC Vendu en l'état Pour pièces et/ou collectionneur Année: Mai '70 KM: 67.220 KM 1 Seul Propriétaire N'hésitez pas à nous contacter: 087/67.89.48 ou inf­o@v­ert­ser­vic­e.n­et
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Herve Battice
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  vandaag<br />
+  08:56
+</td>
+
+          
+        </tr><tr id="adv-result-196308553" twh-adv-id="196308553" class="light">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/fiat/overige-modellen/te-koop-fiat-abarth-1000-196308553.html"><img style="margin-top:0px;" width="133" height="99"
+           src="http://img.2dehands.be/f/listthumb/196308553.jpg" alt="te koop fiat abarth 1000 tc" title="te koop fiat abarth 1000 tc" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>Prijs o.t.k.</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196308553">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/fiat/overige-modellen/te-koop-fiat-abarth-1000-196308553.html" class="adv-title" title="te koop fiat abarth 1000 tc in nieuwe staat met 23000 km de fiat is al meer dan 38 jaar in mijn bezit zeer unieke wagen en snel . gsm 0475461457">
+    <strong>Te koop fiat abarth 1000 tc</strong></a>
+    <div class="teaser">
+      te koop fiat abarth 1000 tc in nieuwe staat met 23000 km de fiat is al meer dan 38 jaar in mijn bezit zeer unieke wagen en snel . gsm 0475461457
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Herentals
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  vandaag<br />
+  08:33
+</td>
+
+          
+        </tr><tr id="adv-result-196308405" twh-adv-id="196308405" class="dark">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/lancia/overige-modellen/lancia-beta-coupe-2000cc-196308405.html"><img style="margin-top:0px;" width="133" height="100"
+           src="http://img.2dehands.be/f/listthumb/196308405.jpg" alt="lancia beta coupe 2000CC" title="lancia beta coupe 2000CC" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>€&nbsp;2.750,00</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196308405">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/lancia/overige-modellen/lancia-beta-coupe-2000cc-196308405.html" class="adv-title" title="lancia beta coupe 2000 cc , rouge cuir beige en bon etat general , 0497742604">
+    <strong>Lancia beta coupe 2000CC</strong></a>
+    <div class="teaser">
+      lancia beta coupe 2000 cc , rouge cuir beige en bon etat general , 0497742604
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Binche Leval-Trahegnies
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  vandaag<br />
+  08:32
+</td>
+
+          
+        </tr><tr id="adv-result-196305408" twh-adv-id="196305408" class="light">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <div class="listimg no-foto-available-container">
+      <img src="http://img.2dehands.be/no-foto-available.png" alt="geen foto" title="geen foto" />
+      <div class="no-foto-label">geen foto</div>
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>€&nbsp;9.500,00</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196305408">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/overige-merken/overige-modellen/international-pick-up-stepside-196305408.html" class="adv-title" title="International international pick up 1951 Ref. 2047, Just bought this International pickup from 1951 . complete original International, nice looking truck, needs interior to be finished***We are only : - 60 km from Brussel- 70 km from Eindhoven- 100 km from Aachen- 350 km from Paris - ***NORMAL PRICE 11000€ =Now only SUMMER SALE take-away price = 7851€+21% btw =9500€ ***">
+    <strong>International, pick up, stepside</strong></a>
+    <div class="teaser">
+      International international pick up 1951 Ref. 2047, Just bought this International pickup from 1951 . complete original International, nice looking truck, needs interior to be finished***We are only : - 60 km from Brussel- 70 km from Eindhoven- 100 km from Aachen- 350 km from Paris - ***NORMAL PRICE 11000€ =Now only SUMMER SALE take-away price = 7851€+21% btw =9500€ ***
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Westerlo
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  vandaag<br />
+  08:04
+</td>
+
+          
+        </tr><tr id="adv-result-196290783" twh-adv-id="196290783" class="dark">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/volkswagen/kever/cox-1300-1964-196290783.html"><img style="margin-top:0px;" width="133" height="100"
+           src="http://img.2dehands.be/f/listthumb/196290783.jpg" alt="cox 1300 de 1964" title="cox 1300 de 1964" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>€&nbsp;5.000,00</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196290783">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/volkswagen/kever/cox-1300-1964-196290783.html" class="adv-title" title="cox 64 tres tres saine ; plancher et longerons tres propre carrosserie qq endroits a revoir mais bon etat globalement interieur en bon etat ; tout fonctionne tres bonne mecanique ; roule bien papier Hollandais ; simple a immatriculer PAS D ECHANGES SVP 0496 56 84 87">
+    <strong>Cox 1300 de 1964</strong></a>
+    <div class="teaser">
+      cox 64 tres tres saine ; plancher et longerons tres propre carrosserie qq endroits a revoir mais bon etat globalement interieur en bon etat ; tout fonctionne tres bonne mecanique ; roule bien papier Hollandais ; simple a immatriculer PAS D ECHANGES SVP 0496 56 84 87
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Le Roeulx Mignault
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  vandaag<br />
+  00:27
+</td>
+
+          
+        </tr><tr id="adv-result-196290593" twh-adv-id="196290593" class="light">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/volkswagen/kever/cox-1300-1966-avec-toit-196290593.html"><img style="margin-top:0px;" width="133" height="100"
+           src="http://img.2dehands.be/f/listthumb/196290593.jpg" alt="cox 1300 de 1966 avec toit ouvrant" title="cox 1300 de 1966 avec toit ouvrant" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>€&nbsp;4.500,00</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196290593">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/volkswagen/kever/cox-1300-1966-avec-toit-196290593.html" class="adv-title" title="cox de 66 avec toit ouvrant qui fonctionne bien carrosserie en bon etat ; longerons en bon etat ; plancher a reparer par endroits tres bonne mecanique ; demarre au 1/4 de tour et roule tres bien tout fonctionne papier Hollandais ; simple a immatriculer PAS D ECHANGE C EST PAS LA PEINE PAS D OFFRES DEBILES SVP 4500 EUROS FERME 0496 56 84 87">
+    <strong>Cox 1300 de 1966 avec toit ouvrant</strong></a>
+    <div class="teaser">
+      cox de 66 avec toit ouvrant qui fonctionne bien carrosserie en bon etat ; longerons en bon etat ; plancher a reparer par endroits tres bonne mecanique ; demarre au 1/4 de tour et roule tres bien tout fonctionne papier Hollandais ; simple a immatriculer PAS D ECHANGE C EST PAS LA PEINE PAS D OFFRES DEBILES SVP 4500 EUROS FERME 0496 56 84 87
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Le Roeulx Mignault
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  vandaag<br />
+  00:21
+</td>
+
+          
+        </tr><tr id="adv-result-196290446" twh-adv-id="196290446" class="dark">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/fiat/128/fiat-128-196290446.html"><img style="margin-top:0px;" width="133" height="100"
+           src="http://img.2dehands.be/f/listthumb/196290446.jpg" alt="fiat 128" title="fiat 128" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>€&nbsp;1.800,00</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196290446">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/fiat/128/fiat-128-196290446.html" class="adv-title" title="A vendre fiat 128 1.1cc avec 63000 km 1é propriétaire très bon état, moteur ok intérieur nikel état d'origine, a prendre tel quelle curieux s'abstenir">
+    <strong>Fiat 128</strong></a>
+    <div class="teaser">
+      A vendre fiat 128 1.1cc avec 63000 km 1é propriétaire très bon état, moteur ok intérieur nikel état d'origine, a prendre tel quelle curieux s'abstenir
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Charleroi
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  vandaag<br />
+  00:16
+</td>
+
+          
+        </tr><tr id="adv-result-196289129" twh-adv-id="196289129" class="light">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/mercedes-benz/200-serie/mercedes-w115-240-diesel-bwj-196289129.html"><img style="margin-top:0px;" width="133" height="100"
+           src="http://img.2dehands.be/f/listthumb/196289129.jpg" alt="mercedes w115 240 diesel bwj 1973 oldtimer !!!" title="mercedes w115 240 diesel bwj 1973 oldtimer !!!" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>€&nbsp;1.250,00</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196289129">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/mercedes-benz/200-serie/mercedes-w115-240-diesel-bwj-196289129.html" class="adv-title" title="Hoi, Ik heb hier een Mercedes w115 240 DIESEL van bouwjaar 1972 ! Deze is in goede staat hier en daar roestplekjes maar niets ernstigs is wel een beetje werk aan. Interieur ziet er ook gewoon ok uit. Er steekt momenteel geen motor in. Ik heb de motor blok wat een 240 diesel is liggen bij mij in de garage deze zou gereviseerd moeten worden. Hij is volledig inorde. De wagen heeft Nederlandse papieren dus komt van Nederland. Wagen kan zonder motor gekocht worden ofwel beiden samen. Mail, Sms, Bel of Whatsapp...">
+    <strong>Mercedes w115 240 diesel bwj 1973 oldtimer !!!</strong></a>
+    <div class="teaser">
+      Hoi, Ik heb hier een Mercedes w115 240 DIESEL van bouwjaar 1972 ! Deze is in goede staat hier en daar roestplekjes maar niets ernstigs is wel een beetje werk aan. Interieur ziet er ook gewoon ok uit. Er steekt momenteel geen motor in. Ik heb de motor blok wat een 240 diesel is liggen bij mij in de garage deze zou gereviseerd moeten worden. Hij is volledig inorde. De wagen heeft Nederlandse papieren dus komt van Nederland. Wagen kan zonder motor gekocht worden ofwel beiden samen. Mail, Sms, Bel of Whatsapp...
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Hoeselt
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  gisteren<br />
+  23:41
+</td>
+
+          
+        </tr><tr id="adv-result-196287804" twh-adv-id="196287804" class="dark">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/mercedes-benz/overige-modellen/w115-200d-196287804.html"><img style="margin-top:0px;" width="133" height="100"
+           src="http://img.2dehands.be/f/listthumb/196287804.jpg" alt="w115 200D" title="w115 200D" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>€&nbsp;2.500,00</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196287804">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/mercedes-benz/overige-modellen/w115-200d-196287804.html" class="adv-title" title="mercedes 200 diesel en bon etat , peu repartir par la route sans probleme">
+    <strong>W115 200D</strong></a>
+    <div class="teaser">
+      mercedes 200 diesel en bon etat , peu repartir par la route sans probleme
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Mons
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  gisteren<br />
+  23:12
+</td>
+
+          
+        </tr><tr id="adv-result-196285575" twh-adv-id="196285575" class="light">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <div class="listimg no-foto-available-container">
+      <img src="http://img.2dehands.be/no-foto-available.png" alt="geen foto" title="geen foto" />
+      <div class="no-foto-label">geen foto</div>
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>€&nbsp;4.500,00</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196285575">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/fiat/500/fiat-500-l-1968-196285575.html" class="adv-title" title="voiture importée de Sicile et entièrement restaurée il y a 2 ans nouveau plancher, nouveau bas de caisse, nouvelle peinture( identique a l'origine) nouvel intérieur, moteur révisé partie électrique neuve. actuellement immatriculée en ancêtre raison de la vente plus de garage pour la stocker et utilisation très rare. (500km en 2 ans). photo trop volumineuse pour les insérée sur 2 main envoi par mail sur demande.">
+    <strong>Fiat 500 l 1968</strong></a>
+    <div class="teaser">
+      voiture importée de Sicile et entièrement restaurée il y a 2 ans nouveau plancher, nouveau bas de caisse, nouvelle peinture( identique a l'origine) nouvel intérieur, moteur révisé partie électrique neuve. actuellement immatriculée en ancêtre raison de la vente plus de garage pour la stocker et utilisation très rare. (500km en 2 ans). photo trop volumineuse pour les insérée sur 2 main envoi par mail sur demande.
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Châtelet Châtelineau
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  gisteren<br />
+  22:34
+</td>
+
+          
+        </tr><tr id="adv-result-196281948" twh-adv-id="196281948" class="dark">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/overige-merken/overige-modellen/mercedes-74-diesel-196281948.html"><img style="margin-top:11px;" width="133" height="78"
+           src="http://img.2dehands.be/f/listthumb/196281948.jpg" alt="Mercedes '74 Diesel" title="Mercedes '74 Diesel" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>€&nbsp;1.500,00</span>
+  
+  <br/>Biedingen:&nbsp;1
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196281948">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/overige-merken/overige-modellen/mercedes-74-diesel-196281948.html" class="adv-title" title="*Auto start *geen sleutel en radiator voor meer info bellen naar: 0485 95 42 07 gevraagde prijs 1500 euro">
+    <strong>Mercedes '74 Diesel</strong></a>
+    <div class="teaser">
+      *Auto start *geen sleutel en radiator voor meer info bellen naar: 0485 95 42 07 gevraagde prijs 1500 euro
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Lokeren
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  gisteren<br />
+  21:42
+</td>
+
+          
+        </tr><tr id="adv-result-196281881" twh-adv-id="196281881" class="light">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/fiat/500/perfecte-fiat-500-volledige-restauratie-196281881.html"><img style="margin-top:0px;" width="100" height="100"
+           src="http://img.2dehands.be/f/listthumb/196281881.jpg" alt="Perfecte Fiat 500 , volledige restauratie" title="Perfecte Fiat 500 , volledige restauratie" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>€&nbsp;4.995,00</span>
+  
+  <br/>Biedingen:&nbsp;3
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196281881">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/fiat/500/perfecte-fiat-500-volledige-restauratie-196281881.html" class="adv-title" title="In perfecte staat, nieuwe lak, veel nieuwe stukken. Foto's spreken voor zich. Bel gerust voor meer info. 0477/95 70 94">
+    <strong>Perfecte Fiat 500 , volledige restauratie</strong></a>
+    <div class="teaser">
+      In perfecte staat, nieuwe lak, veel nieuwe stukken. Foto's spreken voor zich. Bel gerust voor meer info. 0477/95 70 94
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Denderleeuw Welle
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  gisteren<br />
+  21:41
+</td>
+
+          
+        </tr><tr id="adv-result-196276870" twh-adv-id="196276870" class="dark">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/nissan/overige-modellen/gezocht-nissan-cedric-196276870.html"><img style="margin-top:20px;" width="133" height="60"
+           src="http://img.2dehands.be/f/listthumb/196276870.jpg" alt="gezocht: nissan cedric" title="gezocht: nissan cedric" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>N.v.t.</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196276870">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/nissan/overige-modellen/gezocht-nissan-cedric-196276870.html" class="adv-title" title="datsun type 330, gebouwd tss '75 en '79, 220c diesel of 260c benzine in goede staat of voor onderdelen, tegen redelijke prijs alles aanbieden">
+    <strong>Gezocht: nissan cedric</strong></a>
+    <div class="teaser">
+      datsun type 330, gebouwd tss '75 en '79, 220c diesel of 260c benzine in goede staat of voor onderdelen, tegen redelijke prijs alles aanbieden
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Beringen
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  gisteren<br />
+  20:44
+</td>
+
+          
+        </tr><tr id="adv-result-195730474" twh-adv-id="195730474" class="light">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/bmw/7-serie/bmw-728i-e23-ruilen-tegen-195730474.html"><img style="margin-top:12px;" width="133" height="75"
+           src="http://img.2dehands.be/f/listthumb/195730474.jpg" alt="bmw 728i e23( ruilen tegen kleinere oldtimer)" title="bmw 728i e23( ruilen tegen kleinere oldtimer)" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>Prijs o.t.k.</span>
+  
+  <br/>Biedingen:&nbsp;1
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-195730474">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/bmw/7-serie/bmw-728i-e23-ruilen-tegen-195730474.html" class="adv-title" title="Zeer propere bmw e23 728i Staat nu op 261000km normaal voor een wagen van 35 jaar oud. Mooie origineel staat . Originele bmw bbs velgen met nieuwe banden Remmen , olie , olie filter en lucht filter is vervangen. Schuif en kanteldak Servo 2 sleutels Perfect werkende Lpg installatie. Zeer zuinige auto met lpg . 5versnellingen EVENTUEEL RUILEN TEGEN EEN KLEINERE NETTE OLDTIMER MET GAS LIEFST">
+    <strong>Bmw 728i e23( ruilen tegen kleinere oldtimer)</strong></a>
+    <div class="teaser">
+      Zeer propere bmw e23 728i Staat nu op 261000km normaal voor een wagen van 35 jaar oud. Mooie origineel staat . Originele bmw bbs velgen met nieuwe banden Remmen , olie , olie filter en lucht filter is vervangen. Schuif en kanteldak Servo 2 sleutels Perfect werkende Lpg installatie. Zeer zuinige auto met lpg . 5versnellingen EVENTUEEL RUILEN TEGEN EEN KLEINERE NETTE OLDTIMER MET GAS LIEFST
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Maasmechelen
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  gisteren<br />
+  20:26
+</td>
+
+          
+        </tr><tr id="adv-result-167655058" twh-adv-id="167655058" class="dark">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/cadillac/seville/cadillac-seville-167655058.html"><img style="margin-top:0px;" width="133" height="100"
+           src="http://img.2dehands.be/f/listthumb/167655058.jpg" alt="cadillac seville" title="cadillac seville" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>€&nbsp;6.000,00</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-167655058">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/cadillac/seville/cadillac-seville-167655058.html" class="adv-title" title="Bon état général. 41400km V8 6L Intérieur gris clair. Radiateur et échappement neufs. J'ai acheté ce véhicule au premier propriétaire le 18 / 10 / 1994 et immatriculé le 03 / 11 / 1994. Je possède tous les documents livrés d'origine avec la voiture: Manuel d'utilisateur, guide de l'usager renseignements généraux, supplément au guide de l'usager, certificat de garantie avec date de livraison et carte grise d'origine. Historique rare. Ce véhicule était immatriculé en plaques normales à mon nom depuis 1994....">
+    <strong>Cadillac seville</strong></a>
+    <div class="teaser">
+      Bon état général. 41400km V8 6L Intérieur gris clair. Radiateur et échappement neufs. J'ai acheté ce véhicule au premier propriétaire le 18 / 10 / 1994 et immatriculé le 03 / 11 / 1994. Je possède tous les documents livrés d'origine avec la voiture: Manuel d'utilisateur, guide de l'usager renseignements généraux, supplément au guide de l'usager, certificat de garantie avec date de livraison et carte grise d'origine. Historique rare. Ce véhicule était immatriculé en plaques normales à mon nom depuis 1994....
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Charleroi Montigniessur-Sambre
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  gisteren<br />
+  20:22
+</td>
+
+          
+        </tr><tr id="adv-result-196274107" twh-adv-id="196274107" class="light">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/citro%C3%ABn/overige-modellen/kuifje-car-196274107.html"><img style="margin-top:0px;" width="133" height="100"
+           src="http://img.2dehands.be/f/listthumb/196274107.jpg" alt="kuifje car" title="kuifje car" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>Prijs o.t.k.</span>
+  
+  <br/>Biedingen:&nbsp;5
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196274107">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/citro%C3%ABn/overige-modellen/kuifje-car-196274107.html" class="adv-title" title="zeer mooi car met moteur mazda ok">
+    <strong>Kuifje car</strong></a>
+    <div class="teaser">
+      zeer mooi car met moteur mazda ok
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Zelzate
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  gisteren<br />
+  20:12
+</td>
+
+          
+        </tr><tr id="adv-result-196273437" twh-adv-id="196273437" class="dark">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/volkswagen/kever/vw-cox-63-196273437.html"><img style="margin-top:0px;" width="56" height="100"
+           src="http://img.2dehands.be/f/listthumb/196273437.jpg" alt="Vw Cox 63" title="Vw Cox 63" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>€&nbsp;5.000,00</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196273437">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/volkswagen/kever/vw-cox-63-196273437.html" class="adv-title" title="Je me separe de ma Cox modèle 1963 Il y a dessus , nouveaux longerons , nouveaux planchers , châssis repeint , freins refait , train avant rétréci et réglable , fusées decalees,... Nouvelle peinture complète et volontairement usée pour le look patina . Reste une ou deux babioles a remonter , rien de grave 0477.17.00.25">
+    <strong>Vw Cox 63</strong></a>
+    <div class="teaser">
+      Je me separe de ma Cox modèle 1963 Il y a dessus , nouveaux longerons , nouveaux planchers , châssis repeint , freins refait , train avant rétréci et réglable , fusées decalees,... Nouvelle peinture complète et volontairement usée pour le look patina . Reste une ou deux babioles a remonter , rien de grave 0477.17.00.25
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Mons
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  gisteren<br />
+  20:05
+</td>
+
+          
+        </tr><tr id="adv-result-196267962" twh-adv-id="196267962" class="light">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <div class="listimg no-foto-available-container">
+      <img src="http://img.2dehands.be/no-foto-available.png" alt="geen foto" title="geen foto" />
+      <div class="no-foto-label">geen foto</div>
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>Prijs o.t.k.</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196267962">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/volkswagen/kever/reherche-carbu-34-pict-3-196267962.html" class="adv-title" title="je recherche un carbu 34 pict 3 de vw cox pour se samedi tres urgent">
+    <strong>Reherche carbu 34 pict 3 d urgence</strong></a>
+    <div class="teaser">
+      je recherche un carbu 34 pict 3 de vw cox pour se samedi tres urgent
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Engis Hermallesous-Huy
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  gisteren<br />
+  18:54
+</td>
+
+          
+        </tr><tr id="adv-result-196267342" twh-adv-id="196267342" class="dark">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/alfa-romeo/spider/wl-196267342.html"><img style="margin-top:0px;" width="133" height="100"
+           src="http://img.2dehands.be/f/listthumb/196267342.jpg" alt="wl" title="wl" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>Ruilen</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196267342">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/alfa-romeo/spider/wl-196267342.html" class="adv-title" title="pour amateur WL civil reste a terminé le réglage carburateur, allumage neuf, en 12 volt, bel état 0496928373 changement de projet ou échange contre spider même valeur">
+    <strong>Wl</strong></a>
+    <div class="teaser">
+      pour amateur WL civil reste a terminé le réglage carburateur, allumage neuf, en 12 volt, bel état 0496928373 changement de projet ou échange contre spider même valeur
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Chapellelez-Herlaimont Piéton
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  gisteren<br />
+  18:45
+</td>
+
+          
+        </tr><tr id="adv-result-196266760" twh-adv-id="196266760" class="light">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/ford/thunderbird/thunderbird-1957-196266760.html"><img style="margin-top:0px;" width="133" height="100"
+           src="http://img.2dehands.be/f/listthumb/196266760.jpg" alt="Thunderbird  - 1957 -" title="Thunderbird  - 1957 -" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>€&nbsp;39.000,00</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196266760">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/ford/thunderbird/thunderbird-1957-196266760.html" class="adv-title" title="- Uitstekende Ford Thunderbird 1957 312 V8 5113 cc het (Niet te verwarren met een 1955 of 1956!) - In België sinds 1997 - Laatste eigenaar sinds 2004 - Hard Top - Nieuwe blauwe kap! - Blauw lederen interieur covers - Werkt perfect - Mogelijke terugkeer mogelijk! - Een juweel zien!">
+    <strong>Thunderbird - 1957 -</strong></a>
+    <div class="teaser">
+      - Uitstekende Ford Thunderbird 1957 312 V8 5113 cc het (Niet te verwarren met een 1955 of 1956!) - In België sinds 1997 - Laatste eigenaar sinds 2004 - Hard Top - Nieuwe blauwe kap! - Blauw lederen interieur covers - Werkt perfect - Mogelijke terugkeer mogelijk! - Een juweel zien!
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Luik
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  gisteren<br />
+  18:38
+</td>
+
+          
+        </tr><tr id="adv-result-196266699" twh-adv-id="196266699" class="dark">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/chevrolet/overige-modellen/chevrolet-196266699.html"><img style="margin-top:0px;" width="133" height="100"
+           src="http://img.2dehands.be/f/listthumb/196266780.jpg" alt="Chevrolet" title="Chevrolet" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>€&nbsp;4.500,00</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196266699">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/chevrolet/overige-modellen/chevrolet-196266699.html" class="adv-title" title="Chevrolet fleetmaster de luxe bj1948 carrosserie in goede staat moter staat los moet afgeregeld worden moet nog afgewerkt worden">
+    <strong>Chevrolet</strong></a>
+    <div class="teaser">
+      Chevrolet fleetmaster de luxe bj1948 carrosserie in goede staat moter staat los moet afgeregeld worden moet nog afgewerkt worden
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Eeklo
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  gisteren<br />
+  18:37
+</td>
+
+          
+        </tr><tr id="adv-result-196266442" twh-adv-id="196266442" class="light">
+          
+          
+            <td>
+  <div class="foto-cell-container">
+    <a href="http://www.2dehands.be/autos/alfa-romeo/spider/guzzi-196266442.html"><img style="margin-top:0px;" width="133" height="100"
+           src="http://img.2dehands.be/f/listthumb/196266442.jpg" alt="guzzi" title="guzzi" class="listimg" /></a>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <span>Ruilen</span>
+  
+</td>
+
+          
+          
+            <td id="adv-result-title_description-196266442">
+  <div class="lijstuitvoer-column-container adv-description dotdotdot"><a href="http://www.2dehands.be/autos/alfa-romeo/spider/guzzi-196266442.html" class="adv-title" title="moto guzzi ercole état Nikel ,châssis sablé micro sablage avec bac basculent belle pièce ou échange contre alfa spider valeur minimum">
+    <strong>Guzzi</strong></a>
+    <div class="teaser">
+      moto guzzi ercole état Nikel ,châssis sablé micro sablage avec bac basculent belle pièce ou échange contre alfa spider valeur minimum
+    </div>
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  <div class="lijstuitvoer-column-container">
+  Chapellelez-Herlaimont Piéton
+  </div>
+</td>
+
+          
+          
+            <td class="spec">
+  gisteren<br />
+  18:33
+</td>
+
+          
+        </tr>
+      </tbody><thead>
+  <tr>
+  
+    
+    
+<th id="foto_column_header" class="corner_left"  >
+  <div class="first">
+      <span class="markt_th_sort">Foto</span>
+  </div>
+</th>
+
+  
+    
+    
+<th id="prijs_column_header"  >
+  <div >
+    <a id="prijs-sort" href="?sort=prijs&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all" class="markt_th_sort">Prijs</a>
+  </div>
+</th>
+
+  
+    
+    
+<th id="zoekertje_column_header" width="100%"  >
+  <div >
+      <span class="markt_th_sort">Zoekertje</span>
+  </div>
+</th>
+
+  
+    
+    
+<th id="plaats_column_header"  >
+  <div >
+      <span class="markt_th_sort">Plaats</span>
+  </div>
+</th>
+
+  
+    
+    
+<th id="datum_column_header" class="corner_right"  >
+  <div class="pnbeneden last">
+    <a id="datum_desc-sort" href="?sort=datum_desc&amp;auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all" class="markt_th_sort">Datum</a>
+  </div>
+</th>
+
+  
+  </tr>
+  
+          
+<tr class="afc-csi" id="adsense_tr_top">
+  <td class="dark-yellow">&nbsp;</td>
+  <td class="light-yellow">&nbsp;</td>
+  <td class="light-yellow" colspan="3">
+<div class="afc_csi_container" id="csi-block-list_top">
+<script type="text/javascript">
+(function($) {
+  var width = $("#csi-block-list_top").width()
+    || 350; /* Fallback for browsers that do not set width (i.e. IE7) */
+  width     = Math.min( width, 1200 );
+
+  google_ad_client       = "ca-2dehands-be";
+  google_max_num_ads     = "3";
+  google_language        = "nl";
+  google_hints           = "auto";
+  google_override_format = true;
+  google_ad_channel      = "auto_lrp_t";
+  google_ad_type         = 'text';
+  google_ad_width        = width;
+  google_ad_height       = 150;
+  google_alternate_color = '';
+
+
+  google_color_bg        = 'fff4bf'; // the ads background color is yellow
+  google_color_border    = 'fff4bf'; // the border surrounding ads is same yellow
+
+
+  google_color_link      = '0065a4'; // the ad link is blue
+  google_color_text      = '000000'; // the ad text is black
+  google_color_url       = '0065a4'; // the ad url is blue
+})(jQuery);
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+
+  </td>
+</tr>
+
+</thead>
+
+      
+        
+<tr class="afc-csi" id="adsense_tr_bottom">
+  <td class="dark-yellow">&nbsp;</td>
+  <td class="light-yellow">&nbsp;</td>
+  <td class="light-yellow" colspan="3">
+<div class="afc_csi_container" id="csi-block-list_bottom">
+<script type="text/javascript">
+(function($) {
+  var width = $("#csi-block-list_bottom").width()
+    || 350; /* Fallback for browsers that do not set width (i.e. IE7) */
+  width     = Math.min( width, 1200 );
+
+  google_ad_client       = "ca-2dehands-be";
+  google_max_num_ads     = "3";
+  google_language        = "nl";
+  google_hints           = "auto";
+  google_override_format = true;
+  google_ad_channel      = "auto_lrp_b";
+  google_ad_type         = 'text';
+  google_ad_width        = width;
+  google_ad_height       = 150;
+  google_alternate_color = '';
+
+
+  google_color_bg        = 'fff4bf'; // the ads background color is yellow
+  google_color_border    = 'fff4bf'; // the border surrounding ads is same yellow
+
+
+  google_color_link      = '0065a4'; // the ad link is blue
+  google_color_text      = '000000'; // the ad text is black
+  google_color_url       = '0065a4'; // the ad url is blue
+})(jQuery);
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+
+  </td>
+</tr>
+
+      
+      
+    </table>
+<div class="pages_wrap">
+<ul id="pages">
+    
+        
+            
+                <li id="active">1</li>
+            
+        
+    
+        
+            <li class="pager"><a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;offset=35">2</a></li>
+        
+    
+        
+            <li class="pager"><a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;offset=70">3</a></li>
+        
+    
+        
+            <li class="pager"><a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;offset=105">4</a></li>
+        
+    
+        
+            <li class="pager"><a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;offset=140">5</a></li>
+        
+    
+        
+            <li class="pager"><a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;offset=175">6</a></li>
+        
+    
+        
+            <li class="pager"><a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;offset=210">7</a></li>
+        
+    
+        
+            <li class="pager"><a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;offset=245">8</a></li>
+        
+    
+        
+            <li class="pager"><a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;offset=280">9</a></li>
+        
+    
+        
+            <li class="pager"><a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;offset=315">10</a></li>
+        
+    
+        
+            <li class="pager"><a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;offset=350">11</a></li>
+        
+    
+        
+            <li class="pager"><a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;offset=385">12</a></li>
+        
+    
+        
+            <li class="pager"><a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;offset=420">13</a></li>
+        
+    
+        
+            <li class="pager"><a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;offset=455">14</a></li>
+        
+    
+        
+            <li class="pager"><a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;offset=490">15</a></li>
+        
+    
+        
+            
+                <li>...</li>
+            
+        
+    
+        
+            <li class="pager"><a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;offset=3255" rel="nofollow">94</a></li>
+        
+    
+        
+            <li class="pager-last"><a href="?auto_bj__tot=1980&amp;show_markt_uitvoer=1&amp;plaatsdatum__x=30&amp;locale=all&amp;offset=35">volgende &raquo;</a></li>
+        
+    
+</ul>
+</div>
+<div class="clearer"></div>
+
+
+  
+  </form>
+  
+</div>
+
+<script type="text/javascript">
+  (function($, count, countTemplate, enableCallbacks) {
+    $(document).ready(function(evt) {
+      var selector = '#adv_lijst',
+        countSelector = '.beheer-selection-count';
+
+      if ($(selector).has(countSelector).length == 0) {
+        return;
+      }
+
+      var selection = new TWH.beheer.selection(selector, countSelector, countTemplate, enableCallbacks);
+
+      if (count) {
+        selection.updateSelectedCount(count);
+      }
+    });
+  })(jQuery, 0, "COUNT zoekertje(s) geselecteerd", false);
+</script>
+
+<script>
+
+(function($) {
+  for (var i = 1; i <= 3; i++) {
+    
+    if ($('#lijstuitvoer').width() != $(window).width()) {
+      $('.lijstuitvoer-column-container.adv-description').css({
+        'width': $('.lijstuitvoer-column-container.adv-description').width() + 'px'
+      });
+      $(document).ready(function() {
+        $('.dotdotdot').dotdotdot();
+      });
+      return;
+    }
+  }
+})(jQuery);
+</script>
+
+
+</div>
+
+  
+  <div id="footer">
+    <div class="comp-footer">
+
+  <a href="/doc/privacy.html">Privacy Policy (update)</a>&nbsp;-&nbsp;
+  <a href="/doc/disc.html">Gebruiksvoorwaarden (update)</a>&nbsp;-&nbsp;
+  <a href="/siteoverzicht.html">Sitemap</a>&nbsp;-&nbsp;
+  <a href="http://www.2dehandsmedia.be" target="_blank">Zakelijk adverteren</a>&nbsp;-&nbsp;
+  <a href="/doc/mobiel.html">Mobiel</a>&nbsp;-&nbsp;
+  <a href="http://perskamer.2dehands.be/">Pers</a>&nbsp;-&nbsp;
+  <a href="/doc/eco.html">Eco</a>
+  <br />
+  <a href="http://www.tweedehands.nl/">tweedehands.nl</a>&nbsp;-&nbsp;<a href="http://www.2ememain.be/">2ememain.be</a>&nbsp;-&nbsp;<a href="http://www.secondemain.fr/">secondemain.fr</a>&nbsp;-&nbsp;
+    <a href="/doc/jobs.html">Kom bij ons werken</a>
+  
+  &nbsp;-&nbsp;
+  <a href="/doc/promotie.html">Promotie</a>
+
+</div>
+  </div>
+
+
+  <script type="text/javascript" src="http://img.2dehands.be/css/2241/tail-nl_BE.min.js"></script>
+
+
+  <span id="tracking_javascript_test"></span>
+<script type="text/javascript">
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<script type="text/javascript" id="js_gemius">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = 'B3A7MmNhMJOU1yvI98d4mHZ2.tOZ57rhVDssKfJblUf.I7';
+var pp_gemius_extraparameters = new Array(
+    'lan=NL',
+    'key=autos_nl'
+);
+
+(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');gt.setAttribute('defer','defer'); gt.src=l+'://gabe.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+//--><!]]>
+</script>
+
+<script id="js_mediaplex_def" type="text/javascript">
+var mpx_custom = {
+    new_mpcl: 'l;;auto;auto;;;;;;;;http%3A%2F%2Fwww.2dehands.be%2Fautos%3Fshow_markt_uitvoer%3D1%26auto_bj__tot%3D1980%26locale%3Dall%26plaatsdatum__x%3D30', 
+    new_mpvl: document.referrer
+};
+</script>
+<div id="mediaplex_tracking"></div>
+<script id="js_mediaplex_exec" type="text/javascript">
+(function() {
+    var mpxtag = document.createElement('script');
+    mpxtag.type = 'text/javascript';
+    mpxtag.async = true;
+    mpxtag.src = ('https:' == document.location.protocol ? 'https://secure.' : 'http://') + 'img-cdn.mediaplex.com/0/25462/184792/2dehands_mp_pvt_brand_landing_ns_2013-09-11.js';
+    var smpx = document.getElementsByTagName('script')[0];
+    smpx.parentNode.insertBefore(mpxtag, smpx);
+})();
+</script>
+
+
+  <script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1046302632;
+var google_conversion_label = "BW9yCOTDrQUQqJ_18gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1046302632/?value=0&amp;label=BW9yCOTDrQUQqJ_18gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+</body>
+</html>

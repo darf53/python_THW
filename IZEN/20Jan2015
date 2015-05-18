@@ -1,0 +1,1238 @@
+1|#||4|3837|updatePanel|ContentPlaceHolder1_sdfs|
+            
+            
+        <div id="right">
+        <b><span style="color:#66BF4C">Foto installatie</span></b>
+        <table>
+            <tr>
+                <td colspan="2" style="padding-bottom:10px; text-align:center">
+                    
+                    <img id="ContentPlaceHolder1_photoInst" src="Upload/user172/gfx/photoInst.jpg" style="width:540px;" />
+                  
+                </td>
+                
+                <tr><td><b><span style="color:#66BF4C">Actuele Totaalgegevens</span></b></td>
+                </tr>
+                    
+                    <tr>
+                        <td style="background-image:url(/Images/orangeOne.png); background-repeat:repeat-x">
+                         <fieldset style=" margin-left:0px; margin-right:0px; padding-bottom:10px; padding-left:20px; padding-right:20px; padding-top:5px">
+                         <div style=" float:left; padding-right:5px">
+                            <img id="ContentPlaceHolder1_Image1" src="Images/sun.png" />
+                        </div>
+                         
+                        <span id="ContentPlaceHolder1_first" class="SmartControlFont">Totaal opgewekte</span><br />
+                        <span id="ContentPlaceHolder1_Label1" class="SmartControlFont">zonne-energie in kWh</span>
+                        <div class="smallBreak" ></div>
+                        <img id="ContentPlaceHolder1_ImageTotalProduction" src="smartControl/CounterImageRed.aspx?number=10867" /><input type="image" name="ctl00$ContentPlaceHolder1$btnAdvencedOptions" id="ContentPlaceHolder1_btnAdvencedOptions" title="Update meter reading" src="icons/update.png" style="margin-left: 10px;" /> 
+                        </fieldset>
+                        </td>
+
+                        <td style="background-image:url(/Images/greenOne.png); background-repeat:repeat-x">
+                         <fieldset style=" margin-left:0px; margin-right:0px; padding-bottom:10px; padding-left:20px; padding-right:20px; padding-top:5px">
+                         <div style=" float:left; padding-right:5px">
+                            <img id="ContentPlaceHolder1_obrazek" src="Images/earth.png" />
+                        </div>
+                        <span id="ContentPlaceHolder1_Label2" class="SmartControlFont">Totale CO2 uitstoot</span><br />
+                        <span id="ContentPlaceHolder1_Label3" class="SmartControlFont">besparing in kg</span>
+                        <div class="smallBreak" ></div>
+                        <img id="ContentPlaceHolder1_ImageCO2Prodcution" src="smartControl/CounterImageGreen.aspx?number=6520" /> 
+                        </fieldset>
+                        </td>
+                    
+                    </tr>
+                
+                  
+            </tr>
+        </table>
+        </div>
+        
+        <div style="position: fixed; top: 0px; left: 0px; margin: 0; padding: 0; ">
+
+            <div id="ContentPlaceHolder1_panEdit2" class="ModalWindow" style="height:100px;width:350px;">
+	       
+               <span id="ContentPlaceHolder1_WarningLbl" style="color:Red;"></span>
+               Geef hier de huidige stand in van de groenstroommeter (in kWh). De kWh stand op de site wordt hiermee gesynchroniseerd. Let op u de juiste waarde ingeeft (alle cijfers voor de komma). <input name="ctl00$ContentPlaceHolder1$NewMeterReading" type="text" value="10867" id="ContentPlaceHolder1_NewMeterReading" /> kWh
+               <br />
+               <input type="submit" name="ctl00$ContentPlaceHolder1$Button1" value="OK" id="ContentPlaceHolder1_Button1" />
+               <input type="submit" name="ctl00$ContentPlaceHolder1$btnCancel" value="Cancel" id="ContentPlaceHolder1_btnCancel" />
+            
+</div>
+        </div>
+        |58119|updatePanel|ContentPlaceHolder1_TabContainer1_TabPanel1_DayChartPanel|
+
+
+        
+
+                <div id="dailyChartDiv"  style=" width:100%;">       
+
+                     <table style="text-align:center;margin:auto;">
+                        <tr>
+                            <td>
+                                <input type="image" name="ctl00$ContentPlaceHolder1$TabContainer1$TabPanel1$ImageButton2" id="ContentPlaceHolder1_TabContainer1_TabPanel1_ImageButton2" src="icons/back.png" />
+                            </td>
+                            <td>
+                                <input name="ctl00$ContentPlaceHolder1$TabContainer1$TabPanel1$currentDateTextBox" type="text" value="20/01/2015" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$ContentPlaceHolder1$TabContainer1$TabPanel1$currentDateTextBox\&#39;,\&#39;\&#39;)&#39;, 0)" onkeypress="if (WebForm_TextBoxKeyHandler(event) == false) return false;" id="ContentPlaceHolder1_TabContainer1_TabPanel1_currentDateTextBox" />
+                            </td>
+                            <td>
+                                
+                                <input type="image" name="ctl00$ContentPlaceHolder1$TabContainer1$TabPanel1$ImageButton3" id="ContentPlaceHolder1_TabContainer1_TabPanel1_ImageButton3" src="icons/nextIcon.png" />
+                         </td>
+                       </tr>
+                     </table>
+
+                    
+
+                            <img id="ContentPlaceHolder1_TabContainer1_TabPanel1_DailyChart" src="/ChartImg.axd?i=charts_1/chart_1_19.png&amp;g=e38f614be0294c41853ed251d2f04844" alt="" usemap="#ContentPlaceHolder1_TabContainer1_TabPanel1_DailyChartImageMap" style="height:600px;width:1050px;border-width:0px;" />
+<map name="ContentPlaceHolder1_TabContainer1_TabPanel1_DailyChartImageMap" id="ContentPlaceHolder1_TabContainer1_TabPanel1_DailyChartImageMap">
+
+	<area shape="rect" coords="940,121,945,126" title="Waarde: 8 [kWh] 
+ Uur : 23:45 " alt="Waarde: 8 [kWh] 
+ Uur : 23:45 " />
+	<area shape="rect" coords="932,121,937,126" title="Waarde: 8 [kWh] 
+ Uur : 23:30 " alt="Waarde: 8 [kWh] 
+ Uur : 23:30 " />
+	<area shape="rect" coords="923,121,928,126" title="Waarde: 8 [kWh] 
+ Uur : 23:15 " alt="Waarde: 8 [kWh] 
+ Uur : 23:15 " />
+	<area shape="rect" coords="914,121,919,126" title="Waarde: 8 [kWh] 
+ Uur : 23:00 " alt="Waarde: 8 [kWh] 
+ Uur : 23:00 " />
+	<area shape="rect" coords="906,121,911,126" title="Waarde: 8 [kWh] 
+ Uur : 22:45 " alt="Waarde: 8 [kWh] 
+ Uur : 22:45 " />
+	<area shape="rect" coords="897,121,902,126" title="Waarde: 8 [kWh] 
+ Uur : 22:30 " alt="Waarde: 8 [kWh] 
+ Uur : 22:30 " />
+	<area shape="rect" coords="889,121,894,126" title="Waarde: 8 [kWh] 
+ Uur : 22:15 " alt="Waarde: 8 [kWh] 
+ Uur : 22:15 " />
+	<area shape="rect" coords="880,121,885,126" title="Waarde: 8 [kWh] 
+ Uur : 22:00 " alt="Waarde: 8 [kWh] 
+ Uur : 22:00 " />
+	<area shape="rect" coords="871,121,876,126" title="Waarde: 8 [kWh] 
+ Uur : 21:45 " alt="Waarde: 8 [kWh] 
+ Uur : 21:45 " />
+	<area shape="rect" coords="863,121,868,126" title="Waarde: 8 [kWh] 
+ Uur : 21:30 " alt="Waarde: 8 [kWh] 
+ Uur : 21:30 " />
+	<area shape="rect" coords="854,121,859,126" title="Waarde: 8 [kWh] 
+ Uur : 21:15 " alt="Waarde: 8 [kWh] 
+ Uur : 21:15 " />
+	<area shape="rect" coords="845,121,850,126" title="Waarde: 8 [kWh] 
+ Uur : 21:00 " alt="Waarde: 8 [kWh] 
+ Uur : 21:00 " />
+	<area shape="rect" coords="837,121,842,126" title="Waarde: 8 [kWh] 
+ Uur : 20:45 " alt="Waarde: 8 [kWh] 
+ Uur : 20:45 " />
+	<area shape="rect" coords="828,121,833,126" title="Waarde: 8 [kWh] 
+ Uur : 20:30 " alt="Waarde: 8 [kWh] 
+ Uur : 20:30 " />
+	<area shape="rect" coords="820,121,825,126" title="Waarde: 8 [kWh] 
+ Uur : 20:15 " alt="Waarde: 8 [kWh] 
+ Uur : 20:15 " />
+	<area shape="rect" coords="811,121,816,126" title="Waarde: 8 [kWh] 
+ Uur : 20:00 " alt="Waarde: 8 [kWh] 
+ Uur : 20:00 " />
+	<area shape="rect" coords="802,121,807,126" title="Waarde: 8 [kWh] 
+ Uur : 19:45 " alt="Waarde: 8 [kWh] 
+ Uur : 19:45 " />
+	<area shape="rect" coords="794,121,799,126" title="Waarde: 8 [kWh] 
+ Uur : 19:30 " alt="Waarde: 8 [kWh] 
+ Uur : 19:30 " />
+	<area shape="rect" coords="785,121,790,126" title="Waarde: 8 [kWh] 
+ Uur : 19:15 " alt="Waarde: 8 [kWh] 
+ Uur : 19:15 " />
+	<area shape="rect" coords="776,121,781,126" title="Waarde: 8 [kWh] 
+ Uur : 19:00 " alt="Waarde: 8 [kWh] 
+ Uur : 19:00 " />
+	<area shape="rect" coords="768,121,773,126" title="Waarde: 8 [kWh] 
+ Uur : 18:45 " alt="Waarde: 8 [kWh] 
+ Uur : 18:45 " />
+	<area shape="rect" coords="759,121,764,126" title="Waarde: 8 [kWh] 
+ Uur : 18:30 " alt="Waarde: 8 [kWh] 
+ Uur : 18:30 " />
+	<area shape="rect" coords="750,121,755,126" title="Waarde: 8 [kWh] 
+ Uur : 18:15 " alt="Waarde: 8 [kWh] 
+ Uur : 18:15 " />
+	<area shape="rect" coords="742,121,747,126" title="Waarde: 8 [kWh] 
+ Uur : 18:00 " alt="Waarde: 8 [kWh] 
+ Uur : 18:00 " />
+	<area shape="rect" coords="733,121,738,126" title="Waarde: 8 [kWh] 
+ Uur : 17:45 " alt="Waarde: 8 [kWh] 
+ Uur : 17:45 " />
+	<area shape="rect" coords="725,121,730,126" title="Waarde: 8 [kWh] 
+ Uur : 17:30 " alt="Waarde: 8 [kWh] 
+ Uur : 17:30 " />
+	<area shape="rect" coords="716,121,721,126" title="Waarde: 8 [kWh] 
+ Uur : 17:15 " alt="Waarde: 8 [kWh] 
+ Uur : 17:15 " />
+	<area shape="rect" coords="707,121,712,126" title="Waarde: 8 [kWh] 
+ Uur : 17:00 " alt="Waarde: 8 [kWh] 
+ Uur : 17:00 " />
+	<area shape="rect" coords="699,121,704,126" title="Waarde: 8 [kWh] 
+ Uur : 16:45 " alt="Waarde: 8 [kWh] 
+ Uur : 16:45 " />
+	<area shape="rect" coords="690,121,695,126" title="Waarde: 8 [kWh] 
+ Uur : 16:30 " alt="Waarde: 8 [kWh] 
+ Uur : 16:30 " />
+	<area shape="rect" coords="681,121,686,126" title="Waarde: 8 [kWh] 
+ Uur : 16:15 " alt="Waarde: 8 [kWh] 
+ Uur : 16:15 " />
+	<area shape="rect" coords="673,121,678,126" title="Waarde: 8 [kWh] 
+ Uur : 16:00 " alt="Waarde: 8 [kWh] 
+ Uur : 16:00 " />
+	<area shape="rect" coords="664,126,669,131" title="Waarde: 7,9 [kWh] 
+ Uur : 15:45 " alt="Waarde: 7,9 [kWh] 
+ Uur : 15:45 " />
+	<area shape="rect" coords="656,131,661,136" title="Waarde: 7,8 [kWh] 
+ Uur : 15:30 " alt="Waarde: 7,8 [kWh] 
+ Uur : 15:30 " />
+	<area shape="rect" coords="647,136,652,141" title="Waarde: 7,7 [kWh] 
+ Uur : 15:15 " alt="Waarde: 7,7 [kWh] 
+ Uur : 15:15 " />
+	<area shape="rect" coords="638,145,643,150" title="Waarde: 7,5 [kWh] 
+ Uur : 15:00 " alt="Waarde: 7,5 [kWh] 
+ Uur : 15:00 " />
+	<area shape="rect" coords="630,155,635,160" title="Waarde: 7,3 [kWh] 
+ Uur : 14:45 " alt="Waarde: 7,3 [kWh] 
+ Uur : 14:45 " />
+	<area shape="rect" coords="621,169,626,174" title="Waarde: 7 [kWh] 
+ Uur : 14:30 " alt="Waarde: 7 [kWh] 
+ Uur : 14:30 " />
+	<area shape="rect" coords="612,184,617,189" title="Waarde: 6,7 [kWh] 
+ Uur : 14:15 " alt="Waarde: 6,7 [kWh] 
+ Uur : 14:15 " />
+	<area shape="rect" coords="604,203,609,208" title="Waarde: 6,3 [kWh] 
+ Uur : 14:00 " alt="Waarde: 6,3 [kWh] 
+ Uur : 14:00 " />
+	<area shape="rect" coords="595,222,600,227" title="Waarde: 5,9 [kWh] 
+ Uur : 13:45 " alt="Waarde: 5,9 [kWh] 
+ Uur : 13:45 " />
+	<area shape="rect" coords="586,242,591,247" title="Waarde: 5,5 [kWh] 
+ Uur : 13:30 " alt="Waarde: 5,5 [kWh] 
+ Uur : 13:30 " />
+	<area shape="rect" coords="578,261,583,266" title="Waarde: 5,1 [kWh] 
+ Uur : 13:15 " alt="Waarde: 5,1 [kWh] 
+ Uur : 13:15 " />
+	<area shape="rect" coords="569,285,574,290" title="Waarde: 4,6 [kWh] 
+ Uur : 13:00 " alt="Waarde: 4,6 [kWh] 
+ Uur : 13:00 " />
+	<area shape="rect" coords="561,309,566,314" title="Waarde: 4,1 [kWh] 
+ Uur : 12:45 " alt="Waarde: 4,1 [kWh] 
+ Uur : 12:45 " />
+	<area shape="rect" coords="552,338,557,343" title="Waarde: 3,5 [kWh] 
+ Uur : 12:30 " alt="Waarde: 3,5 [kWh] 
+ Uur : 12:30 " />
+	<area shape="rect" coords="543,367,548,372" title="Waarde: 2,9 [kWh] 
+ Uur : 12:15 " alt="Waarde: 2,9 [kWh] 
+ Uur : 12:15 " />
+	<area shape="rect" coords="535,396,540,401" title="Waarde: 2,3 [kWh] 
+ Uur : 12:00 " alt="Waarde: 2,3 [kWh] 
+ Uur : 12:00 " />
+	<area shape="rect" coords="526,420,531,425" title="Waarde: 1,8 [kWh] 
+ Uur : 11:45 " alt="Waarde: 1,8 [kWh] 
+ Uur : 11:45 " />
+	<area shape="rect" coords="517,448,522,453" title="Waarde: 1,2 [kWh] 
+ Uur : 11:30 " alt="Waarde: 1,2 [kWh] 
+ Uur : 11:30 " />
+	<area shape="rect" coords="509,468,514,473" title="Waarde: 0,8 [kWh] 
+ Uur : 11:15 " alt="Waarde: 0,8 [kWh] 
+ Uur : 11:15 " />
+	<area shape="rect" coords="500,482,505,487" title="Waarde: 0,5 [kWh] 
+ Uur : 11:00 " alt="Waarde: 0,5 [kWh] 
+ Uur : 11:00 " />
+	<area shape="rect" coords="492,492,497,497" title="Waarde: 0,3 [kWh] 
+ Uur : 10:45 " alt="Waarde: 0,3 [kWh] 
+ Uur : 10:45 " />
+	<area shape="rect" coords="483,497,488,502" title="Waarde: 0,2 [kWh] 
+ Uur : 10:30 " alt="Waarde: 0,2 [kWh] 
+ Uur : 10:30 " />
+	<area shape="rect" coords="474,501,479,506" title="Waarde: 0,1 [kWh] 
+ Uur : 10:15 " alt="Waarde: 0,1 [kWh] 
+ Uur : 10:15 " />
+	<area shape="rect" coords="466,501,471,506" title="Waarde: 0,1 [kWh] 
+ Uur : 10:00 " alt="Waarde: 0,1 [kWh] 
+ Uur : 10:00 " />
+	<area shape="rect" coords="457,506,462,511" title="Waarde: 0 [kWh] 
+ Uur : 09:45 " alt="Waarde: 0 [kWh] 
+ Uur : 09:45 " />
+	<area shape="rect" coords="448,506,453,511" title="Waarde: 0 [kWh] 
+ Uur : 09:30 " alt="Waarde: 0 [kWh] 
+ Uur : 09:30 " />
+	<area shape="rect" coords="440,506,445,511" title="Waarde: 0 [kWh] 
+ Uur : 09:15 " alt="Waarde: 0 [kWh] 
+ Uur : 09:15 " />
+	<area shape="rect" coords="431,506,436,511" title="Waarde: 0 [kWh] 
+ Uur : 09:00 " alt="Waarde: 0 [kWh] 
+ Uur : 09:00 " />
+	<area shape="rect" coords="423,506,428,511" title="Waarde: 0 [kWh] 
+ Uur : 08:45 " alt="Waarde: 0 [kWh] 
+ Uur : 08:45 " />
+	<area shape="rect" coords="414,506,419,511" title="Waarde: 0 [kWh] 
+ Uur : 08:30 " alt="Waarde: 0 [kWh] 
+ Uur : 08:30 " />
+	<area shape="rect" coords="405,506,410,511" title="Waarde: 0 [kWh] 
+ Uur : 08:15 " alt="Waarde: 0 [kWh] 
+ Uur : 08:15 " />
+	<area shape="rect" coords="397,506,402,511" title="Waarde: 0 [kWh] 
+ Uur : 08:00 " alt="Waarde: 0 [kWh] 
+ Uur : 08:00 " />
+	<area shape="rect" coords="388,506,393,511" title="Waarde: 0 [kWh] 
+ Uur : 07:45 " alt="Waarde: 0 [kWh] 
+ Uur : 07:45 " />
+	<area shape="rect" coords="379,506,384,511" title="Waarde: 0 [kWh] 
+ Uur : 07:30 " alt="Waarde: 0 [kWh] 
+ Uur : 07:30 " />
+	<area shape="rect" coords="371,506,376,511" title="Waarde: 0 [kWh] 
+ Uur : 07:15 " alt="Waarde: 0 [kWh] 
+ Uur : 07:15 " />
+	<area shape="rect" coords="362,506,367,511" title="Waarde: 0 [kWh] 
+ Uur : 07:00 " alt="Waarde: 0 [kWh] 
+ Uur : 07:00 " />
+	<area shape="rect" coords="353,506,358,511" title="Waarde: 0 [kWh] 
+ Uur : 06:45 " alt="Waarde: 0 [kWh] 
+ Uur : 06:45 " />
+	<area shape="rect" coords="345,506,350,511" title="Waarde: 0 [kWh] 
+ Uur : 06:30 " alt="Waarde: 0 [kWh] 
+ Uur : 06:30 " />
+	<area shape="rect" coords="336,506,341,511" title="Waarde: 0 [kWh] 
+ Uur : 06:15 " alt="Waarde: 0 [kWh] 
+ Uur : 06:15 " />
+	<area shape="rect" coords="328,506,333,511" title="Waarde: 0 [kWh] 
+ Uur : 06:00 " alt="Waarde: 0 [kWh] 
+ Uur : 06:00 " />
+	<area shape="rect" coords="319,506,324,511" title="Waarde: 0 [kWh] 
+ Uur : 05:45 " alt="Waarde: 0 [kWh] 
+ Uur : 05:45 " />
+	<area shape="rect" coords="310,506,315,511" title="Waarde: 0 [kWh] 
+ Uur : 05:30 " alt="Waarde: 0 [kWh] 
+ Uur : 05:30 " />
+	<area shape="rect" coords="302,506,307,511" title="Waarde: 0 [kWh] 
+ Uur : 05:15 " alt="Waarde: 0 [kWh] 
+ Uur : 05:15 " />
+	<area shape="rect" coords="293,506,298,511" title="Waarde: 0 [kWh] 
+ Uur : 05:00 " alt="Waarde: 0 [kWh] 
+ Uur : 05:00 " />
+	<area shape="rect" coords="284,506,289,511" title="Waarde: 0 [kWh] 
+ Uur : 04:45 " alt="Waarde: 0 [kWh] 
+ Uur : 04:45 " />
+	<area shape="rect" coords="276,506,281,511" title="Waarde: 0 [kWh] 
+ Uur : 04:30 " alt="Waarde: 0 [kWh] 
+ Uur : 04:30 " />
+	<area shape="rect" coords="267,506,272,511" title="Waarde: 0 [kWh] 
+ Uur : 04:15 " alt="Waarde: 0 [kWh] 
+ Uur : 04:15 " />
+	<area shape="rect" coords="259,506,264,511" title="Waarde: 0 [kWh] 
+ Uur : 04:00 " alt="Waarde: 0 [kWh] 
+ Uur : 04:00 " />
+	<area shape="rect" coords="250,506,255,511" title="Waarde: 0 [kWh] 
+ Uur : 03:45 " alt="Waarde: 0 [kWh] 
+ Uur : 03:45 " />
+	<area shape="rect" coords="241,506,246,511" title="Waarde: 0 [kWh] 
+ Uur : 03:30 " alt="Waarde: 0 [kWh] 
+ Uur : 03:30 " />
+	<area shape="rect" coords="233,506,238,511" title="Waarde: 0 [kWh] 
+ Uur : 03:15 " alt="Waarde: 0 [kWh] 
+ Uur : 03:15 " />
+	<area shape="rect" coords="224,506,229,511" title="Waarde: 0 [kWh] 
+ Uur : 03:00 " alt="Waarde: 0 [kWh] 
+ Uur : 03:00 " />
+	<area shape="rect" coords="215,506,220,511" title="Waarde: 0 [kWh] 
+ Uur : 02:45 " alt="Waarde: 0 [kWh] 
+ Uur : 02:45 " />
+	<area shape="rect" coords="207,506,212,511" title="Waarde: 0 [kWh] 
+ Uur : 02:30 " alt="Waarde: 0 [kWh] 
+ Uur : 02:30 " />
+	<area shape="rect" coords="198,506,203,511" title="Waarde: 0 [kWh] 
+ Uur : 02:15 " alt="Waarde: 0 [kWh] 
+ Uur : 02:15 " />
+	<area shape="rect" coords="190,506,195,511" title="Waarde: 0 [kWh] 
+ Uur : 02:00 " alt="Waarde: 0 [kWh] 
+ Uur : 02:00 " />
+	<area shape="rect" coords="181,506,186,511" title="Waarde: 0 [kWh] 
+ Uur : 01:45 " alt="Waarde: 0 [kWh] 
+ Uur : 01:45 " />
+	<area shape="rect" coords="172,506,177,511" title="Waarde: 0 [kWh] 
+ Uur : 01:30 " alt="Waarde: 0 [kWh] 
+ Uur : 01:30 " />
+	<area shape="rect" coords="164,506,169,511" title="Waarde: 0 [kWh] 
+ Uur : 01:15 " alt="Waarde: 0 [kWh] 
+ Uur : 01:15 " />
+	<area shape="rect" coords="155,506,160,511" title="Waarde: 0 [kWh] 
+ Uur : 01:00 " alt="Waarde: 0 [kWh] 
+ Uur : 01:00 " />
+	<area shape="rect" coords="146,506,151,511" title="Waarde: 0 [kWh] 
+ Uur : 00:45 " alt="Waarde: 0 [kWh] 
+ Uur : 00:45 " />
+	<area shape="rect" coords="138,506,143,511" title="Waarde: 0 [kWh] 
+ Uur : 00:30 " alt="Waarde: 0 [kWh] 
+ Uur : 00:30 " />
+	<area shape="rect" coords="129,506,134,511" title="Waarde: 0 [kWh] 
+ Uur : 00:15 " alt="Waarde: 0 [kWh] 
+ Uur : 00:15 " />
+	<area shape="rect" coords="940,506,945,511" title="Waarde: 0 [W] 
+ Uur : 23:45 " alt="Waarde: 0 [W] 
+ Uur : 23:45 " />
+	<area shape="rect" coords="932,506,937,511" title="Waarde: 0 [W] 
+ Uur : 23:30 " alt="Waarde: 0 [W] 
+ Uur : 23:30 " />
+	<area shape="rect" coords="923,506,928,511" title="Waarde: 0 [W] 
+ Uur : 23:15 " alt="Waarde: 0 [W] 
+ Uur : 23:15 " />
+	<area shape="rect" coords="914,506,919,511" title="Waarde: 0 [W] 
+ Uur : 23:00 " alt="Waarde: 0 [W] 
+ Uur : 23:00 " />
+	<area shape="rect" coords="906,506,911,511" title="Waarde: 0 [W] 
+ Uur : 22:45 " alt="Waarde: 0 [W] 
+ Uur : 22:45 " />
+	<area shape="rect" coords="897,506,902,511" title="Waarde: 0 [W] 
+ Uur : 22:30 " alt="Waarde: 0 [W] 
+ Uur : 22:30 " />
+	<area shape="rect" coords="889,506,894,511" title="Waarde: 0 [W] 
+ Uur : 22:15 " alt="Waarde: 0 [W] 
+ Uur : 22:15 " />
+	<area shape="rect" coords="880,506,885,511" title="Waarde: 0 [W] 
+ Uur : 22:00 " alt="Waarde: 0 [W] 
+ Uur : 22:00 " />
+	<area shape="rect" coords="871,506,876,511" title="Waarde: 0 [W] 
+ Uur : 21:45 " alt="Waarde: 0 [W] 
+ Uur : 21:45 " />
+	<area shape="rect" coords="863,506,868,511" title="Waarde: 0 [W] 
+ Uur : 21:30 " alt="Waarde: 0 [W] 
+ Uur : 21:30 " />
+	<area shape="rect" coords="854,506,859,511" title="Waarde: 0 [W] 
+ Uur : 21:15 " alt="Waarde: 0 [W] 
+ Uur : 21:15 " />
+	<area shape="rect" coords="845,506,850,511" title="Waarde: 0 [W] 
+ Uur : 21:00 " alt="Waarde: 0 [W] 
+ Uur : 21:00 " />
+	<area shape="rect" coords="837,506,842,511" title="Waarde: 0 [W] 
+ Uur : 20:45 " alt="Waarde: 0 [W] 
+ Uur : 20:45 " />
+	<area shape="rect" coords="828,506,833,511" title="Waarde: 0 [W] 
+ Uur : 20:30 " alt="Waarde: 0 [W] 
+ Uur : 20:30 " />
+	<area shape="rect" coords="820,506,825,511" title="Waarde: 0 [W] 
+ Uur : 20:15 " alt="Waarde: 0 [W] 
+ Uur : 20:15 " />
+	<area shape="rect" coords="811,506,816,511" title="Waarde: 0 [W] 
+ Uur : 20:00 " alt="Waarde: 0 [W] 
+ Uur : 20:00 " />
+	<area shape="rect" coords="802,506,807,511" title="Waarde: 0 [W] 
+ Uur : 19:45 " alt="Waarde: 0 [W] 
+ Uur : 19:45 " />
+	<area shape="rect" coords="794,506,799,511" title="Waarde: 0 [W] 
+ Uur : 19:30 " alt="Waarde: 0 [W] 
+ Uur : 19:30 " />
+	<area shape="rect" coords="785,506,790,511" title="Waarde: 0 [W] 
+ Uur : 19:15 " alt="Waarde: 0 [W] 
+ Uur : 19:15 " />
+	<area shape="rect" coords="776,506,781,511" title="Waarde: 0 [W] 
+ Uur : 19:00 " alt="Waarde: 0 [W] 
+ Uur : 19:00 " />
+	<area shape="rect" coords="768,506,773,511" title="Waarde: 0 [W] 
+ Uur : 18:45 " alt="Waarde: 0 [W] 
+ Uur : 18:45 " />
+	<area shape="rect" coords="759,506,764,511" title="Waarde: 0 [W] 
+ Uur : 18:30 " alt="Waarde: 0 [W] 
+ Uur : 18:30 " />
+	<area shape="rect" coords="750,506,755,511" title="Waarde: 0 [W] 
+ Uur : 18:15 " alt="Waarde: 0 [W] 
+ Uur : 18:15 " />
+	<area shape="rect" coords="742,506,747,511" title="Waarde: 0 [W] 
+ Uur : 18:00 " alt="Waarde: 0 [W] 
+ Uur : 18:00 " />
+	<area shape="rect" coords="733,506,738,511" title="Waarde: 0 [W] 
+ Uur : 17:45 " alt="Waarde: 0 [W] 
+ Uur : 17:45 " />
+	<area shape="rect" coords="725,506,730,511" title="Waarde: 0 [W] 
+ Uur : 17:30 " alt="Waarde: 0 [W] 
+ Uur : 17:30 " />
+	<area shape="rect" coords="716,506,721,511" title="Waarde: 0 [W] 
+ Uur : 17:15 " alt="Waarde: 0 [W] 
+ Uur : 17:15 " />
+	<area shape="rect" coords="707,504,712,509" title="Waarde: 16 [W] 
+ Uur : 17:00 " alt="Waarde: 16 [W] 
+ Uur : 17:00 " />
+	<area shape="rect" coords="699,499,704,504" title="Waarde: 48 [W] 
+ Uur : 16:45 " alt="Waarde: 48 [W] 
+ Uur : 16:45 " />
+	<area shape="rect" coords="690,495,695,500" title="Waarde: 72 [W] 
+ Uur : 16:30 " alt="Waarde: 72 [W] 
+ Uur : 16:30 " />
+	<area shape="rect" coords="681,488,686,493" title="Waarde: 112 [W] 
+ Uur : 16:15 " alt="Waarde: 112 [W] 
+ Uur : 16:15 " />
+	<area shape="rect" coords="673,468,678,473" title="Waarde: 240 [W] 
+ Uur : 16:00 " alt="Waarde: 240 [W] 
+ Uur : 16:00 " />
+	<area shape="rect" coords="664,445,669,450" title="Waarde: 380 [W] 
+ Uur : 15:45 " alt="Waarde: 380 [W] 
+ Uur : 15:45 " />
+	<area shape="rect" coords="656,427,661,432" title="Waarde: 496 [W] 
+ Uur : 15:30 " alt="Waarde: 496 [W] 
+ Uur : 15:30 " />
+	<area shape="rect" coords="647,394,652,399" title="Waarde: 700 [W] 
+ Uur : 15:15 " alt="Waarde: 700 [W] 
+ Uur : 15:15 " />
+	<area shape="rect" coords="638,361,643,366" title="Waarde: 908 [W] 
+ Uur : 15:00 " alt="Waarde: 908 [W] 
+ Uur : 15:00 " />
+	<area shape="rect" coords="630,322,635,327" title="Waarde: 1148 [W] 
+ Uur : 14:45 " alt="Waarde: 1148 [W] 
+ Uur : 14:45 " />
+	<area shape="rect" coords="621,311,626,316" title="Waarde: 1216 [W] 
+ Uur : 14:30 " alt="Waarde: 1216 [W] 
+ Uur : 14:30 " />
+	<area shape="rect" coords="612,276,617,281" title="Waarde: 1436 [W] 
+ Uur : 14:15 " alt="Waarde: 1436 [W] 
+ Uur : 14:15 " />
+	<area shape="rect" coords="604,241,609,246" title="Waarde: 1652 [W] 
+ Uur : 14:00 " alt="Waarde: 1652 [W] 
+ Uur : 14:00 " />
+	<area shape="rect" coords="595,240,600,245" title="Waarde: 1660 [W] 
+ Uur : 13:45 " alt="Waarde: 1660 [W] 
+ Uur : 13:45 " />
+	<area shape="rect" coords="586,259,591,264" title="Waarde: 1544 [W] 
+ Uur : 13:30 " alt="Waarde: 1544 [W] 
+ Uur : 13:30 " />
+	<area shape="rect" coords="578,178,583,183" title="Waarde: 2044 [W] 
+ Uur : 13:15 " alt="Waarde: 2044 [W] 
+ Uur : 13:15 " />
+	<area shape="rect" coords="569,168,574,173" title="Waarde: 2108 [W] 
+ Uur : 13:00 " alt="Waarde: 2108 [W] 
+ Uur : 13:00 " />
+	<area shape="rect" coords="561,159,566,164" title="Waarde: 2164 [W] 
+ Uur : 12:45 " alt="Waarde: 2164 [W] 
+ Uur : 12:45 " />
+	<area shape="rect" coords="552,103,557,108" title="Waarde: 2516 [W] 
+ Uur : 12:30 " alt="Waarde: 2516 [W] 
+ Uur : 12:30 " />
+	<area shape="rect" coords="543,150,548,155" title="Waarde: 2220 [W] 
+ Uur : 12:15 " alt="Waarde: 2220 [W] 
+ Uur : 12:15 " />
+	<area shape="rect" coords="535,151,540,156" title="Waarde: 2212 [W] 
+ Uur : 12:00 " alt="Waarde: 2212 [W] 
+ Uur : 12:00 " />
+	<area shape="rect" coords="526,140,531,145" title="Waarde: 2284 [W] 
+ Uur : 11:45 " alt="Waarde: 2284 [W] 
+ Uur : 11:45 " />
+	<area shape="rect" coords="517,256,522,261" title="Waarde: 1560 [W] 
+ Uur : 11:30 " alt="Waarde: 1560 [W] 
+ Uur : 11:30 " />
+	<area shape="rect" coords="509,321,514,326" title="Waarde: 1152 [W] 
+ Uur : 11:15 " alt="Waarde: 1152 [W] 
+ Uur : 11:15 " />
+	<area shape="rect" coords="500,351,505,356" title="Waarde: 968 [W] 
+ Uur : 11:00 " alt="Waarde: 968 [W] 
+ Uur : 11:00 " />
+	<area shape="rect" coords="492,431,497,436" title="Waarde: 468 [W] 
+ Uur : 10:45 " alt="Waarde: 468 [W] 
+ Uur : 10:45 " />
+	<area shape="rect" coords="483,461,488,466" title="Waarde: 284 [W] 
+ Uur : 10:30 " alt="Waarde: 284 [W] 
+ Uur : 10:30 " />
+	<area shape="rect" coords="474,475,479,480" title="Waarde: 192 [W] 
+ Uur : 10:15 " alt="Waarde: 192 [W] 
+ Uur : 10:15 " />
+	<area shape="rect" coords="466,479,471,484" title="Waarde: 168 [W] 
+ Uur : 10:00 " alt="Waarde: 168 [W] 
+ Uur : 10:00 " />
+	<area shape="rect" coords="457,491,462,496" title="Waarde: 92 [W] 
+ Uur : 09:45 " alt="Waarde: 92 [W] 
+ Uur : 09:45 " />
+	<area shape="rect" coords="448,506,453,511" title="Waarde: 0 [W] 
+ Uur : 09:30 " alt="Waarde: 0 [W] 
+ Uur : 09:30 " />
+	<area shape="rect" coords="440,506,445,511" title="Waarde: 0 [W] 
+ Uur : 09:15 " alt="Waarde: 0 [W] 
+ Uur : 09:15 " />
+	<area shape="rect" coords="431,506,436,511" title="Waarde: 0 [W] 
+ Uur : 09:00 " alt="Waarde: 0 [W] 
+ Uur : 09:00 " />
+	<area shape="rect" coords="423,506,428,511" title="Waarde: 0 [W] 
+ Uur : 08:45 " alt="Waarde: 0 [W] 
+ Uur : 08:45 " />
+	<area shape="rect" coords="414,506,419,511" title="Waarde: 0 [W] 
+ Uur : 08:30 " alt="Waarde: 0 [W] 
+ Uur : 08:30 " />
+	<area shape="rect" coords="405,506,410,511" title="Waarde: 0 [W] 
+ Uur : 08:15 " alt="Waarde: 0 [W] 
+ Uur : 08:15 " />
+	<area shape="rect" coords="397,506,402,511" title="Waarde: 0 [W] 
+ Uur : 08:00 " alt="Waarde: 0 [W] 
+ Uur : 08:00 " />
+	<area shape="rect" coords="388,506,393,511" title="Waarde: 0 [W] 
+ Uur : 07:45 " alt="Waarde: 0 [W] 
+ Uur : 07:45 " />
+	<area shape="rect" coords="379,506,384,511" title="Waarde: 0 [W] 
+ Uur : 07:30 " alt="Waarde: 0 [W] 
+ Uur : 07:30 " />
+	<area shape="rect" coords="371,506,376,511" title="Waarde: 0 [W] 
+ Uur : 07:15 " alt="Waarde: 0 [W] 
+ Uur : 07:15 " />
+	<area shape="rect" coords="362,506,367,511" title="Waarde: 0 [W] 
+ Uur : 07:00 " alt="Waarde: 0 [W] 
+ Uur : 07:00 " />
+	<area shape="rect" coords="353,506,358,511" title="Waarde: 0 [W] 
+ Uur : 06:45 " alt="Waarde: 0 [W] 
+ Uur : 06:45 " />
+	<area shape="rect" coords="345,506,350,511" title="Waarde: 0 [W] 
+ Uur : 06:30 " alt="Waarde: 0 [W] 
+ Uur : 06:30 " />
+	<area shape="rect" coords="336,506,341,511" title="Waarde: 0 [W] 
+ Uur : 06:15 " alt="Waarde: 0 [W] 
+ Uur : 06:15 " />
+	<area shape="rect" coords="328,506,333,511" title="Waarde: 0 [W] 
+ Uur : 06:00 " alt="Waarde: 0 [W] 
+ Uur : 06:00 " />
+	<area shape="rect" coords="319,506,324,511" title="Waarde: 0 [W] 
+ Uur : 05:45 " alt="Waarde: 0 [W] 
+ Uur : 05:45 " />
+	<area shape="rect" coords="310,506,315,511" title="Waarde: 0 [W] 
+ Uur : 05:30 " alt="Waarde: 0 [W] 
+ Uur : 05:30 " />
+	<area shape="rect" coords="302,506,307,511" title="Waarde: 0 [W] 
+ Uur : 05:15 " alt="Waarde: 0 [W] 
+ Uur : 05:15 " />
+	<area shape="rect" coords="293,506,298,511" title="Waarde: 0 [W] 
+ Uur : 05:00 " alt="Waarde: 0 [W] 
+ Uur : 05:00 " />
+	<area shape="rect" coords="284,506,289,511" title="Waarde: 0 [W] 
+ Uur : 04:45 " alt="Waarde: 0 [W] 
+ Uur : 04:45 " />
+	<area shape="rect" coords="276,506,281,511" title="Waarde: 0 [W] 
+ Uur : 04:30 " alt="Waarde: 0 [W] 
+ Uur : 04:30 " />
+	<area shape="rect" coords="267,506,272,511" title="Waarde: 0 [W] 
+ Uur : 04:15 " alt="Waarde: 0 [W] 
+ Uur : 04:15 " />
+	<area shape="rect" coords="259,506,264,511" title="Waarde: 0 [W] 
+ Uur : 04:00 " alt="Waarde: 0 [W] 
+ Uur : 04:00 " />
+	<area shape="rect" coords="250,506,255,511" title="Waarde: 0 [W] 
+ Uur : 03:45 " alt="Waarde: 0 [W] 
+ Uur : 03:45 " />
+	<area shape="rect" coords="241,506,246,511" title="Waarde: 0 [W] 
+ Uur : 03:30 " alt="Waarde: 0 [W] 
+ Uur : 03:30 " />
+	<area shape="rect" coords="233,506,238,511" title="Waarde: 0 [W] 
+ Uur : 03:15 " alt="Waarde: 0 [W] 
+ Uur : 03:15 " />
+	<area shape="rect" coords="224,506,229,511" title="Waarde: 0 [W] 
+ Uur : 03:00 " alt="Waarde: 0 [W] 
+ Uur : 03:00 " />
+	<area shape="rect" coords="215,506,220,511" title="Waarde: 0 [W] 
+ Uur : 02:45 " alt="Waarde: 0 [W] 
+ Uur : 02:45 " />
+	<area shape="rect" coords="207,506,212,511" title="Waarde: 0 [W] 
+ Uur : 02:30 " alt="Waarde: 0 [W] 
+ Uur : 02:30 " />
+	<area shape="rect" coords="198,506,203,511" title="Waarde: 0 [W] 
+ Uur : 02:15 " alt="Waarde: 0 [W] 
+ Uur : 02:15 " />
+	<area shape="rect" coords="190,506,195,511" title="Waarde: 0 [W] 
+ Uur : 02:00 " alt="Waarde: 0 [W] 
+ Uur : 02:00 " />
+	<area shape="rect" coords="181,506,186,511" title="Waarde: 0 [W] 
+ Uur : 01:45 " alt="Waarde: 0 [W] 
+ Uur : 01:45 " />
+	<area shape="rect" coords="172,506,177,511" title="Waarde: 0 [W] 
+ Uur : 01:30 " alt="Waarde: 0 [W] 
+ Uur : 01:30 " />
+	<area shape="rect" coords="164,506,169,511" title="Waarde: 0 [W] 
+ Uur : 01:15 " alt="Waarde: 0 [W] 
+ Uur : 01:15 " />
+	<area shape="rect" coords="155,506,160,511" title="Waarde: 0 [W] 
+ Uur : 01:00 " alt="Waarde: 0 [W] 
+ Uur : 01:00 " />
+	<area shape="rect" coords="146,506,151,511" title="Waarde: 0 [W] 
+ Uur : 00:45 " alt="Waarde: 0 [W] 
+ Uur : 00:45 " />
+	<area shape="rect" coords="138,506,143,511" title="Waarde: 0 [W] 
+ Uur : 00:30 " alt="Waarde: 0 [W] 
+ Uur : 00:30 " />
+	<area shape="rect" coords="129,506,134,511" title="Waarde: 0 [W] 
+ Uur : 00:15 " alt="Waarde: 0 [W] 
+ Uur : 00:15 " />
+	<area shape="poly" coords="939,120,943,120,943,128,939,128" title="Waarde: 8 [kWh] 
+ Uur : 23:45 " alt="Waarde: 8 [kWh] 
+ Uur : 23:45 " />
+	<area shape="poly" coords="930,120,934,120,934,128,930,128,934,120,939,120,939,128,934,128" title="Waarde: 8 [kWh] 
+ Uur : 23:30 " alt="Waarde: 8 [kWh] 
+ Uur : 23:30 " />
+	<area shape="poly" coords="921,120,926,120,926,128,921,128,926,120,930,120,930,128,926,128" title="Waarde: 8 [kWh] 
+ Uur : 23:15 " alt="Waarde: 8 [kWh] 
+ Uur : 23:15 " />
+	<area shape="poly" coords="913,120,917,120,917,128,913,128,917,120,921,120,921,128,917,128" title="Waarde: 8 [kWh] 
+ Uur : 23:00 " alt="Waarde: 8 [kWh] 
+ Uur : 23:00 " />
+	<area shape="poly" coords="904,120,908,120,908,128,904,128,908,120,913,120,913,128,908,128" title="Waarde: 8 [kWh] 
+ Uur : 22:45 " alt="Waarde: 8 [kWh] 
+ Uur : 22:45 " />
+	<area shape="poly" coords="895,120,900,120,900,128,895,128,900,120,904,120,904,128,900,128" title="Waarde: 8 [kWh] 
+ Uur : 22:30 " alt="Waarde: 8 [kWh] 
+ Uur : 22:30 " />
+	<area shape="poly" coords="887,120,891,120,891,128,887,128,891,120,895,120,895,128,891,128" title="Waarde: 8 [kWh] 
+ Uur : 22:15 " alt="Waarde: 8 [kWh] 
+ Uur : 22:15 " />
+	<area shape="poly" coords="878,120,882,120,882,128,878,128,882,120,887,120,887,128,882,128" title="Waarde: 8 [kWh] 
+ Uur : 22:00 " alt="Waarde: 8 [kWh] 
+ Uur : 22:00 " />
+	<area shape="poly" coords="869,120,874,120,874,128,869,128,874,120,878,120,878,128,874,128" title="Waarde: 8 [kWh] 
+ Uur : 21:45 " alt="Waarde: 8 [kWh] 
+ Uur : 21:45 " />
+	<area shape="poly" coords="861,120,865,120,865,128,861,128,865,120,869,120,869,128,865,128" title="Waarde: 8 [kWh] 
+ Uur : 21:30 " alt="Waarde: 8 [kWh] 
+ Uur : 21:30 " />
+	<area shape="poly" coords="852,120,857,120,857,128,852,128,857,120,861,120,861,128,857,128" title="Waarde: 8 [kWh] 
+ Uur : 21:15 " alt="Waarde: 8 [kWh] 
+ Uur : 21:15 " />
+	<area shape="poly" coords="844,120,848,120,848,128,844,128,848,120,852,120,852,128,848,128" title="Waarde: 8 [kWh] 
+ Uur : 21:00 " alt="Waarde: 8 [kWh] 
+ Uur : 21:00 " />
+	<area shape="poly" coords="835,120,839,120,839,128,835,128,839,120,844,120,844,128,839,128" title="Waarde: 8 [kWh] 
+ Uur : 20:45 " alt="Waarde: 8 [kWh] 
+ Uur : 20:45 " />
+	<area shape="poly" coords="826,120,831,120,831,128,826,128,831,120,835,120,835,128,831,128" title="Waarde: 8 [kWh] 
+ Uur : 20:30 " alt="Waarde: 8 [kWh] 
+ Uur : 20:30 " />
+	<area shape="poly" coords="818,120,822,120,822,128,818,128,822,120,826,120,826,128,822,128" title="Waarde: 8 [kWh] 
+ Uur : 20:15 " alt="Waarde: 8 [kWh] 
+ Uur : 20:15 " />
+	<area shape="poly" coords="809,120,813,120,813,128,809,128,813,120,818,120,818,128,813,128" title="Waarde: 8 [kWh] 
+ Uur : 20:00 " alt="Waarde: 8 [kWh] 
+ Uur : 20:00 " />
+	<area shape="poly" coords="800,120,805,120,805,128,800,128,805,120,809,120,809,128,805,128" title="Waarde: 8 [kWh] 
+ Uur : 19:45 " alt="Waarde: 8 [kWh] 
+ Uur : 19:45 " />
+	<area shape="poly" coords="792,120,796,120,796,128,792,128,796,120,800,120,800,128,796,128" title="Waarde: 8 [kWh] 
+ Uur : 19:30 " alt="Waarde: 8 [kWh] 
+ Uur : 19:30 " />
+	<area shape="poly" coords="783,120,787,120,787,128,783,128,787,120,792,120,792,128,787,128" title="Waarde: 8 [kWh] 
+ Uur : 19:15 " alt="Waarde: 8 [kWh] 
+ Uur : 19:15 " />
+	<area shape="poly" coords="775,120,779,120,779,128,775,128,779,120,783,120,783,128,779,128" title="Waarde: 8 [kWh] 
+ Uur : 19:00 " alt="Waarde: 8 [kWh] 
+ Uur : 19:00 " />
+	<area shape="poly" coords="766,120,770,120,770,128,766,128,770,120,775,120,775,128,770,128" title="Waarde: 8 [kWh] 
+ Uur : 18:45 " alt="Waarde: 8 [kWh] 
+ Uur : 18:45 " />
+	<area shape="poly" coords="757,120,762,120,762,128,757,128,762,120,766,120,766,128,762,128" title="Waarde: 8 [kWh] 
+ Uur : 18:30 " alt="Waarde: 8 [kWh] 
+ Uur : 18:30 " />
+	<area shape="poly" coords="749,120,753,120,753,128,749,128,753,120,757,120,757,128,753,128" title="Waarde: 8 [kWh] 
+ Uur : 18:15 " alt="Waarde: 8 [kWh] 
+ Uur : 18:15 " />
+	<area shape="poly" coords="740,120,744,120,744,128,740,128,744,120,749,120,749,128,744,128" title="Waarde: 8 [kWh] 
+ Uur : 18:00 " alt="Waarde: 8 [kWh] 
+ Uur : 18:00 " />
+	<area shape="poly" coords="731,120,736,120,736,128,731,128,736,120,740,120,740,128,736,128" title="Waarde: 8 [kWh] 
+ Uur : 17:45 " alt="Waarde: 8 [kWh] 
+ Uur : 17:45 " />
+	<area shape="poly" coords="723,120,727,120,727,128,723,128,727,120,731,120,731,128,727,128" title="Waarde: 8 [kWh] 
+ Uur : 17:30 " alt="Waarde: 8 [kWh] 
+ Uur : 17:30 " />
+	<area shape="poly" coords="714,120,718,120,718,128,714,128,718,120,723,120,723,128,718,128" title="Waarde: 8 [kWh] 
+ Uur : 17:15 " alt="Waarde: 8 [kWh] 
+ Uur : 17:15 " />
+	<area shape="poly" coords="706,120,710,120,710,128,706,128,710,120,714,120,714,128,710,128" title="Waarde: 8 [kWh] 
+ Uur : 17:00 " alt="Waarde: 8 [kWh] 
+ Uur : 17:00 " />
+	<area shape="poly" coords="697,120,701,120,701,128,697,128,701,120,706,120,706,128,701,128" title="Waarde: 8 [kWh] 
+ Uur : 16:45 " alt="Waarde: 8 [kWh] 
+ Uur : 16:45 " />
+	<area shape="poly" coords="688,120,693,120,693,128,688,128,693,120,697,120,697,128,693,128" title="Waarde: 8 [kWh] 
+ Uur : 16:30 " alt="Waarde: 8 [kWh] 
+ Uur : 16:30 " />
+	<area shape="poly" coords="680,120,684,120,684,128,680,128,684,120,688,120,688,128,684,128" title="Waarde: 8 [kWh] 
+ Uur : 16:15 " alt="Waarde: 8 [kWh] 
+ Uur : 16:15 " />
+	<area shape="poly" coords="671,122,675,120,675,128,671,130,675,120,680,120,680,128,675,128" title="Waarde: 8 [kWh] 
+ Uur : 16:00 " alt="Waarde: 8 [kWh] 
+ Uur : 16:00 " />
+	<area shape="poly" coords="662,127,667,124,667,132,662,135,667,124,671,122,671,130,667,132" title="Waarde: 7,9 [kWh] 
+ Uur : 15:45 " alt="Waarde: 7,9 [kWh] 
+ Uur : 15:45 " />
+	<area shape="poly" coords="654,132,658,129,658,137,654,140,658,129,662,127,662,135,658,137" title="Waarde: 7,8 [kWh] 
+ Uur : 15:30 " alt="Waarde: 7,8 [kWh] 
+ Uur : 15:30 " />
+	<area shape="poly" coords="641,143,645,138,653,138,649,143,649,134,654,132,654,140,649,142" title="Waarde: 7,7 [kWh] 
+ Uur : 15:15 " alt="Waarde: 7,7 [kWh] 
+ Uur : 15:15 " />
+	<area shape="poly" coords="632,153,637,148,645,148,640,153,637,148,641,143,649,143,645,148" title="Waarde: 7,5 [kWh] 
+ Uur : 15:00 " alt="Waarde: 7,5 [kWh] 
+ Uur : 15:00 " />
+	<area shape="poly" coords="624,165,628,157,636,157,632,165,628,157,632,153,640,153,636,157" title="Waarde: 7,3 [kWh] 
+ Uur : 14:45 " alt="Waarde: 7,3 [kWh] 
+ Uur : 14:45 " />
+	<area shape="poly" coords="615,179,620,172,628,172,623,179,620,172,624,165,632,165,628,172" title="Waarde: 7 [kWh] 
+ Uur : 14:30 " alt="Waarde: 7 [kWh] 
+ Uur : 14:30 " />
+	<area shape="poly" coords="607,196,611,186,619,186,615,196,611,186,615,179,623,179,619,186" title="Waarde: 6,7 [kWh] 
+ Uur : 14:15 " alt="Waarde: 6,7 [kWh] 
+ Uur : 14:15 " />
+	<area shape="poly" coords="598,215,602,206,610,206,606,215,602,206,607,196,615,196,610,206" title="Waarde: 6,3 [kWh] 
+ Uur : 14:00 " alt="Waarde: 6,3 [kWh] 
+ Uur : 14:00 " />
+	<area shape="poly" coords="589,234,594,225,602,225,597,234,594,225,598,215,606,215,602,225" title="Waarde: 5,9 [kWh] 
+ Uur : 13:45 " alt="Waarde: 5,9 [kWh] 
+ Uur : 13:45 " />
+	<area shape="poly" coords="581,254,585,244,593,244,589,254,585,244,589,234,597,234,593,244" title="Waarde: 5,5 [kWh] 
+ Uur : 13:30 " alt="Waarde: 5,5 [kWh] 
+ Uur : 13:30 " />
+	<area shape="poly" coords="572,275,576,263,584,263,580,275,576,263,581,254,589,254,584,263" title="Waarde: 5,1 [kWh] 
+ Uur : 13:15 " alt="Waarde: 5,1 [kWh] 
+ Uur : 13:15 " />
+	<area shape="poly" coords="563,299,568,287,576,287,571,299,568,287,572,275,580,275,576,287" title="Waarde: 4,6 [kWh] 
+ Uur : 13:00 " alt="Waarde: 4,6 [kWh] 
+ Uur : 13:00 " />
+	<area shape="poly" coords="555,326,559,311,567,311,563,326,559,311,563,299,571,299,567,311" title="Waarde: 4,1 [kWh] 
+ Uur : 12:45 " alt="Waarde: 4,1 [kWh] 
+ Uur : 12:45 " />
+	<area shape="poly" coords="546,355,550,340,558,340,554,355,550,340,555,326,563,326,558,340" title="Waarde: 3,5 [kWh] 
+ Uur : 12:30 " alt="Waarde: 3,5 [kWh] 
+ Uur : 12:30 " />
+	<area shape="poly" coords="538,384,542,369,550,369,546,384,542,369,546,355,554,355,550,369" title="Waarde: 2,9 [kWh] 
+ Uur : 12:15 " alt="Waarde: 2,9 [kWh] 
+ Uur : 12:15 " />
+	<area shape="poly" coords="529,410,533,398,541,398,537,410,533,398,538,384,546,384,541,398" title="Waarde: 2,3 [kWh] 
+ Uur : 12:00 " alt="Waarde: 2,3 [kWh] 
+ Uur : 12:00 " />
+	<area shape="poly" coords="520,437,525,422,533,422,528,437,525,422,529,410,537,410,533,422" title="Waarde: 1,8 [kWh] 
+ Uur : 11:45 " alt="Waarde: 1,8 [kWh] 
+ Uur : 11:45 " />
+	<area shape="poly" coords="512,461,516,451,524,451,520,461,516,451,520,437,528,437,524,451" title="Waarde: 1,2 [kWh] 
+ Uur : 11:30 " alt="Waarde: 1,2 [kWh] 
+ Uur : 11:30 " />
+	<area shape="poly" coords="503,477,507,470,515,470,511,477,507,470,512,461,520,461,515,470" title="Waarde: 0,8 [kWh] 
+ Uur : 11:15 " alt="Waarde: 0,8 [kWh] 
+ Uur : 11:15 " />
+	<area shape="poly" coords="494,490,499,485,507,485,502,490,499,485,503,477,511,477,507,485" title="Waarde: 0,5 [kWh] 
+ Uur : 11:00 " alt="Waarde: 0,5 [kWh] 
+ Uur : 11:00 " />
+	<area shape="poly" coords="490,493,494,490,494,498,490,501,490,494,494,490,502,490,498,494" title="Waarde: 0,3 [kWh] 
+ Uur : 10:45 " alt="Waarde: 0,3 [kWh] 
+ Uur : 10:45 " />
+	<area shape="poly" coords="481,498,485,495,485,503,481,506,485,495,490,493,490,501,485,503" title="Waarde: 0,2 [kWh] 
+ Uur : 10:30 " alt="Waarde: 0,2 [kWh] 
+ Uur : 10:30 " />
+	<area shape="poly" coords="472,500,477,500,477,508,472,508,477,500,481,498,481,506,477,508" title="Waarde: 0,1 [kWh] 
+ Uur : 10:15 " alt="Waarde: 0,1 [kWh] 
+ Uur : 10:15 " />
+	<area shape="poly" coords="464,502,468,500,468,508,464,510,468,500,472,500,472,508,468,508" title="Waarde: 0,1 [kWh] 
+ Uur : 10:00 " alt="Waarde: 0,1 [kWh] 
+ Uur : 10:00 " />
+	<area shape="poly" coords="455,505,460,505,460,513,455,513,460,505,464,502,464,510,460,513" title="Waarde: 0 [kWh] 
+ Uur : 09:45 " alt="Waarde: 0 [kWh] 
+ Uur : 09:45 " />
+	<area shape="poly" coords="447,505,451,505,451,513,447,513,451,505,455,505,455,513,451,513" title="Waarde: 0 [kWh] 
+ Uur : 09:30 " alt="Waarde: 0 [kWh] 
+ Uur : 09:30 " />
+	<area shape="poly" coords="438,505,442,505,442,513,438,513,442,505,447,505,447,513,442,513" title="Waarde: 0 [kWh] 
+ Uur : 09:15 " alt="Waarde: 0 [kWh] 
+ Uur : 09:15 " />
+	<area shape="poly" coords="429,505,434,505,434,513,429,513,434,505,438,505,438,513,434,513" title="Waarde: 0 [kWh] 
+ Uur : 09:00 " alt="Waarde: 0 [kWh] 
+ Uur : 09:00 " />
+	<area shape="poly" coords="421,505,425,505,425,513,421,513,425,505,429,505,429,513,425,513" title="Waarde: 0 [kWh] 
+ Uur : 08:45 " alt="Waarde: 0 [kWh] 
+ Uur : 08:45 " />
+	<area shape="poly" coords="412,505,416,505,416,513,412,513,416,505,421,505,421,513,416,513" title="Waarde: 0 [kWh] 
+ Uur : 08:30 " alt="Waarde: 0 [kWh] 
+ Uur : 08:30 " />
+	<area shape="poly" coords="403,505,408,505,408,513,403,513,408,505,412,505,412,513,408,513" title="Waarde: 0 [kWh] 
+ Uur : 08:15 " alt="Waarde: 0 [kWh] 
+ Uur : 08:15 " />
+	<area shape="poly" coords="395,505,399,505,399,513,395,513,399,505,403,505,403,513,399,513" title="Waarde: 0 [kWh] 
+ Uur : 08:00 " alt="Waarde: 0 [kWh] 
+ Uur : 08:00 " />
+	<area shape="poly" coords="386,505,391,505,391,513,386,513,391,505,395,505,395,513,391,513" title="Waarde: 0 [kWh] 
+ Uur : 07:45 " alt="Waarde: 0 [kWh] 
+ Uur : 07:45 " />
+	<area shape="poly" coords="378,505,382,505,382,513,378,513,382,505,386,505,386,513,382,513" title="Waarde: 0 [kWh] 
+ Uur : 07:30 " alt="Waarde: 0 [kWh] 
+ Uur : 07:30 " />
+	<area shape="poly" coords="369,505,373,505,373,513,369,513,373,505,378,505,378,513,373,513" title="Waarde: 0 [kWh] 
+ Uur : 07:15 " alt="Waarde: 0 [kWh] 
+ Uur : 07:15 " />
+	<area shape="poly" coords="360,505,365,505,365,513,360,513,365,505,369,505,369,513,365,513" title="Waarde: 0 [kWh] 
+ Uur : 07:00 " alt="Waarde: 0 [kWh] 
+ Uur : 07:00 " />
+	<area shape="poly" coords="352,505,356,505,356,513,352,513,356,505,360,505,360,513,356,513" title="Waarde: 0 [kWh] 
+ Uur : 06:45 " alt="Waarde: 0 [kWh] 
+ Uur : 06:45 " />
+	<area shape="poly" coords="343,505,347,505,347,513,343,513,347,505,352,505,352,513,347,513" title="Waarde: 0 [kWh] 
+ Uur : 06:30 " alt="Waarde: 0 [kWh] 
+ Uur : 06:30 " />
+	<area shape="poly" coords="334,505,339,505,339,513,334,513,339,505,343,505,343,513,339,513" title="Waarde: 0 [kWh] 
+ Uur : 06:15 " alt="Waarde: 0 [kWh] 
+ Uur : 06:15 " />
+	<area shape="poly" coords="326,505,330,505,330,513,326,513,330,505,334,505,334,513,330,513" title="Waarde: 0 [kWh] 
+ Uur : 06:00 " alt="Waarde: 0 [kWh] 
+ Uur : 06:00 " />
+	<area shape="poly" coords="317,505,321,505,321,513,317,513,321,505,326,505,326,513,321,513" title="Waarde: 0 [kWh] 
+ Uur : 05:45 " alt="Waarde: 0 [kWh] 
+ Uur : 05:45 " />
+	<area shape="poly" coords="309,505,313,505,313,513,309,513,313,505,317,505,317,513,313,513" title="Waarde: 0 [kWh] 
+ Uur : 05:30 " alt="Waarde: 0 [kWh] 
+ Uur : 05:30 " />
+	<area shape="poly" coords="300,505,304,505,304,513,300,513,304,505,309,505,309,513,304,513" title="Waarde: 0 [kWh] 
+ Uur : 05:15 " alt="Waarde: 0 [kWh] 
+ Uur : 05:15 " />
+	<area shape="poly" coords="291,505,296,505,296,513,291,513,296,505,300,505,300,513,296,513" title="Waarde: 0 [kWh] 
+ Uur : 05:00 " alt="Waarde: 0 [kWh] 
+ Uur : 05:00 " />
+	<area shape="poly" coords="283,505,287,505,287,513,283,513,287,505,291,505,291,513,287,513" title="Waarde: 0 [kWh] 
+ Uur : 04:45 " alt="Waarde: 0 [kWh] 
+ Uur : 04:45 " />
+	<area shape="poly" coords="274,505,278,505,278,513,274,513,278,505,283,505,283,513,278,513" title="Waarde: 0 [kWh] 
+ Uur : 04:30 " alt="Waarde: 0 [kWh] 
+ Uur : 04:30 " />
+	<area shape="poly" coords="265,505,270,505,270,513,265,513,270,505,274,505,274,513,270,513" title="Waarde: 0 [kWh] 
+ Uur : 04:15 " alt="Waarde: 0 [kWh] 
+ Uur : 04:15 " />
+	<area shape="poly" coords="257,505,261,505,261,513,257,513,261,505,265,505,265,513,261,513" title="Waarde: 0 [kWh] 
+ Uur : 04:00 " alt="Waarde: 0 [kWh] 
+ Uur : 04:00 " />
+	<area shape="poly" coords="248,505,252,505,252,513,248,513,252,505,257,505,257,513,252,513" title="Waarde: 0 [kWh] 
+ Uur : 03:45 " alt="Waarde: 0 [kWh] 
+ Uur : 03:45 " />
+	<area shape="poly" coords="239,505,244,505,244,513,239,513,244,505,248,505,248,513,244,513" title="Waarde: 0 [kWh] 
+ Uur : 03:30 " alt="Waarde: 0 [kWh] 
+ Uur : 03:30 " />
+	<area shape="poly" coords="231,505,235,505,235,513,231,513,235,505,239,505,239,513,235,513" title="Waarde: 0 [kWh] 
+ Uur : 03:15 " alt="Waarde: 0 [kWh] 
+ Uur : 03:15 " />
+	<area shape="poly" coords="222,505,227,505,227,513,222,513,227,505,231,505,231,513,227,513" title="Waarde: 0 [kWh] 
+ Uur : 03:00 " alt="Waarde: 0 [kWh] 
+ Uur : 03:00 " />
+	<area shape="poly" coords="214,505,218,505,218,513,214,513,218,505,222,505,222,513,218,513" title="Waarde: 0 [kWh] 
+ Uur : 02:45 " alt="Waarde: 0 [kWh] 
+ Uur : 02:45 " />
+	<area shape="poly" coords="205,505,209,505,209,513,205,513,209,505,214,505,214,513,209,513" title="Waarde: 0 [kWh] 
+ Uur : 02:30 " alt="Waarde: 0 [kWh] 
+ Uur : 02:30 " />
+	<area shape="poly" coords="196,505,201,505,201,513,196,513,201,505,205,505,205,513,201,513" title="Waarde: 0 [kWh] 
+ Uur : 02:15 " alt="Waarde: 0 [kWh] 
+ Uur : 02:15 " />
+	<area shape="poly" coords="188,505,192,505,192,513,188,513,192,505,196,505,196,513,192,513" title="Waarde: 0 [kWh] 
+ Uur : 02:00 " alt="Waarde: 0 [kWh] 
+ Uur : 02:00 " />
+	<area shape="poly" coords="179,505,183,505,183,513,179,513,183,505,188,505,188,513,183,513" title="Waarde: 0 [kWh] 
+ Uur : 01:45 " alt="Waarde: 0 [kWh] 
+ Uur : 01:45 " />
+	<area shape="poly" coords="170,505,175,505,175,513,170,513,175,505,179,505,179,513,175,513" title="Waarde: 0 [kWh] 
+ Uur : 01:30 " alt="Waarde: 0 [kWh] 
+ Uur : 01:30 " />
+	<area shape="poly" coords="162,505,166,505,166,513,162,513,166,505,170,505,170,513,166,513" title="Waarde: 0 [kWh] 
+ Uur : 01:15 " alt="Waarde: 0 [kWh] 
+ Uur : 01:15 " />
+	<area shape="poly" coords="153,505,157,505,157,513,153,513,157,505,162,505,162,513,157,513" title="Waarde: 0 [kWh] 
+ Uur : 01:00 " alt="Waarde: 0 [kWh] 
+ Uur : 01:00 " />
+	<area shape="poly" coords="145,505,149,505,149,513,145,513,149,505,153,505,153,513,149,513" title="Waarde: 0 [kWh] 
+ Uur : 00:45 " alt="Waarde: 0 [kWh] 
+ Uur : 00:45 " />
+	<area shape="poly" coords="136,505,140,505,140,513,136,513,140,505,145,505,145,513,140,513" title="Waarde: 0 [kWh] 
+ Uur : 00:30 " alt="Waarde: 0 [kWh] 
+ Uur : 00:30 " />
+	<area shape="poly" coords="132,505,136,505,136,513,132,513" title="Waarde: 0 [kWh] 
+ Uur : 00:15 " alt="Waarde: 0 [kWh] 
+ Uur : 00:15 " />
+	<area shape="poly" coords="939,504,943,504,943,514,939,514" title="Waarde: 0 [W] 
+ Uur : 23:45 " alt="Waarde: 0 [W] 
+ Uur : 23:45 " />
+	<area shape="poly" coords="930,504,934,504,934,514,930,514,934,504,939,504,939,514,934,514" title="Waarde: 0 [W] 
+ Uur : 23:30 " alt="Waarde: 0 [W] 
+ Uur : 23:30 " />
+	<area shape="poly" coords="921,504,926,504,926,514,921,514,926,504,930,504,930,514,926,514" title="Waarde: 0 [W] 
+ Uur : 23:15 " alt="Waarde: 0 [W] 
+ Uur : 23:15 " />
+	<area shape="poly" coords="913,504,917,504,917,514,913,514,917,504,921,504,921,514,917,514" title="Waarde: 0 [W] 
+ Uur : 23:00 " alt="Waarde: 0 [W] 
+ Uur : 23:00 " />
+	<area shape="poly" coords="904,504,908,504,908,514,904,514,908,504,913,504,913,514,908,514" title="Waarde: 0 [W] 
+ Uur : 22:45 " alt="Waarde: 0 [W] 
+ Uur : 22:45 " />
+	<area shape="poly" coords="895,504,900,504,900,514,895,514,900,504,904,504,904,514,900,514" title="Waarde: 0 [W] 
+ Uur : 22:30 " alt="Waarde: 0 [W] 
+ Uur : 22:30 " />
+	<area shape="poly" coords="887,504,891,504,891,514,887,514,891,504,895,504,895,514,891,514" title="Waarde: 0 [W] 
+ Uur : 22:15 " alt="Waarde: 0 [W] 
+ Uur : 22:15 " />
+	<area shape="poly" coords="878,504,882,504,882,514,878,514,882,504,887,504,887,514,882,514" title="Waarde: 0 [W] 
+ Uur : 22:00 " alt="Waarde: 0 [W] 
+ Uur : 22:00 " />
+	<area shape="poly" coords="869,504,874,504,874,514,869,514,874,504,878,504,878,514,874,514" title="Waarde: 0 [W] 
+ Uur : 21:45 " alt="Waarde: 0 [W] 
+ Uur : 21:45 " />
+	<area shape="poly" coords="861,504,865,504,865,514,861,514,865,504,869,504,869,514,865,514" title="Waarde: 0 [W] 
+ Uur : 21:30 " alt="Waarde: 0 [W] 
+ Uur : 21:30 " />
+	<area shape="poly" coords="852,504,857,504,857,514,852,514,857,504,861,504,861,514,857,514" title="Waarde: 0 [W] 
+ Uur : 21:15 " alt="Waarde: 0 [W] 
+ Uur : 21:15 " />
+	<area shape="poly" coords="844,504,848,504,848,514,844,514,848,504,852,504,852,514,848,514" title="Waarde: 0 [W] 
+ Uur : 21:00 " alt="Waarde: 0 [W] 
+ Uur : 21:00 " />
+	<area shape="poly" coords="835,504,839,504,839,514,835,514,839,504,844,504,844,514,839,514" title="Waarde: 0 [W] 
+ Uur : 20:45 " alt="Waarde: 0 [W] 
+ Uur : 20:45 " />
+	<area shape="poly" coords="826,504,831,504,831,514,826,514,831,504,835,504,835,514,831,514" title="Waarde: 0 [W] 
+ Uur : 20:30 " alt="Waarde: 0 [W] 
+ Uur : 20:30 " />
+	<area shape="poly" coords="818,504,822,504,822,514,818,514,822,504,826,504,826,514,822,514" title="Waarde: 0 [W] 
+ Uur : 20:15 " alt="Waarde: 0 [W] 
+ Uur : 20:15 " />
+	<area shape="poly" coords="809,504,813,504,813,514,809,514,813,504,818,504,818,514,813,514" title="Waarde: 0 [W] 
+ Uur : 20:00 " alt="Waarde: 0 [W] 
+ Uur : 20:00 " />
+	<area shape="poly" coords="800,504,805,504,805,514,800,514,805,504,809,504,809,514,805,514" title="Waarde: 0 [W] 
+ Uur : 19:45 " alt="Waarde: 0 [W] 
+ Uur : 19:45 " />
+	<area shape="poly" coords="792,504,796,504,796,514,792,514,796,504,800,504,800,514,796,514" title="Waarde: 0 [W] 
+ Uur : 19:30 " alt="Waarde: 0 [W] 
+ Uur : 19:30 " />
+	<area shape="poly" coords="783,504,787,504,787,514,783,514,787,504,792,504,792,514,787,514" title="Waarde: 0 [W] 
+ Uur : 19:15 " alt="Waarde: 0 [W] 
+ Uur : 19:15 " />
+	<area shape="poly" coords="775,504,779,504,779,514,775,514,779,504,783,504,783,514,779,514" title="Waarde: 0 [W] 
+ Uur : 19:00 " alt="Waarde: 0 [W] 
+ Uur : 19:00 " />
+	<area shape="poly" coords="766,504,770,504,770,514,766,514,770,504,775,504,775,514,770,514" title="Waarde: 0 [W] 
+ Uur : 18:45 " alt="Waarde: 0 [W] 
+ Uur : 18:45 " />
+	<area shape="poly" coords="757,504,762,504,762,514,757,514,762,504,766,504,766,514,762,514" title="Waarde: 0 [W] 
+ Uur : 18:30 " alt="Waarde: 0 [W] 
+ Uur : 18:30 " />
+	<area shape="poly" coords="749,504,753,504,753,514,749,514,753,504,757,504,757,514,753,514" title="Waarde: 0 [W] 
+ Uur : 18:15 " alt="Waarde: 0 [W] 
+ Uur : 18:15 " />
+	<area shape="poly" coords="740,504,744,504,744,514,740,514,744,504,749,504,749,514,744,514" title="Waarde: 0 [W] 
+ Uur : 18:00 " alt="Waarde: 0 [W] 
+ Uur : 18:00 " />
+	<area shape="poly" coords="731,504,736,504,736,514,731,514,736,504,740,504,740,514,736,514" title="Waarde: 0 [W] 
+ Uur : 17:45 " alt="Waarde: 0 [W] 
+ Uur : 17:45 " />
+	<area shape="poly" coords="723,504,727,504,727,514,723,514,727,504,731,504,731,514,727,514" title="Waarde: 0 [W] 
+ Uur : 17:30 " alt="Waarde: 0 [W] 
+ Uur : 17:30 " />
+	<area shape="poly" coords="714,502,718,504,718,514,714,512,718,504,723,504,723,514,718,514" title="Waarde: 0 [W] 
+ Uur : 17:15 " alt="Waarde: 0 [W] 
+ Uur : 17:15 " />
+	<area shape="poly" coords="706,499,710,501,710,511,706,509,710,501,714,502,714,512,710,511" title="Waarde: 16 [W] 
+ Uur : 17:00 " alt="Waarde: 16 [W] 
+ Uur : 17:00 " />
+	<area shape="poly" coords="697,494,701,496,701,506,697,504,701,496,706,499,706,509,701,506" title="Waarde: 48 [W] 
+ Uur : 16:45 " alt="Waarde: 48 [W] 
+ Uur : 16:45 " />
+	<area shape="poly" coords="688,489,693,492,693,502,688,499,693,492,697,494,697,504,693,502" title="Waarde: 72 [W] 
+ Uur : 16:30 " alt="Waarde: 72 [W] 
+ Uur : 16:30 " />
+	<area shape="poly" coords="675,481,679,491,689,491,685,481,684,486,688,489,688,499,684,496" title="Waarde: 112 [W] 
+ Uur : 16:15 " alt="Waarde: 112 [W] 
+ Uur : 16:15 " />
+	<area shape="poly" coords="666,459,670,470,680,470,676,459,670,470,675,481,685,481,680,470" title="Waarde: 240 [W] 
+ Uur : 16:00 " alt="Waarde: 240 [W] 
+ Uur : 16:00 " />
+	<area shape="poly" coords="657,438,662,448,672,448,667,438,662,448,666,459,676,459,672,448" title="Waarde: 380 [W] 
+ Uur : 15:45 " alt="Waarde: 380 [W] 
+ Uur : 15:45 " />
+	<area shape="poly" coords="649,413,653,429,663,429,659,413,653,429,657,438,667,438,663,429" title="Waarde: 496 [W] 
+ Uur : 15:30 " alt="Waarde: 496 [W] 
+ Uur : 15:30 " />
+	<area shape="poly" coords="640,380,644,396,654,396,650,380,644,396,649,413,659,413,654,396" title="Waarde: 700 [W] 
+ Uur : 15:15 " alt="Waarde: 700 [W] 
+ Uur : 15:15 " />
+	<area shape="poly" coords="631,344,636,363,646,363,641,344,636,363,640,380,650,380,646,363" title="Waarde: 908 [W] 
+ Uur : 15:00 " alt="Waarde: 908 [W] 
+ Uur : 15:00 " />
+	<area shape="poly" coords="623,319,627,325,637,325,633,319,627,325,631,344,641,344,637,325" title="Waarde: 1148 [W] 
+ Uur : 14:45 " alt="Waarde: 1148 [W] 
+ Uur : 14:45 " />
+	<area shape="poly" coords="614,296,619,314,629,314,624,296,619,314,623,319,633,319,629,314" title="Waarde: 1216 [W] 
+ Uur : 14:30 " alt="Waarde: 1216 [W] 
+ Uur : 14:30 " />
+	<area shape="poly" coords="606,261,610,278,620,278,616,261,610,278,614,296,624,296,620,278" title="Waarde: 1436 [W] 
+ Uur : 14:15 " alt="Waarde: 1436 [W] 
+ Uur : 14:15 " />
+	<area shape="poly" coords="602,238,606,239,606,249,602,248,601,244,606,261,616,261,611,244" title="Waarde: 1652 [W] 
+ Uur : 14:00 " alt="Waarde: 1652 [W] 
+ Uur : 14:00 " />
+	<area shape="poly" coords="588,252,593,242,603,242,598,252,598,237,602,238,602,248,598,247" title="Waarde: 1660 [W] 
+ Uur : 13:45 " alt="Waarde: 1660 [W] 
+ Uur : 13:45 " />
+	<area shape="poly" coords="580,221,584,261,594,261,590,221,584,261,588,252,598,252,594,261" title="Waarde: 1544 [W] 
+ Uur : 13:30 " alt="Waarde: 1544 [W] 
+ Uur : 13:30 " />
+	<area shape="poly" coords="571,176,575,181,585,181,581,176,575,181,580,221,590,221,585,181" title="Waarde: 2044 [W] 
+ Uur : 13:15 " alt="Waarde: 2044 [W] 
+ Uur : 13:15 " />
+	<area shape="poly" coords="562,166,567,171,577,171,572,166,567,171,571,176,581,176,577,171" title="Waarde: 2108 [W] 
+ Uur : 13:00 " alt="Waarde: 2108 [W] 
+ Uur : 13:00 " />
+	<area shape="poly" coords="554,133,558,162,568,162,564,133,558,162,562,166,572,166,568,162" title="Waarde: 2164 [W] 
+ Uur : 12:45 " alt="Waarde: 2164 [W] 
+ Uur : 12:45 " />
+	<area shape="poly" coords="545,129,549,105,559,105,555,129,549,105,554,133,564,133,559,105" title="Waarde: 2516 [W] 
+ Uur : 12:30 " alt="Waarde: 2516 [W] 
+ Uur : 12:30 " />
+	<area shape="poly" coords="542,148,546,148,546,158,542,158,541,153,545,129,555,129,551,153" title="Waarde: 2220 [W] 
+ Uur : 12:15 " alt="Waarde: 2220 [W] 
+ Uur : 12:15 " />
+	<area shape="poly" coords="528,148,532,154,542,154,538,148,537,149,542,148,542,158,537,159" title="Waarde: 2212 [W] 
+ Uur : 12:00 " alt="Waarde: 2212 [W] 
+ Uur : 12:00 " />
+	<area shape="poly" coords="519,200,524,142,534,142,529,200,524,142,528,148,538,148,534,142" title="Waarde: 2284 [W] 
+ Uur : 11:45 " alt="Waarde: 2284 [W] 
+ Uur : 11:45 " />
+	<area shape="poly" coords="511,291,515,258,525,258,521,291,515,258,519,200,529,200,525,258" title="Waarde: 1560 [W] 
+ Uur : 11:30 " alt="Waarde: 1560 [W] 
+ Uur : 11:30 " />
+	<area shape="poly" coords="502,339,506,324,516,324,512,339,506,324,511,291,521,291,516,324" title="Waarde: 1152 [W] 
+ Uur : 11:15 " alt="Waarde: 1152 [W] 
+ Uur : 11:15 " />
+	<area shape="poly" coords="493,394,498,353,508,353,503,394,498,353,502,339,512,339,508,353" title="Waarde: 968 [W] 
+ Uur : 11:00 " alt="Waarde: 968 [W] 
+ Uur : 11:00 " />
+	<area shape="poly" coords="485,448,489,434,499,434,495,448,489,434,493,394,503,394,499,434" title="Waarde: 468 [W] 
+ Uur : 10:45 " alt="Waarde: 468 [W] 
+ Uur : 10:45 " />
+	<area shape="poly" coords="476,471,480,463,490,463,486,471,480,463,485,448,495,448,490,463" title="Waarde: 284 [W] 
+ Uur : 10:30 " alt="Waarde: 284 [W] 
+ Uur : 10:30 " />
+	<area shape="poly" coords="472,475,477,473,477,483,472,485,472,478,476,471,486,471,482,478" title="Waarde: 192 [W] 
+ Uur : 10:15 " alt="Waarde: 192 [W] 
+ Uur : 10:15 " />
+	<area shape="poly" coords="459,488,463,482,473,482,469,488,468,477,472,475,472,485,468,487" title="Waarde: 168 [W] 
+ Uur : 10:00 " alt="Waarde: 168 [W] 
+ Uur : 10:00 " />
+	<area shape="poly" coords="450,501,455,494,465,494,460,501,455,494,459,488,469,488,465,494" title="Waarde: 92 [W] 
+ Uur : 09:45 " alt="Waarde: 92 [W] 
+ Uur : 09:45 " />
+	<area shape="poly" coords="447,504,451,504,451,514,447,514,446,509,450,501,460,501,456,509" title="Waarde: 0 [W] 
+ Uur : 09:30 " alt="Waarde: 0 [W] 
+ Uur : 09:30 " />
+	<area shape="poly" coords="438,504,442,504,442,514,438,514,442,504,447,504,447,514,442,514" title="Waarde: 0 [W] 
+ Uur : 09:15 " alt="Waarde: 0 [W] 
+ Uur : 09:15 " />
+	<area shape="poly" coords="429,504,434,504,434,514,429,514,434,504,438,504,438,514,434,514" title="Waarde: 0 [W] 
+ Uur : 09:00 " alt="Waarde: 0 [W] 
+ Uur : 09:00 " />
+	<area shape="poly" coords="421,504,425,504,425,514,421,514,425,504,429,504,429,514,425,514" title="Waarde: 0 [W] 
+ Uur : 08:45 " alt="Waarde: 0 [W] 
+ Uur : 08:45 " />
+	<area shape="poly" coords="412,504,416,504,416,514,412,514,416,504,421,504,421,514,416,514" title="Waarde: 0 [W] 
+ Uur : 08:30 " alt="Waarde: 0 [W] 
+ Uur : 08:30 " />
+	<area shape="poly" coords="403,504,408,504,408,514,403,514,408,504,412,504,412,514,408,514" title="Waarde: 0 [W] 
+ Uur : 08:15 " alt="Waarde: 0 [W] 
+ Uur : 08:15 " />
+	<area shape="poly" coords="395,504,399,504,399,514,395,514,399,504,403,504,403,514,399,514" title="Waarde: 0 [W] 
+ Uur : 08:00 " alt="Waarde: 0 [W] 
+ Uur : 08:00 " />
+	<area shape="poly" coords="386,504,391,504,391,514,386,514,391,504,395,504,395,514,391,514" title="Waarde: 0 [W] 
+ Uur : 07:45 " alt="Waarde: 0 [W] 
+ Uur : 07:45 " />
+	<area shape="poly" coords="378,504,382,504,382,514,378,514,382,504,386,504,386,514,382,514" title="Waarde: 0 [W] 
+ Uur : 07:30 " alt="Waarde: 0 [W] 
+ Uur : 07:30 " />
+	<area shape="poly" coords="369,504,373,504,373,514,369,514,373,504,378,504,378,514,373,514" title="Waarde: 0 [W] 
+ Uur : 07:15 " alt="Waarde: 0 [W] 
+ Uur : 07:15 " />
+	<area shape="poly" coords="360,504,365,504,365,514,360,514,365,504,369,504,369,514,365,514" title="Waarde: 0 [W] 
+ Uur : 07:00 " alt="Waarde: 0 [W] 
+ Uur : 07:00 " />
+	<area shape="poly" coords="352,504,356,504,356,514,352,514,356,504,360,504,360,514,356,514" title="Waarde: 0 [W] 
+ Uur : 06:45 " alt="Waarde: 0 [W] 
+ Uur : 06:45 " />
+	<area shape="poly" coords="343,504,347,504,347,514,343,514,347,504,352,504,352,514,347,514" title="Waarde: 0 [W] 
+ Uur : 06:30 " alt="Waarde: 0 [W] 
+ Uur : 06:30 " />
+	<area shape="poly" coords="334,504,339,504,339,514,334,514,339,504,343,504,343,514,339,514" title="Waarde: 0 [W] 
+ Uur : 06:15 " alt="Waarde: 0 [W] 
+ Uur : 06:15 " />
+	<area shape="poly" coords="326,504,330,504,330,514,326,514,330,504,334,504,334,514,330,514" title="Waarde: 0 [W] 
+ Uur : 06:00 " alt="Waarde: 0 [W] 
+ Uur : 06:00 " />
+	<area shape="poly" coords="317,504,321,504,321,514,317,514,321,504,326,504,326,514,321,514" title="Waarde: 0 [W] 
+ Uur : 05:45 " alt="Waarde: 0 [W] 
+ Uur : 05:45 " />
+	<area shape="poly" coords="309,504,313,504,313,514,309,514,313,504,317,504,317,514,313,514" title="Waarde: 0 [W] 
+ Uur : 05:30 " alt="Waarde: 0 [W] 
+ Uur : 05:30 " />
+	<area shape="poly" coords="300,504,304,504,304,514,300,514,304,504,309,504,309,514,304,514" title="Waarde: 0 [W] 
+ Uur : 05:15 " alt="Waarde: 0 [W] 
+ Uur : 05:15 " />
+	<area shape="poly" coords="291,504,296,504,296,514,291,514,296,504,300,504,300,514,296,514" title="Waarde: 0 [W] 
+ Uur : 05:00 " alt="Waarde: 0 [W] 
+ Uur : 05:00 " />
+	<area shape="poly" coords="283,504,287,504,287,514,283,514,287,504,291,504,291,514,287,514" title="Waarde: 0 [W] 
+ Uur : 04:45 " alt="Waarde: 0 [W] 
+ Uur : 04:45 " />
+	<area shape="poly" coords="274,504,278,504,278,514,274,514,278,504,283,504,283,514,278,514" title="Waarde: 0 [W] 
+ Uur : 04:30 " alt="Waarde: 0 [W] 
+ Uur : 04:30 " />
+	<area shape="poly" coords="265,504,270,504,270,514,265,514,270,504,274,504,274,514,270,514" title="Waarde: 0 [W] 
+ Uur : 04:15 " alt="Waarde: 0 [W] 
+ Uur : 04:15 " />
+	<area shape="poly" coords="257,504,261,504,261,514,257,514,261,504,265,504,265,514,261,514" title="Waarde: 0 [W] 
+ Uur : 04:00 " alt="Waarde: 0 [W] 
+ Uur : 04:00 " />
+	<area shape="poly" coords="248,504,252,504,252,514,248,514,252,504,257,504,257,514,252,514" title="Waarde: 0 [W] 
+ Uur : 03:45 " alt="Waarde: 0 [W] 
+ Uur : 03:45 " />
+	<area shape="poly" coords="239,504,244,504,244,514,239,514,244,504,248,504,248,514,244,514" title="Waarde: 0 [W] 
+ Uur : 03:30 " alt="Waarde: 0 [W] 
+ Uur : 03:30 " />
+	<area shape="poly" coords="231,504,235,504,235,514,231,514,235,504,239,504,239,514,235,514" title="Waarde: 0 [W] 
+ Uur : 03:15 " alt="Waarde: 0 [W] 
+ Uur : 03:15 " />
+	<area shape="poly" coords="222,504,227,504,227,514,222,514,227,504,231,504,231,514,227,514" title="Waarde: 0 [W] 
+ Uur : 03:00 " alt="Waarde: 0 [W] 
+ Uur : 03:00 " />
+	<area shape="poly" coords="214,504,218,504,218,514,214,514,218,504,222,504,222,514,218,514" title="Waarde: 0 [W] 
+ Uur : 02:45 " alt="Waarde: 0 [W] 
+ Uur : 02:45 " />
+	<area shape="poly" coords="205,504,209,504,209,514,205,514,209,504,214,504,214,514,209,514" title="Waarde: 0 [W] 
+ Uur : 02:30 " alt="Waarde: 0 [W] 
+ Uur : 02:30 " />
+	<area shape="poly" coords="196,504,201,504,201,514,196,514,201,504,205,504,205,514,201,514" title="Waarde: 0 [W] 
+ Uur : 02:15 " alt="Waarde: 0 [W] 
+ Uur : 02:15 " />
+	<area shape="poly" coords="188,504,192,504,192,514,188,514,192,504,196,504,196,514,192,514" title="Waarde: 0 [W] 
+ Uur : 02:00 " alt="Waarde: 0 [W] 
+ Uur : 02:00 " />
+	<area shape="poly" coords="179,504,183,504,183,514,179,514,183,504,188,504,188,514,183,514" title="Waarde: 0 [W] 
+ Uur : 01:45 " alt="Waarde: 0 [W] 
+ Uur : 01:45 " />
+	<area shape="poly" coords="170,504,175,504,175,514,170,514,175,504,179,504,179,514,175,514" title="Waarde: 0 [W] 
+ Uur : 01:30 " alt="Waarde: 0 [W] 
+ Uur : 01:30 " />
+	<area shape="poly" coords="162,504,166,504,166,514,162,514,166,504,170,504,170,514,166,514" title="Waarde: 0 [W] 
+ Uur : 01:15 " alt="Waarde: 0 [W] 
+ Uur : 01:15 " />
+	<area shape="poly" coords="153,504,157,504,157,514,153,514,157,504,162,504,162,514,157,514" title="Waarde: 0 [W] 
+ Uur : 01:00 " alt="Waarde: 0 [W] 
+ Uur : 01:00 " />
+	<area shape="poly" coords="145,504,149,504,149,514,145,514,149,504,153,504,153,514,149,514" title="Waarde: 0 [W] 
+ Uur : 00:45 " alt="Waarde: 0 [W] 
+ Uur : 00:45 " />
+	<area shape="poly" coords="136,504,140,504,140,514,136,514,140,504,145,504,145,514,140,514" title="Waarde: 0 [W] 
+ Uur : 00:30 " alt="Waarde: 0 [W] 
+ Uur : 00:30 " />
+	<area shape="poly" coords="132,504,136,504,136,514,132,514" title="Waarde: 0 [W] 
+ Uur : 00:15 " alt="Waarde: 0 [W] 
+ Uur : 00:15 " />
+</map>
+                            </div>
+
+                            |0|hiddenField|__EVENTTARGET||0|hiddenField|__EVENTARGUMENT||0|hiddenField|__LASTFOCUS||1984|hiddenField|__VIEWSTATE|/wEPDwUJNDM3Mzg1MzQzD2QWAmYPZBYCAgMPZBYCAgUPZBYSAgEPDxYCHgdWaXNpYmxlaGRkAgUPDxYCHgRUZXh0BQYxMDU5NTBkZAIHDw8WAh8BBQxWYW5kZW5iZXJnZW5kZAIJDw8WAh8BBQRHZW50ZGQCCw8PFgIfAQUHQmVsZ2nDq2RkAg0PFgIfAGhkAg8PZBYOAgEPDxYCHwEFBElub3hkZAIDDw8WAh8BBQUtNDDCsGRkAgUPDxYCHwEFBDQ1wrBkZAIHDw8WAh8BBQczNzAwIFdwZGQCCQ8PFgIfAQUKMDcvMDkvMjAxMWRkAgsPPCsAEQMADxYEHgtfIURhdGFCb3VuZGceC18hSXRlbUNvdW50AgFkARAWABYAFgAMFCsAABYCZg9kFgQCAQ9kFgRmDw8WAh8BBQIyMGRkAgEPDxYCHwEFDlVwc29sYXIgMTg1IFdwZGQCAg8PFgIfAGhkZAIPDzwrABEDAA8WBB8CZx8DAgFkARAWABYAFgAMFCsAABYCZg9kFgQCAQ9kFgRmDw8WAh8BBQExZGQCAQ8PFgIfAQUQRnJvbml1cyBJRys1MFYtMWRkAgIPDxYCHwBoZGQCEQ9kFgJmD2QWBAIBDw8WAh4ISW1hZ2VVcmwFIFVwbG9hZC91c2VyMTcyL2dmeC9waG90b0luc3QuanBnZGQCAw9kFgQCBw8PFgIfBAUwfi9zbWFydENvbnRyb2wvQ291bnRlckltYWdlUmVkLmFzcHg/bnVtYmVyPTEwODY3ZGQCEA8PFgIfBAUxfi9zbWFydENvbnRyb2wvQ291bnRlckltYWdlR3JlZW4uYXNweD9udW1iZXI9NjUyMGRkAhMPZBYGZg9kFgICAQ9kFgICAQ9kFgJmD2QWAgIDDw8WAh8BBQoyMC8wMS8yMDE1ZGQCAQ9kFgICAQ9kFgICAQ9kFgJmD2QWBAIDDxBkDxYFZgIBAgICAwIEFgUQBQQyMDExBQQyMDExZxAFBDIwMTIFBDIwMTJnEAUEMjAxMwUEMjAxM2cQBQQyMDE0BQQyMDE0ZxAFBDIwMTUFBDIwMTVnFgECBGQCBQ8QZGQWAWZkAgIPZBYCAgEPZBYCAgEPZBYCZg9kFgICAQ8QZA8WBWYCAQICAgMCBBYFEAUEMjAxMQUEMjAxMWcQBQQyMDEyBQQyMDEyZxAFBDIwMTMFBDIwMTNnEAUEMjAxNAUEMjAxNGcQBQQyMDE1BQQyMDE1ZxYBAgRkGAQFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYGBSxjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJGJ0bkFkdmVuY2VkT3B0aW9ucwUnY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRUYWJDb250YWluZXIxBT5jdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJFRhYkNvbnRhaW5lcjEkVGFiUGFuZWwxJEltYWdlQnV0dG9uMgU+Y3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRUYWJDb250YWluZXIxJFRhYlBhbmVsMSRJbWFnZUJ1dHRvbjMFOmN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkVGFiQ29udGFpbmVyMSRUYWJQYW5lbDIkYnV0dG9uMTUFPmN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkVGFiQ29udGFpbmVyMSRUYWJQYW5lbDIkSW1hZ2VCdXR0b24xBSdjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJFRhYkNvbnRhaW5lcjEPD2RmZAUjY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRHcmlkVmlldzIPPCsADAEIAgFkBSNjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJEdyaWRWaWV3MQ88KwAMAQgCAWSL3SPdZ9UrhpZ9kzgDSgAbob7RC3WxZ3KKt5QuBNsiYg==|8|hiddenField|__VIEWSTATEGENERATOR|51F935BF|796|hiddenField|__EVENTVALIDATION|/wEdACPlBc00VR4vRuo5Qt8L+1/8xSb5NJ8gLb1vdzWjm/4hHMq+NdzEyoFHLKItxbqmu++MO7fmjkJSfq6Zbgk2kTWnUUazXO8Sg+7X5KxpBPVfPMwaM0b8u7mWw4PZAxjjB0VWAp55qjpUdDpPKZchxzpDXQPnw3cUVUqlKbftJZb7T11paFz5td2BfzMaYdjMueHSczSL5bOMN+PwA8Fd/yizgHOCSupGsvC4cGgSEeIbJpRIB5NTMMMfebTUgGD69Ux0m6snXt4BSBAMvjEDWpkWdMkTSUt3IfVbpaddWIlvi2wnbrLsaJcVNOa9xgCWzPxwqKWiSY+CRMQAbiJYUcAVL0S+OPxG7+woC3raaF4f+KDwI4Ed+HEcYC2l3MAPfgVaI0kA2CJKhfSriGDR7WOCfJEZfAp4SFzs7DICYLQ06r2KsjXNkQdrtADh/9NONucr5cmGajQMFL8/oydnC5urBg5GmeEmdNluFzd/xen94048JIcPTxSFp8ojBGrOk5wyd5x0INQkPS5359ZZVuRpEzjc5yFSduh365OXBLSjmGSSARLyOltffFOLoT8QlF0LBQ1VlMctJaqnboVnij99Jw8d+bjvy3URQHg24sfuPEDyGHeE9aAvrnmiuZ5sYNfiNEACxyh6qZF6of8L4ltvZpbexlTFalQJj3yT7sqbyepsq+xwkme3jyK5bf2eyo1qEfqgxR7DIpUzOrZvvCiloK9FEakmaCTbZME+9jPbFgKBjtp31jqXoVUMoPDNeEbB+afaqU2N+Xrlv9Z1bMFx|0|asyncPostBackControlIDs|||0|postBackControlIDs|||417|updatePanelIDs||tctl00$ContentPlaceHolder1$sdfs,ContentPlaceHolder1_sdfs,tctl00$ContentPlaceHolder1$TabContainer1$TabPanel1$DayChartPanel,ContentPlaceHolder1_TabContainer1_TabPanel1_DayChartPanel,tctl00$ContentPlaceHolder1$TabContainer1$TabPanel2$PanelMonth,ContentPlaceHolder1_TabContainer1_TabPanel2_PanelMonth,tctl00$ContentPlaceHolder1$TabContainer1$TabPanel3$UpdatePanel2,ContentPlaceHolder1_TabContainer1_TabPanel3_UpdatePanel2|0|childUpdatePanelIDs|||177|panelsToRefreshIDs||ctl00$ContentPlaceHolder1$sdfs,ContentPlaceHolder1_sdfs,ctl00$ContentPlaceHolder1$TabContainer1$TabPanel1$DayChartPanel,ContentPlaceHolder1_TabContainer1_TabPanel1_DayChartPanel|2|asyncPostBackTimeout||90|59|formAction||UserOverview.aspx?Guid=08d4903e-2eb8-4d40-8723-2876f6e5ee05|1083|scriptBlock|ScriptContentNoTags|if (window.__ExtendedControlCssLoaded == null || typeof window.__ExtendedControlCssLoaded == 'undefined') {    window.__ExtendedControlCssLoaded = new Array();}var controlCssLoaded = window.__ExtendedControlCssLoaded; var head = document.getElementsByTagName('HEAD')[0];if (head && !Array.contains(controlCssLoaded,'/WebResource.axd?d=T75zkSMBRaYX7UcvxvyU5g2DCIyKzqXsoKBWsh2bXMV1yfhmlfqwOV39edKS_y1YyzKIiCYbi2I9w6pCP7BGKjnpp0RZ0e_CXYkjju6SPw00jAl18qhUyFjPGNAeTAlNboyzLVDrCHz4d08s0SBWNQ2&t=634423457661988877')) {var linkElement = document.createElement('link');linkElement.type = 'text/css';linkElement.rel = 'stylesheet';linkElement.href = '/WebResource.axd?d=T75zkSMBRaYX7UcvxvyU5g2DCIyKzqXsoKBWsh2bXMV1yfhmlfqwOV39edKS_y1YyzKIiCYbi2I9w6pCP7BGKjnpp0RZ0e_CXYkjju6SPw00jAl18qhUyFjPGNAeTAlNboyzLVDrCHz4d08s0SBWNQ2&t=634423457661988877';head.appendChild(linkElement);controlCssLoaded.push('/WebResource.axd?d=T75zkSMBRaYX7UcvxvyU5g2DCIyKzqXsoKBWsh2bXMV1yfhmlfqwOV39edKS_y1YyzKIiCYbi2I9w6pCP7BGKjnpp0RZ0e_CXYkjju6SPw00jAl18qhUyFjPGNAeTAlNboyzLVDrCHz4d08s0SBWNQ2&t=634423457661988877');}|89|scriptBlock|ScriptPath|/UserOverview.aspx?_TSM_HiddenField_=ScriptManager1_HiddenField&_TSM_CombinedScripts_=%3b|441|scriptStartupBlock|ScriptContentNoTags|Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","CancelControlID":"ContentPlaceHolder1_btnCancel","PopupControlID":"ContentPlaceHolder1_panEdit2","PopupDragHandleControlID":"ContentPlaceHolder1_panEdit2","dynamicServicePath":"/UserOverview.aspx","id":"ContentPlaceHolder1_ModalPopupExtender1"}, null, null, $get("ContentPlaceHolder1_btnAdvencedOptions"));
+});
+|262|scriptStartupBlock|ScriptContentNoTags|Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.CalendarBehavior, {"format":"dd/MM/yyyy","id":"ContentPlaceHolder1_TabContainer1_TabPanel1_calendear"}, null, null, $get("ContentPlaceHolder1_TabContainer1_TabPanel1_currentDateTextBox"));
+});
+|
