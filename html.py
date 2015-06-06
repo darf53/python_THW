@@ -10,5 +10,11 @@ print response.info()
 data = response.read()
 tree = lxml.html.fromstring(data)
 links = tree.xpath('//article/div/a/@href')
+images = tree.xpath('//article/div/a/div/img/@src')
+descriptions = tree.xpath('//article/div/a/div/div/p/@itemprop')
 
+for link in links:
+	print link
 
+for image in images:
+	print image
