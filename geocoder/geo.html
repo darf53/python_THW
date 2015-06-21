@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?region=BE"></script>
+<script>
+
+function initialize() {
+
+  var myLatlng = new google.maps.LatLng(51.0824401,3.714485);
+
+  var image = 'images/242239229.jpg';
+
+  var contentString = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">VW</h1>'+
+      '<div id="bodyContent">'+
+      '<p>Attribution: Uluru, <a href="http://www.2dehands.be/autos/volkswagen/t1/vw-t1-combi-split-1959-242239229.html">'+
+      'vw-t1-combi-split-1959-242239229</a> '+
+      '</p>'+
+      '</div>'+
+      '</div>';
+
+
+  var mapProp = {
+    center:myLatlng,
+    zoom:10,
+    mapTypeId:google.maps.MapTypeId.ROADMAP
+  };
+
+  var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
+
+  var infowindow = new google.maps.InfoWindow({
+      content: contentString
+  });
+
+  
+  var marker = new google.maps.Marker({
+      position: myLatlng,
+      map: map,
+      title: 'Hello World!',
+      icon: image
+  });
+
+  google.maps.event.addListener(marker, 'click', function() {
+    infowindow.open(map,marker);
+  });
+
+}
+google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+</head>
+
+<body>
+<div id="googleMap" style="width:500px;height:500px;"></div>
+</body>
+
+</html> 	
