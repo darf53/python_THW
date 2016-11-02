@@ -23,4 +23,5 @@ def values():
   response = urllib2.urlopen(http)
   data = json.load(response)
 
-  return(data["current_observation"]["temp_c"], data["current_observation"]["relative_humidity"].strip('%'))
+  return(data["current_observation"]["temp_c"], int(data["current_observation"]["relative_humidity"].strip('%')))
+  
