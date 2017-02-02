@@ -3,16 +3,21 @@ db = influxdb.InfluxDBClient(host='127.0.0.1', port=8086, username='rpi', passwo
 
 def upload(temp, tempOut, humOut):
     data = [
-      {"points":[[temp,tempOut]],
-       "name":"temperature",
-       "columns":["internal", "external"]
+      {
+	"measurement": "temperature",
+	"fields": {
+	   "internal": temp,
+	   "external": tempOut
+	}
       }
     ]
     db.write_points(data)
     data2 = [
-      {"points":[[humOut]],
-       "name":"Humidity",
-       "columns":["external"]
+      {
+        "measurement": "humidity",
+        "fields": {
+           "external": humOut
+        }
       }
     ]
     db.write_points(data2)
