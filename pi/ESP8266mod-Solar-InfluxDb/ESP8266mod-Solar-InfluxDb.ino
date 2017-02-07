@@ -80,16 +80,17 @@ void loop() {
   int count=0;
   int var = 0;
 
-  // we will collect data over a period of 20s (100-var x 200-delay)
-  while(var < 100){
+  // we will collect data over a period of 1m (500-var x 120-delay)
+  // a pulse will last max 120ms
+  while(var < 500){
     pulse = analogRead(A0);
-    //if (pulse > 50) we will count a pulse from pulse meter 
+    //if (pulse brightness > 50) we will count a pulse from pulse meter 
     //Serial.println(pulse);
     if (pulse >50){
       count++;
       //Serial.print(count);
       }  
-    delay(200); //delay on 200ms for as a typical pulse is between 100 and 120ms
+    delay(120); //delay on 200ms for as a typical pulse is between 100 and 120ms
     var++;
     //Serial.print(var);
     //Serial.println("-------------------");
