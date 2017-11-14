@@ -17,5 +17,6 @@ dustParticles = sds011.dust()
 print "adding data to timesdatabase"
 #uploadInflux.upload(strTemp, strTempOut, strHumOut)
 uploadInflux.uploadTemp(round(thermometer.temp("c"),1), tempOutValues[0], tempOutValues[1])
-uploadInflux.uploadDustParticles(dustParticles[0], dustParticles[1])
+if dustParticles:
+  uploadInflux.uploadDustParticles(dustParticles[0], dustParticles[1])
 
