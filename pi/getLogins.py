@@ -1,6 +1,11 @@
+import os
+
+cwd = os.getcwd()
+credentials_dir = cwd + "/../../Credentials"
+
 def getLogins():
 
-  fh = open("/home/pi/Credentials","r")
+  fh = open(credentials_dir,"r")
   credentials = []
 
   for line in fh:
