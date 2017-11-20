@@ -1,3 +1,6 @@
+# to make the graph look nice
+# sending a data point every hour after the sun goes down
+
 import socket
 
 UDP_IP = "192.168.0.223"
