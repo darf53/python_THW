@@ -26,7 +26,7 @@ volatile boolean CS_KWH = false;              // Critical Section for KWH meter 
 void Kirq()
 {
   rpk++;                    // just increment raw pulse counter.
-  if (rpk > 1000000000)     // reset pulse counter after 10e9 pulse = 500.000 KW 
+  if (rpk > 1000000000)     // reset pulse counter after 10e9 pulse = 1000.000 KW 
   {
     if (false == CS_KWH)    // in critical section?  // assumption IRQ-call is handled atomic on arduino.
     {
@@ -40,7 +40,7 @@ void Kirq()
 // returns KWH's since last reset
 float readKWH1()
 {
-  return rpk/2000.0;       // one pulse = 0.5 watt.
+  return rpk/1000.0;       // one pulse = 1 watt.
 }
 
 // returns KWH's since last call
@@ -51,7 +51,7 @@ float readKWH()
       long k = t - rpk_old;    // subtract last measure to get delta
       rpk_old = t;             // remember old value
   CS_KWH = false;          // End Critical Section
-  return k/2000.0;         // return delta, one pulse = 0.5 watt.
+  return k/1000.0;         // return delta, one pulse = 1.0 watt.
 }
 
 //
@@ -70,7 +70,7 @@ void setup()
 //
 void loop() 
 {
-    delay(1000);
+  delay(1000);
   float KWH = readKWH();
   float SUM = readKWH1();
   Serial.print("KWH: ");    
