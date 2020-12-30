@@ -62,7 +62,7 @@ void connect_MQTT(){
 ICACHE_RAM_ATTR void Pulseirq()
 {
   pulse++;                    // just increment raw pulse counter.
-  Serial.print("Falling");Serial.println(pulse);    // Debug to be removed
+  Serial.print("Falling");Serial.println(pulse);    // Debug to be removed in production
 }
 
 void setup() {
@@ -84,12 +84,9 @@ void loop() {
   // signed comparison for proper handling of timer rollover
   if((long)(millis() - rolltime) >= 0) {
 
-   //  Do your five minute roll stuff here
-
-   
-  // Connect to WIFI network
-  connect_MQTT();
-  Serial.setTimeout(2000);
+    // Connect to WIFI network
+    connect_MQTT();
+    Serial.setTimeout(2000);
   
     // Copy Pulse in pulse_tosend variable and reset pulse counter (if send succesfull, reset pulse_tosend)
     //noInterrupts(); Idealy we should block interrupts, but this is not avaible on NodeMCU
