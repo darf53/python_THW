@@ -1,0 +1,25 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  color: white;
+  background-image: radial-gradient(gray, black);
+}
+
+#spel {
+  display: grid;
+  border: 5px #ffffff50 solid;
+  box-sizing: border-box;
+  margin: auto;
+  grid-template-rows: repeat(18, 1fr);
+  grid-template-columns: repeat(12, 1fr);
+  height: 100vh;
+  width: calc(100vh / 18 * 12);
+}
+
+.blokje {
+  border: 0.5vmin solid;
+  box-sizing: border-box;
+  border-color: #ffffff50 #00000050 #00000050 #ffffff50;
+  background-color: gray;
+}
