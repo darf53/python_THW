@@ -1,0 +1,15 @@
+
+
+#NovaLaNuit
+curl -i --header "Content-Type: application/json" localhost:3000/api/v1/replaceAndPlay --data '{ "service": "webradio", "type": "webradio", "title": "Nova%20La%20Nuit", "uri": "http://nova-ln.ice.infomaniak.ch/nova-ln-128", "albumart": "https://www.nova.fr/wp-content/uploads/sites/2/2020/11/Nova-la-nuit.png" }'
+#Radio1
+curl -i --header "Content-Type: application/json" localhost:3000/api/v1/replaceAndPlay --data '{ "service": "webradio", "type": "webradio", "title": "Radio1", "uri": "http://icecast.vrtcdn.be/radio1-high.mp3"}'
+#StuBru
+curl -i --header "Content-Type: application/json" localhost:3000/api/v1/replaceAndPlay --data '{ "service": "webradio", "type": "webradio", "title": "Radio1", "uri": "http://icecast.vrtcdn.be/stubru-high.mp3"}'
+
+Streaming links VRT:
+https://www.vrt.be/nl/aanbod/kijk-en-luister/radio-luisteren/streamingslinks-radio/
+
+Volume aanpassen:
+curl "http://localhost:3000/api/v1/commands/?cmd=volume&volume=plus"
+curl "http://localhost:3000/api/v1/commands/?cmd=volume&volume=minus"

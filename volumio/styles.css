@@ -1,0 +1,17 @@
+p {
+  text-align: center;
+}
+
+#radios {
+  display: flex;
+  flex: 50%;
+  flex-wrap: wrap;
+  width: 320px;
+  justify-content: center;
+}
+
+.radioImg {
+  max-width: 100px;
+  padding: 1px;
+  border-radius: 5%;
+}

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document Javascript Testing</title>
+</head>
+<body>
+  <div id="divResult"></div>
+  <button id="btnPrompt" onclick="toonPrompt();">Voer uw code in</button>
+  <div id="result"></div>
+  <script>
+
+    for (let i in window.navigator) {
+
+      document.getElementById('divResult').innerHTML += i + ': ' + window.navigator[i] + '<br />';
+
+    }
+
+    // function toonPrompt() {
+
+    //   const code = prompt('Vul uw promotie code in', 'uw code');
+    //   const text = "Code entered was" + code;
+    //   document.getElementById('result').innerHTML = text;
+
+    // }
+
+    const oldLogger = function(msg) {
+      console.log(msg);
+    }
+    oldLogger("1. Old Logger used from ES5");
+
+    const newLogger = (msg) => console.log(msg);
+    newLogger("2. NewLogger message in ES6");
+
+    const greeter = (name,age) => {
+      let msg = "hallo" + name + ",you're " + age + " old.";
+      return msg;
+    }
+    console.log(greeter("jef",34));
+
+    //array methods: concat, slice, splice, unshift, shift, pop, push, toString, toLocaleString
+    //advance array methods: map, filter, reduce
+    
+    const myArray = ['red', 'yellow', 'green'];
+    console.log("original array: ", myArray);
+
+    // const myArrayToUpper = myArray.map(function (color){
+    //   return color.toUpperCase();
+    // });
+    const myArrayToUpper = myArray.map(color => color.toUpperCase());
+
+
+    console.log("Mapped array: ", myArrayToUpper);
+
+  </script>
+  
+</body>
+</html>
