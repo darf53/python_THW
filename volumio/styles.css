@@ -4,14 +4,19 @@ p {
 
 #radios {
   display: flex;
-  flex: 50%;
-  flex-wrap: wrap;
-  width: 320px;
+  max-width: 500px;
   justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
 }
 
 .radioImg {
   max-width: 100px;
+  display: flex;
   padding: 1px;
   border-radius: 5%;
+  justify-content: center;
+  align-items: center;
 }
+

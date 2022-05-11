@@ -1,14 +1,4 @@
-import { volumios, radios } from './radios.js';
-//import { volumios } from './radios.js';
-
-// fetch('radios.json')
-//   .then(response => response.json())
-//   .then(data => {
-//     //const radioslist = JSON.parse(data)
-//     console.log(data);
-//     //console.log(typeoff data);
-//     //console.log(radiolist[0]);
-//   });
+import { volumios, radios, volumedict } from './radios.js';
 
 
 // const text = '{"name":"John", "birth":"1986-12-14", "city":"New York"}';
@@ -32,9 +22,10 @@ let radiosJson = JSON.parse(radios);
 const btnBgColor = document.querySelector('#bgColor');
 const btnVolumeUp = document.querySelector('#volumeUp');
 const btnVolumeDown = document.querySelector('#volumeDown');
-const btnRadioNova = document.querySelector('#radioNova');
-const btnRadio1 = document.querySelector('#radio1');
-const btnStuBru = document.querySelector('#stubru');
+const btnStop = document.querySelector('#stop');
+// const btnRadioNova = document.querySelector('#radioNova');
+// const btnRadio1 = document.querySelector('#radio1');
+// const btnStuBru = document.querySelector('#stubru');
 
 //Random number generator
 function random(number) {
@@ -47,24 +38,7 @@ function bgChange() {
   document.body.style.backgroundColor = rndCol;
 }
 
-//Function to select a specific radio station
-function fncRadio(radioData) {
-  var xhr = new XMLHttpRequest();
-  var url = "http://192.168.0.19:3000/api/v1/replaceAndPlay";
-  xhr.open('POST', url);
-  xhr.setRequestHeader('Content-Type', 'application/json');
-  console.log(xhr.status);
-  xhr.onload = () => {
-    console.log(xhr.status);
-    if (xhr.status >= 200 && xhr.status < 300) {
-      var json = JSON.parse(xhr.responseText);
-      console.log(json)
-      }
-  };
-  var data = radioData;
-  console.log(data);
-  xhr.send(data);
-}
+
 
 function fncVolumeUp() {
   var xhr = new XMLHttpRequest();
@@ -82,28 +56,48 @@ function fncVolumeDown() {
   xhr.send();
 }
 
-//Json data for different streaming radio stations
-const radioNova = JSON.stringify(volumios[0]);
-const radio1 = JSON.stringify(volumios[1]);
-const stubru = JSON.stringify(volumios[2]);
+function fncStop() {
+  var xhr = new XMLHttpRequest();
+  var url = "http://192.168.0.19:3000/api/v1/commands/?cmd=stop";
+  xhr.open('GET', url);
+  console.log(xhr.status);
+  xhr.send();
+}
+
+// assigning actions to buttons
 
 btnBgColor.onclick = bgChange;
 btnVolumeUp.onclick = fncVolumeUp;
 btnVolumeDown.onclick = fncVolumeDown;
+btnStop.onclick = fncStop;
 
-btnRadioNova.onclick = function() {
-  fncRadio(radioNova);
-};
-btnRadio1.onclick = function() {
-  fncRadio(radio1);
-};
+// btnRadioNova.onclick = function() {
+//   let radioNova = JSON.stringify(volumios[0]);
+//   fncRadio(radioNova);
+// };
+// btnRadio1.onclick = function() {
+//   let radio1 = JSON.stringify(volumios[1]);
+//   fncRadio(radio1);
+// };
 
-btnStuBru.onclick = function() {
-  fncRadio(stubru);
-};
+// btnStuBru.onclick = function() {
+//   let stubru = JSON.stringify(volumios[2]);
+//   fncRadio(stubru);
+// };
 
 
-var divContainer = document.getElementById('radios');
+// adding all other rdaio buttons to the screen
+const divContainer = document.getElementById('radios');
+
+divContainer.addEventListener('click', (e) => {
+  console.log(e.target.id);
+  let selectedRadio = e.target.id
+  let selectedRadioJson =  JSON.stringify(volumedict[selectedRadio]);
+  console.log(selectedRadioJson)
+  fncRadio(selectedRadioJson);
+
+})
+
 
 //console.log("radiosJson lengte", radiosJson.length);
 
@@ -126,23 +120,68 @@ var divContainer = document.getElementById('radios');
 
 // }
 
-for (var i = 0; i< volumios.length; i++){
+// for radios in dictionary format, looping over each radio
+Object.keys(volumedict).forEach(key => {
+  console.log(key , volumedict[key]) // key , value
 
   var imageDiv = document.createElement('div');
   imageDiv.className="divRadios";
-
   var image = document.createElement('img');
-  if (volumios[i].albumart != ""){
-    image.src=`${volumios[i].albumart}`;
+
+  if (volumedict[key].albumart != ""){
+    image.src=`${volumedict[key].albumart}`;
   } else {
     image.src="images/noImage.jpeg";
   } 
 
+  var radioName = `${volumedict[key].name}`
   image.className="radioImg";
-  //console.log(JSON.stringify(volumios[i]));
-  //image.onclick = fncRadio(JSON.stringify(volumios[i]))
+  image.id=radioName;
 
   imageDiv.appendChild(image);
   divContainer.appendChild(imageDiv);
 
+})
+
+// below code for radios in list form
+// for (var i = 0; i< volumios.length; i++){
+
+//   var imageDiv = document.createElement('div');
+//   imageDiv.className="divRadios";
+
+//   var image = document.createElement('img');
+//   if (volumios[i].albumart != ""){
+//     image.src=`${volumios[i].albumart}`;
+//   } else {
+//     image.src="images/noImage.jpeg";
+//   } 
+
+//   var radioName = `${volumios[i].name}`
+//   image.className="radioImg";
+//   image.id=radioName;
+
+//   imageDiv.appendChild(image);
+//   divContainer.appendChild(imageDiv);
+
+// }
+
+//Function to select a specific radio station
+
+function fncRadio(radioData) {
+  var xhr = new XMLHttpRequest();
+  var url = "http://192.168.0.19:3000/api/v1/replaceAndPlay";
+  xhr.open('POST', url);
+  xhr.setRequestHeader('Content-Type', 'application/json');
+  console.log(xhr.status);
+  xhr.onload = () => {
+    console.log(xhr.status);
+    if (xhr.status >= 200 && xhr.status < 300) {
+      var json = JSON.parse(xhr.responseText);
+      console.log(json)
+      }
+  };
+  var data = radioData;
+  console.log("data: " + data);
+  xhr.send(data);
 }
+// console.log(volumedict['radio1']);
