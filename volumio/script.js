@@ -1,20 +1,5 @@
 import { volumios, radios, volumedict } from './radios.js';
 
-
-// const text = '{"name":"John", "birth":"1986-12-14", "city":"New York"}';
-// const obj = JSON.parse(text);
-// obj.birth = new Date(obj.birth);
-
-// let radios = `[
-//     {
-//         "name":"jef", 
-//         "age":"34"
-//     }, 
-//     {
-//         "name":"kobe", 
-//         "age":"12"
-//     }]`;
-//let radios = '{"name":"jef", "age":"34"}';
 let radiosJson = JSON.parse(radios);
 //console.log(radiosJson[1]);
 
@@ -23,9 +8,13 @@ const btnBgColor = document.querySelector('#bgColor');
 const btnVolumeUp = document.querySelector('#volumeUp');
 const btnVolumeDown = document.querySelector('#volumeDown');
 const btnStop = document.querySelector('#stop');
-// const btnRadioNova = document.querySelector('#radioNova');
-// const btnRadio1 = document.querySelector('#radio1');
-// const btnStuBru = document.querySelector('#stubru');
+
+
+// assigning actions to buttons
+btnBgColor.onclick = bgChange;
+btnVolumeUp.onclick = fncVolumeUp;
+btnVolumeDown.onclick = fncVolumeDown;
+btnStop.onclick = fncStop;
 
 //Random number generator
 function random(number) {
@@ -34,11 +23,9 @@ function random(number) {
 
 //Function to change backgroundcolor to random color
 function bgChange() {
-  const rndCol = 'rgb(' + random (255) + ',' + random(255) + ',' + random(255) + ')';
+  const rndCol = 'rgb(' + random(255) + ',' + random(255) + ',' + random(255) + ')';
   document.body.style.backgroundColor = rndCol;
 }
-
-
 
 function fncVolumeUp() {
   var xhr = new XMLHttpRequest();
@@ -64,38 +51,15 @@ function fncStop() {
   xhr.send();
 }
 
-// assigning actions to buttons
-
-btnBgColor.onclick = bgChange;
-btnVolumeUp.onclick = fncVolumeUp;
-btnVolumeDown.onclick = fncVolumeDown;
-btnStop.onclick = fncStop;
-
-// btnRadioNova.onclick = function() {
-//   let radioNova = JSON.stringify(volumios[0]);
-//   fncRadio(radioNova);
-// };
-// btnRadio1.onclick = function() {
-//   let radio1 = JSON.stringify(volumios[1]);
-//   fncRadio(radio1);
-// };
-
-// btnStuBru.onclick = function() {
-//   let stubru = JSON.stringify(volumios[2]);
-//   fncRadio(stubru);
-// };
-
-
 // adding all other rdaio buttons to the screen
 const divContainer = document.getElementById('radios');
 
 divContainer.addEventListener('click', (e) => {
-  console.log(e.target.id);
+  console.log(e.target);
   let selectedRadio = e.target.id
   let selectedRadioJson =  JSON.stringify(volumedict[selectedRadio]);
   console.log(selectedRadioJson)
   fncRadio(selectedRadioJson);
-
 })
 
 
